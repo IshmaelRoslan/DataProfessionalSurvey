@@ -1,0 +1,3781 @@
+id,aspect,satisfaction
+62a33b3db4da29969c62df3d,rating salary,9
+62a33b3db4da29969c62df3d,rating worklife balance,9
+62a33b3db4da29969c62df3d,rating coworkers,7
+62a33b3db4da29969c62df3d,rating management,5
+62a33b3db4da29969c62df3d,rating upward mobility,5
+62a33b3db4da29969c62df3d,rating learning,7
+62a33ba1bae91e4b8b82e35c,rating salary,1
+62a33ba1bae91e4b8b82e35c,rating worklife balance,2
+62a33ba1bae91e4b8b82e35c,rating coworkers,5
+62a33ba1bae91e4b8b82e35c,rating management,2
+62a33ba1bae91e4b8b82e35c,rating upward mobility,1
+62a33ba1bae91e4b8b82e35c,rating learning,3
+62a33c2cbc6861bf3176bec1,rating salary,0
+62a33c2cbc6861bf3176bec1,rating worklife balance,8
+62a33c2cbc6861bf3176bec1,rating coworkers,7
+62a33c2cbc6861bf3176bec1,rating management,5
+62a33c2cbc6861bf3176bec1,rating upward mobility,7
+62a33c2cbc6861bf3176bec1,rating learning,7
+62a33c8624a26260273822f9,rating salary,10
+62a33c8624a26260273822f9,rating worklife balance,6
+62a33c8624a26260273822f9,rating coworkers,7
+62a33c8624a26260273822f9,rating management,10
+62a33c8624a26260273822f9,rating upward mobility,7
+62a33c8624a26260273822f9,rating learning,10
+62a33c91f3072dd892621e03,rating salary,1
+62a33c91f3072dd892621e03,rating worklife balance,4
+62a33c91f3072dd892621e03,rating coworkers,4
+62a33c91f3072dd892621e03,rating management,4
+62a33c91f3072dd892621e03,rating upward mobility,0
+62a33c91f3072dd892621e03,rating learning,1
+62a33cb6cf25554317300177,rating salary,2
+62a33cb6cf25554317300177,rating worklife balance,3
+62a33cb6cf25554317300177,rating coworkers,3
+62a33cb6cf25554317300177,rating management,3
+62a33cb6cf25554317300177,rating upward mobility,3
+62a33cb6cf25554317300177,rating learning,2
+62a33cb72e54c9003e531c65,rating salary,0
+62a33cb72e54c9003e531c65,rating worklife balance,6
+62a33cb72e54c9003e531c65,rating coworkers,6
+62a33cb72e54c9003e531c65,rating management,6
+62a33cb72e54c9003e531c65,rating upward mobility,6
+62a33cb72e54c9003e531c65,rating learning,5
+62a33cd30f8c8599d5af0f8f,rating salary,10
+62a33cd30f8c8599d5af0f8f,rating worklife balance,5
+62a33cd30f8c8599d5af0f8f,rating coworkers,5
+62a33cd30f8c8599d5af0f8f,rating management,5
+62a33cd30f8c8599d5af0f8f,rating upward mobility,5
+62a33cd30f8c8599d5af0f8f,rating learning,9
+62a33cd3cf255543173001d9,rating salary,4
+62a33cd3cf255543173001d9,rating worklife balance,4
+62a33cd3cf255543173001d9,rating coworkers,4
+62a33cd3cf255543173001d9,rating management,4
+62a33cd3cf255543173001d9,rating upward mobility,5
+62a33cd3cf255543173001d9,rating learning,5
+62a33cd8bc6861bf3176c05f,rating salary,2
+62a33cd8bc6861bf3176c05f,rating worklife balance,0
+62a33cd8bc6861bf3176c05f,rating coworkers,3
+62a33cd8bc6861bf3176c05f,rating management,3
+62a33cd8bc6861bf3176c05f,rating upward mobility,0
+62a33cd8bc6861bf3176c05f,rating learning,4
+62a33ce918134ddc75ce8c30,rating salary,10
+62a33ce918134ddc75ce8c30,rating worklife balance,10
+62a33ce918134ddc75ce8c30,rating coworkers,8
+62a33ce918134ddc75ce8c30,rating management,8
+62a33ce918134ddc75ce8c30,rating upward mobility,8
+62a33ce918134ddc75ce8c30,rating learning,10
+62a33cf30a77c1a77f65baa2,rating salary,3
+62a33cf30a77c1a77f65baa2,rating worklife balance,8
+62a33cf30a77c1a77f65baa2,rating coworkers,10
+62a33cf30a77c1a77f65baa2,rating management,10
+62a33cf30a77c1a77f65baa2,rating upward mobility,7
+62a33cf30a77c1a77f65baa2,rating learning,8
+62a33d15f408bae018ed370d,rating salary,1
+62a33d15f408bae018ed370d,rating worklife balance,10
+62a33d15f408bae018ed370d,rating coworkers,9
+62a33d15f408bae018ed370d,rating management,9
+62a33d15f408bae018ed370d,rating upward mobility,5
+62a33d15f408bae018ed370d,rating learning,10
+62a33d1ebae91e4b8b82e707,rating salary,3
+62a33d1ebae91e4b8b82e707,rating worklife balance,10
+62a33d1ebae91e4b8b82e707,rating coworkers,10
+62a33d1ebae91e4b8b82e707,rating management,6
+62a33d1ebae91e4b8b82e707,rating upward mobility,7
+62a33d1ebae91e4b8b82e707,rating learning,8
+62a33d4624a26260273824c4,rating salary,4
+62a33d4624a26260273824c4,rating worklife balance,5
+62a33d4624a26260273824c4,rating coworkers,5
+62a33d4624a26260273824c4,rating management,5
+62a33d4624a26260273824c4,rating upward mobility,4
+62a33d4624a26260273824c4,rating learning,5
+62a33d5c0f8c8599d5af107c,rating salary,4
+62a33d5c0f8c8599d5af107c,rating worklife balance,10
+62a33d5c0f8c8599d5af107c,rating coworkers,7
+62a33d5c0f8c8599d5af107c,rating management,7
+62a33d5c0f8c8599d5af107c,rating upward mobility,7
+62a33d5c0f8c8599d5af107c,rating learning,5
+62a33d850f8c8599d5af10cb,rating salary,1
+62a33d850f8c8599d5af10cb,rating worklife balance,2
+62a33d850f8c8599d5af10cb,rating coworkers,4
+62a33d850f8c8599d5af10cb,rating management,2
+62a33d850f8c8599d5af10cb,rating upward mobility,2
+62a33d850f8c8599d5af10cb,rating learning,2
+62a33d9bf8f7561645852496,rating salary,1
+62a33d9bf8f7561645852496,rating worklife balance,3
+62a33d9bf8f7561645852496,rating coworkers,2
+62a33d9bf8f7561645852496,rating management,2
+62a33d9bf8f7561645852496,rating upward mobility,4
+62a33d9bf8f7561645852496,rating learning,1
+62a33dbdd8c00e9f5419cd65,rating salary,7
+62a33dbdd8c00e9f5419cd65,rating worklife balance,8
+62a33dbdd8c00e9f5419cd65,rating coworkers,8
+62a33dbdd8c00e9f5419cd65,rating management,6
+62a33dbdd8c00e9f5419cd65,rating upward mobility,8
+62a33dbdd8c00e9f5419cd65,rating learning,3
+62a33de124a26260273826b2,rating salary,1
+62a33de124a26260273826b2,rating worklife balance,1
+62a33de124a26260273826b2,rating coworkers,1
+62a33de124a26260273826b2,rating management,1
+62a33de124a26260273826b2,rating upward mobility,2
+62a33de124a26260273826b2,rating learning,0
+62a33dedd8c00e9f5419ce2b,rating salary,5
+62a33dedd8c00e9f5419ce2b,rating worklife balance,5
+62a33dedd8c00e9f5419ce2b,rating coworkers,5
+62a33dedd8c00e9f5419ce2b,rating management,5
+62a33dedd8c00e9f5419ce2b,rating upward mobility,5
+62a33dedd8c00e9f5419ce2b,rating learning,5
+62a33dfbd8c00e9f5419ceda,rating salary,10
+62a33dfbd8c00e9f5419ceda,rating worklife balance,5
+62a33dfbd8c00e9f5419ceda,rating coworkers,10
+62a33dfbd8c00e9f5419ceda,rating management,6
+62a33dfbd8c00e9f5419ceda,rating upward mobility,10
+62a33dfbd8c00e9f5419ceda,rating learning,10
+62a33e38f3072dd8926221d3,rating salary,5
+62a33e38f3072dd8926221d3,rating worklife balance,6
+62a33e38f3072dd8926221d3,rating coworkers,8
+62a33e38f3072dd8926221d3,rating management,8
+62a33e38f3072dd8926221d3,rating upward mobility,7
+62a33e38f3072dd8926221d3,rating learning,1
+62a33e54d8c00e9f5419cfe9,rating salary,4
+62a33e54d8c00e9f5419cfe9,rating worklife balance,4
+62a33e54d8c00e9f5419cfe9,rating coworkers,4
+62a33e54d8c00e9f5419cfe9,rating management,4
+62a33e54d8c00e9f5419cfe9,rating upward mobility,4
+62a33e54d8c00e9f5419cfe9,rating learning,4
+62a33e62575fa3a5ae88aabf,rating salary,7
+62a33e62575fa3a5ae88aabf,rating worklife balance,8
+62a33e62575fa3a5ae88aabf,rating coworkers,8
+62a33e62575fa3a5ae88aabf,rating management,8
+62a33e62575fa3a5ae88aabf,rating upward mobility,3
+62a33e62575fa3a5ae88aabf,rating learning,8
+62a33e63cec54911e9ca4f99,rating salary,4
+62a33e63cec54911e9ca4f99,rating worklife balance,6
+62a33e63cec54911e9ca4f99,rating coworkers,6
+62a33e63cec54911e9ca4f99,rating management,6
+62a33e63cec54911e9ca4f99,rating upward mobility,7
+62a33e63cec54911e9ca4f99,rating learning,7
+62a33e72bae91e4b8b82ea1a,rating salary,7
+62a33e72bae91e4b8b82ea1a,rating worklife balance,10
+62a33e72bae91e4b8b82ea1a,rating coworkers,5
+62a33e72bae91e4b8b82ea1a,rating management,5
+62a33e72bae91e4b8b82ea1a,rating upward mobility,5
+62a33e72bae91e4b8b82ea1a,rating learning,2
+62a33e890f8c8599d5af13b9,rating salary,1
+62a33e890f8c8599d5af13b9,rating worklife balance,6
+62a33e890f8c8599d5af13b9,rating coworkers,9
+62a33e890f8c8599d5af13b9,rating management,1
+62a33e890f8c8599d5af13b9,rating upward mobility,0
+62a33e890f8c8599d5af13b9,rating learning,2
+62a33e8bf8d5efcc22f7c79a,rating salary,6
+62a33e8bf8d5efcc22f7c79a,rating worklife balance,7
+62a33e8bf8d5efcc22f7c79a,rating coworkers,7
+62a33e8bf8d5efcc22f7c79a,rating management,7
+62a33e8bf8d5efcc22f7c79a,rating upward mobility,7
+62a33e8bf8d5efcc22f7c79a,rating learning,4
+62a33e90cec54911e9ca5031,rating salary,0
+62a33e90cec54911e9ca5031,rating worklife balance,0
+62a33e90cec54911e9ca5031,rating coworkers,5
+62a33e90cec54911e9ca5031,rating management,0
+62a33e90cec54911e9ca5031,rating upward mobility,0
+62a33e90cec54911e9ca5031,rating learning,0
+62a33e9df8f756164585277b,rating salary,10
+62a33e9df8f756164585277b,rating worklife balance,7
+62a33e9df8f756164585277b,rating coworkers,10
+62a33e9df8f756164585277b,rating management,10
+62a33e9df8f756164585277b,rating upward mobility,5
+62a33e9df8f756164585277b,rating learning,3
+62a33eb6bc6861bf3176c5a3,rating salary,5
+62a33eb6bc6861bf3176c5a3,rating worklife balance,6
+62a33eb6bc6861bf3176c5a3,rating coworkers,7
+62a33eb6bc6861bf3176c5a3,rating management,5
+62a33eb6bc6861bf3176c5a3,rating upward mobility,4
+62a33eb6bc6861bf3176c5a3,rating learning,4
+62a33ee0bae91e4b8b82eaec,rating salary,8
+62a33ee0bae91e4b8b82eaec,rating worklife balance,7
+62a33ee0bae91e4b8b82eaec,rating coworkers,8
+62a33ee0bae91e4b8b82eaec,rating management,7
+62a33ee0bae91e4b8b82eaec,rating upward mobility,7
+62a33ee0bae91e4b8b82eaec,rating learning,7
+62a33ee80f8c8599d5af14b7,rating salary,8
+62a33ee80f8c8599d5af14b7,rating worklife balance,10
+62a33ee80f8c8599d5af14b7,rating coworkers,10
+62a33ee80f8c8599d5af14b7,rating management,9
+62a33ee80f8c8599d5af14b7,rating upward mobility,9
+62a33ee80f8c8599d5af14b7,rating learning,9
+62a33efe0a77c1a77f65bf1e,rating salary,2
+62a33efe0a77c1a77f65bf1e,rating worklife balance,3
+62a33efe0a77c1a77f65bf1e,rating coworkers,5
+62a33efe0a77c1a77f65bf1e,rating management,5
+62a33efe0a77c1a77f65bf1e,rating upward mobility,5
+62a33efe0a77c1a77f65bf1e,rating learning,5
+62a33f0ef408bae018ed3aeb,rating salary,5
+62a33f0ef408bae018ed3aeb,rating worklife balance,10
+62a33f0ef408bae018ed3aeb,rating coworkers,8
+62a33f0ef408bae018ed3aeb,rating management,8
+62a33f0ef408bae018ed3aeb,rating upward mobility,8
+62a33f0ef408bae018ed3aeb,rating learning,7
+62a33f17f8f7561645852867,rating salary,2
+62a33f17f8f7561645852867,rating worklife balance,9
+62a33f17f8f7561645852867,rating coworkers,7
+62a33f17f8f7561645852867,rating management,7
+62a33f17f8f7561645852867,rating upward mobility,5
+62a33f17f8f7561645852867,rating learning,6
+62a33f52bc6861bf3176c72c,rating salary,3
+62a33f52bc6861bf3176c72c,rating worklife balance,5
+62a33f52bc6861bf3176c72c,rating coworkers,6
+62a33f52bc6861bf3176c72c,rating management,4
+62a33f52bc6861bf3176c72c,rating upward mobility,4
+62a33f52bc6861bf3176c72c,rating learning,5
+62a33f56cf255543173005e9,rating salary,3
+62a33f56cf255543173005e9,rating worklife balance,1
+62a33f56cf255543173005e9,rating coworkers,3
+62a33f56cf255543173005e9,rating management,2
+62a33f56cf255543173005e9,rating upward mobility,3
+62a33f56cf255543173005e9,rating learning,1
+62a33f5a5d257a28a30d7bb5,rating salary,2
+62a33f5a5d257a28a30d7bb5,rating worklife balance,0
+62a33f5a5d257a28a30d7bb5,rating coworkers,2
+62a33f5a5d257a28a30d7bb5,rating management,2
+62a33f5a5d257a28a30d7bb5,rating upward mobility,0
+62a33f5a5d257a28a30d7bb5,rating learning,0
+62a33fa5cec54911e9ca51f1,rating salary,5
+62a33fa5cec54911e9ca51f1,rating worklife balance,6
+62a33fa5cec54911e9ca51f1,rating coworkers,6
+62a33fa5cec54911e9ca51f1,rating management,5
+62a33fa5cec54911e9ca51f1,rating upward mobility,4
+62a33fa5cec54911e9ca51f1,rating learning,6
+62a33fcb575fa3a5ae88ad59,rating salary,0
+62a33fcb575fa3a5ae88ad59,rating worklife balance,0
+62a33fcb575fa3a5ae88ad59,rating coworkers,0
+62a33fcb575fa3a5ae88ad59,rating management,0
+62a33fcb575fa3a5ae88ad59,rating upward mobility,0
+62a33fcb575fa3a5ae88ad59,rating learning,0
+62a33fcf18134ddc75ce91c3,rating salary,3
+62a33fcf18134ddc75ce91c3,rating worklife balance,1
+62a33fcf18134ddc75ce91c3,rating coworkers,3
+62a33fcf18134ddc75ce91c3,rating management,4
+62a33fcf18134ddc75ce91c3,rating upward mobility,0
+62a33fcf18134ddc75ce91c3,rating learning,3
+62a34006d8c00e9f5419d341,rating salary,0
+62a34006d8c00e9f5419d341,rating worklife balance,0
+62a34006d8c00e9f5419d341,rating coworkers,0
+62a34006d8c00e9f5419d341,rating management,0
+62a34006d8c00e9f5419d341,rating upward mobility,0
+62a34006d8c00e9f5419d341,rating learning,0
+62a34020575fa3a5ae88ade0,rating salary,5
+62a34020575fa3a5ae88ade0,rating worklife balance,5
+62a34020575fa3a5ae88ade0,rating coworkers,3
+62a34020575fa3a5ae88ade0,rating management,5
+62a34020575fa3a5ae88ade0,rating upward mobility,2
+62a34020575fa3a5ae88ade0,rating learning,6
+62a34038b4da29969c62eafe,rating salary,8
+62a34038b4da29969c62eafe,rating worklife balance,6
+62a34038b4da29969c62eafe,rating coworkers,2
+62a34038b4da29969c62eafe,rating management,3
+62a34038b4da29969c62eafe,rating upward mobility,6
+62a34038b4da29969c62eafe,rating learning,7
+62a3406b575fa3a5ae88ae78,rating salary,5
+62a3406b575fa3a5ae88ae78,rating worklife balance,7
+62a3406b575fa3a5ae88ae78,rating coworkers,1
+62a3406b575fa3a5ae88ae78,rating management,1
+62a3406b575fa3a5ae88ae78,rating upward mobility,0
+62a3406b575fa3a5ae88ae78,rating learning,8
+62a340cab4da29969c62ec01,rating salary,7
+62a340cab4da29969c62ec01,rating worklife balance,8
+62a340cab4da29969c62ec01,rating coworkers,10
+62a340cab4da29969c62ec01,rating management,8
+62a340cab4da29969c62ec01,rating upward mobility,9
+62a340cab4da29969c62ec01,rating learning,9
+62a340d62e54c9003e5324b4,rating salary,5
+62a340d62e54c9003e5324b4,rating worklife balance,6
+62a340d62e54c9003e5324b4,rating coworkers,6
+62a340d62e54c9003e5324b4,rating management,6
+62a340d62e54c9003e5324b4,rating upward mobility,6
+62a340d62e54c9003e5324b4,rating learning,6
+62a340e10a77c1a77f65c2e7,rating salary,10
+62a340e10a77c1a77f65c2e7,rating worklife balance,8
+62a340e10a77c1a77f65c2e7,rating coworkers,9
+62a340e10a77c1a77f65c2e7,rating management,8
+62a340e10a77c1a77f65c2e7,rating upward mobility,8
+62a340e10a77c1a77f65c2e7,rating learning,10
+62a340f5bc6861bf3176caa4,rating salary,8
+62a340f5bc6861bf3176caa4,rating worklife balance,8
+62a340f5bc6861bf3176caa4,rating coworkers,8
+62a340f5bc6861bf3176caa4,rating management,8
+62a340f5bc6861bf3176caa4,rating upward mobility,5
+62a340f5bc6861bf3176caa4,rating learning,10
+62a34117cec54911e9ca54e7,rating salary,1
+62a34117cec54911e9ca54e7,rating worklife balance,3
+62a34117cec54911e9ca54e7,rating coworkers,6
+62a34117cec54911e9ca54e7,rating management,6
+62a34117cec54911e9ca54e7,rating upward mobility,6
+62a34117cec54911e9ca54e7,rating learning,9
+62a3413a5d257a28a30d8074,rating salary,2
+62a3413a5d257a28a30d8074,rating worklife balance,1
+62a3413a5d257a28a30d8074,rating coworkers,1
+62a3413a5d257a28a30d8074,rating management,1
+62a3413a5d257a28a30d8074,rating upward mobility,3
+62a3413a5d257a28a30d8074,rating learning,7
+62a341a1f3072dd8926229a5,rating salary,NA
+62a341a1f3072dd8926229a5,rating worklife balance,NA
+62a341a1f3072dd8926229a5,rating coworkers,NA
+62a341a1f3072dd8926229a5,rating management,NA
+62a341a1f3072dd8926229a5,rating upward mobility,NA
+62a341a1f3072dd8926229a5,rating learning,7
+62a341b0f8f7561645852d1d,rating salary,6
+62a341b0f8f7561645852d1d,rating worklife balance,6
+62a341b0f8f7561645852d1d,rating coworkers,6
+62a341b0f8f7561645852d1d,rating management,6
+62a341b0f8f7561645852d1d,rating upward mobility,5
+62a341b0f8f7561645852d1d,rating learning,6
+62a341e8f8d5efcc22f7d002,rating salary,3
+62a341e8f8d5efcc22f7d002,rating worklife balance,6
+62a341e8f8d5efcc22f7d002,rating coworkers,7
+62a341e8f8d5efcc22f7d002,rating management,7
+62a341e8f8d5efcc22f7d002,rating upward mobility,0
+62a341e8f8d5efcc22f7d002,rating learning,3
+62a34210cf25554317300c02,rating salary,4
+62a34210cf25554317300c02,rating worklife balance,9
+62a34210cf25554317300c02,rating coworkers,10
+62a34210cf25554317300c02,rating management,9
+62a34210cf25554317300c02,rating upward mobility,9
+62a34210cf25554317300c02,rating learning,10
+62a3424eb4da29969c62eedd,rating salary,6
+62a3424eb4da29969c62eedd,rating worklife balance,8
+62a3424eb4da29969c62eedd,rating coworkers,8
+62a3424eb4da29969c62eedd,rating management,7
+62a3424eb4da29969c62eedd,rating upward mobility,9
+62a3424eb4da29969c62eedd,rating learning,7
+62a34256bae91e4b8b82f16d,rating salary,3
+62a34256bae91e4b8b82f16d,rating worklife balance,5
+62a34256bae91e4b8b82f16d,rating coworkers,4
+62a34256bae91e4b8b82f16d,rating management,3
+62a34256bae91e4b8b82f16d,rating upward mobility,3
+62a34256bae91e4b8b82f16d,rating learning,3
+62a3426cf408bae018ed409b,rating salary,1
+62a3426cf408bae018ed409b,rating worklife balance,4
+62a3426cf408bae018ed409b,rating coworkers,5
+62a3426cf408bae018ed409b,rating management,5
+62a3426cf408bae018ed409b,rating upward mobility,1
+62a3426cf408bae018ed409b,rating learning,1
+62a34272f8d5efcc22f7d15f,rating salary,4
+62a34272f8d5efcc22f7d15f,rating worklife balance,6
+62a34272f8d5efcc22f7d15f,rating coworkers,4
+62a34272f8d5efcc22f7d15f,rating management,5
+62a34272f8d5efcc22f7d15f,rating upward mobility,4
+62a34272f8d5efcc22f7d15f,rating learning,4
+62a34340bc6861bf3176d05b,rating salary,6
+62a34340bc6861bf3176d05b,rating worklife balance,7
+62a34340bc6861bf3176d05b,rating coworkers,4
+62a34340bc6861bf3176d05b,rating management,3
+62a34340bc6861bf3176d05b,rating upward mobility,9
+62a34340bc6861bf3176d05b,rating learning,8
+62a34383b4da29969c62f1be,rating salary,7
+62a34383b4da29969c62f1be,rating worklife balance,5
+62a34383b4da29969c62f1be,rating coworkers,8
+62a34383b4da29969c62f1be,rating management,0
+62a34383b4da29969c62f1be,rating upward mobility,0
+62a34383b4da29969c62f1be,rating learning,0
+62a34389cec54911e9ca5a22,rating salary,2
+62a34389cec54911e9ca5a22,rating worklife balance,3
+62a34389cec54911e9ca5a22,rating coworkers,2
+62a34389cec54911e9ca5a22,rating management,5
+62a34389cec54911e9ca5a22,rating upward mobility,5
+62a34389cec54911e9ca5a22,rating learning,7
+62a343a22e54c9003e532a2a,rating salary,4
+62a343a22e54c9003e532a2a,rating worklife balance,4
+62a343a22e54c9003e532a2a,rating coworkers,4
+62a343a22e54c9003e532a2a,rating management,4
+62a343a22e54c9003e532a2a,rating upward mobility,5
+62a343a22e54c9003e532a2a,rating learning,6
+62a343d9f3072dd892622fe4,rating salary,5
+62a343d9f3072dd892622fe4,rating worklife balance,6
+62a343d9f3072dd892622fe4,rating coworkers,7
+62a343d9f3072dd892622fe4,rating management,7
+62a343d9f3072dd892622fe4,rating upward mobility,7
+62a343d9f3072dd892622fe4,rating learning,6
+62a34400d8c00e9f5419dc2b,rating salary,6
+62a34400d8c00e9f5419dc2b,rating worklife balance,6
+62a34400d8c00e9f5419dc2b,rating coworkers,6
+62a34400d8c00e9f5419dc2b,rating management,6
+62a34400d8c00e9f5419dc2b,rating upward mobility,3
+62a34400d8c00e9f5419dc2b,rating learning,5
+62a34425f8d5efcc22f7d525,rating salary,3
+62a34425f8d5efcc22f7d525,rating worklife balance,9
+62a34425f8d5efcc22f7d525,rating coworkers,10
+62a34425f8d5efcc22f7d525,rating management,8
+62a34425f8d5efcc22f7d525,rating upward mobility,9
+62a34425f8d5efcc22f7d525,rating learning,9
+62a34449575fa3a5ae88b637,rating salary,4
+62a34449575fa3a5ae88b637,rating worklife balance,3
+62a34449575fa3a5ae88b637,rating coworkers,3
+62a34449575fa3a5ae88b637,rating management,5
+62a34449575fa3a5ae88b637,rating upward mobility,5
+62a34449575fa3a5ae88b637,rating learning,5
+62a3445dcf255543173011e1,rating salary,5
+62a3445dcf255543173011e1,rating worklife balance,5
+62a3445dcf255543173011e1,rating coworkers,7
+62a3445dcf255543173011e1,rating management,5
+62a3445dcf255543173011e1,rating upward mobility,7
+62a3445dcf255543173011e1,rating learning,7
+62a3447a575fa3a5ae88b6c0,rating salary,2
+62a3447a575fa3a5ae88b6c0,rating worklife balance,9
+62a3447a575fa3a5ae88b6c0,rating coworkers,9
+62a3447a575fa3a5ae88b6c0,rating management,8
+62a3447a575fa3a5ae88b6c0,rating upward mobility,6
+62a3447a575fa3a5ae88b6c0,rating learning,2
+62a3449f7dc029e2d66bf5d1,rating salary,2
+62a3449f7dc029e2d66bf5d1,rating worklife balance,8
+62a3449f7dc029e2d66bf5d1,rating coworkers,6
+62a3449f7dc029e2d66bf5d1,rating management,6
+62a3449f7dc029e2d66bf5d1,rating upward mobility,5
+62a3449f7dc029e2d66bf5d1,rating learning,5
+62a344c5f408bae018ed4806,rating salary,10
+62a344c5f408bae018ed4806,rating worklife balance,6
+62a344c5f408bae018ed4806,rating coworkers,9
+62a344c5f408bae018ed4806,rating management,5
+62a344c5f408bae018ed4806,rating upward mobility,8
+62a344c5f408bae018ed4806,rating learning,7
+62a344c6f8d5efcc22f7d6e1,rating salary,5
+62a344c6f8d5efcc22f7d6e1,rating worklife balance,5
+62a344c6f8d5efcc22f7d6e1,rating coworkers,5
+62a344c6f8d5efcc22f7d6e1,rating management,5
+62a344c6f8d5efcc22f7d6e1,rating upward mobility,5
+62a344c6f8d5efcc22f7d6e1,rating learning,1
+62a344e1f3072dd892623328,rating salary,2
+62a344e1f3072dd892623328,rating worklife balance,3
+62a344e1f3072dd892623328,rating coworkers,3
+62a344e1f3072dd892623328,rating management,3
+62a344e1f3072dd892623328,rating upward mobility,3
+62a344e1f3072dd892623328,rating learning,6
+62a3450424a262602738357f,rating salary,9
+62a3450424a262602738357f,rating worklife balance,10
+62a3450424a262602738357f,rating coworkers,10
+62a3450424a262602738357f,rating management,10
+62a3450424a262602738357f,rating upward mobility,10
+62a3450424a262602738357f,rating learning,10
+62a3452818134ddc75ce9e1b,rating salary,3
+62a3452818134ddc75ce9e1b,rating worklife balance,5
+62a3452818134ddc75ce9e1b,rating coworkers,3
+62a3452818134ddc75ce9e1b,rating management,3
+62a3452818134ddc75ce9e1b,rating upward mobility,5
+62a3452818134ddc75ce9e1b,rating learning,5
+62a345490a77c1a77f65cc5b,rating salary,3
+62a345490a77c1a77f65cc5b,rating worklife balance,6
+62a345490a77c1a77f65cc5b,rating coworkers,5
+62a345490a77c1a77f65cc5b,rating management,4
+62a345490a77c1a77f65cc5b,rating upward mobility,3
+62a345490a77c1a77f65cc5b,rating learning,4
+62a3455bbc6861bf3176d57a,rating salary,6
+62a3455bbc6861bf3176d57a,rating worklife balance,7
+62a3455bbc6861bf3176d57a,rating coworkers,8
+62a3455bbc6861bf3176d57a,rating management,7
+62a3455bbc6861bf3176d57a,rating upward mobility,7
+62a3455bbc6861bf3176d57a,rating learning,8
+62a3457bf8d5efcc22f7da17,rating salary,4
+62a3457bf8d5efcc22f7da17,rating worklife balance,7
+62a3457bf8d5efcc22f7da17,rating coworkers,6
+62a3457bf8d5efcc22f7da17,rating management,4
+62a3457bf8d5efcc22f7da17,rating upward mobility,2
+62a3457bf8d5efcc22f7da17,rating learning,4
+62a345b2bae91e4b8b82fad6,rating salary,0
+62a345b2bae91e4b8b82fad6,rating worklife balance,10
+62a345b2bae91e4b8b82fad6,rating coworkers,10
+62a345b2bae91e4b8b82fad6,rating management,10
+62a345b2bae91e4b8b82fad6,rating upward mobility,4
+62a345b2bae91e4b8b82fad6,rating learning,2
+62a345c47dc029e2d66bf80a,rating salary,6
+62a345c47dc029e2d66bf80a,rating worklife balance,6
+62a345c47dc029e2d66bf80a,rating coworkers,7
+62a345c47dc029e2d66bf80a,rating management,5
+62a345c47dc029e2d66bf80a,rating upward mobility,6
+62a345c47dc029e2d66bf80a,rating learning,7
+62a345e25d257a28a30d8b43,rating salary,7
+62a345e25d257a28a30d8b43,rating worklife balance,7
+62a345e25d257a28a30d8b43,rating coworkers,5
+62a345e25d257a28a30d8b43,rating management,9
+62a345e25d257a28a30d8b43,rating upward mobility,7
+62a345e25d257a28a30d8b43,rating learning,8
+62a34646f8d5efcc22f7dc5c,rating salary,7
+62a34646f8d5efcc22f7dc5c,rating worklife balance,7
+62a34646f8d5efcc22f7dc5c,rating coworkers,7
+62a34646f8d5efcc22f7dc5c,rating management,7
+62a34646f8d5efcc22f7dc5c,rating upward mobility,4
+62a34646f8d5efcc22f7dc5c,rating learning,7
+62a34687f408bae018ed4c52,rating salary,10
+62a34687f408bae018ed4c52,rating worklife balance,9
+62a34687f408bae018ed4c52,rating coworkers,9
+62a34687f408bae018ed4c52,rating management,10
+62a34687f408bae018ed4c52,rating upward mobility,9
+62a34687f408bae018ed4c52,rating learning,10
+62a346a37dc029e2d66bfa6d,rating salary,7
+62a346a37dc029e2d66bfa6d,rating worklife balance,8
+62a346a37dc029e2d66bfa6d,rating coworkers,6
+62a346a37dc029e2d66bfa6d,rating management,5
+62a346a37dc029e2d66bfa6d,rating upward mobility,5
+62a346a37dc029e2d66bfa6d,rating learning,9
+62a346a95d257a28a30d8cb9,rating salary,7
+62a346a95d257a28a30d8cb9,rating worklife balance,8
+62a346a95d257a28a30d8cb9,rating coworkers,9
+62a346a95d257a28a30d8cb9,rating management,7
+62a346a95d257a28a30d8cb9,rating upward mobility,7
+62a346a95d257a28a30d8cb9,rating learning,7
+62a346b4bc6861bf3176d7ce,rating salary,0
+62a346b4bc6861bf3176d7ce,rating worklife balance,0
+62a346b4bc6861bf3176d7ce,rating coworkers,0
+62a346b4bc6861bf3176d7ce,rating management,0
+62a346b4bc6861bf3176d7ce,rating upward mobility,0
+62a346b4bc6861bf3176d7ce,rating learning,0
+62a346cef8f756164585385b,rating salary,4
+62a346cef8f756164585385b,rating worklife balance,4
+62a346cef8f756164585385b,rating coworkers,3
+62a346cef8f756164585385b,rating management,3
+62a346cef8f756164585385b,rating upward mobility,5
+62a346cef8f756164585385b,rating learning,6
+62a346d724a2626027383abd,rating salary,7
+62a346d724a2626027383abd,rating worklife balance,9
+62a346d724a2626027383abd,rating coworkers,9
+62a346d724a2626027383abd,rating management,8
+62a346d724a2626027383abd,rating upward mobility,8
+62a346d724a2626027383abd,rating learning,9
+62a346d90a77c1a77f65d08d,rating salary,6
+62a346d90a77c1a77f65d08d,rating worklife balance,8
+62a346d90a77c1a77f65d08d,rating coworkers,5
+62a346d90a77c1a77f65d08d,rating management,NA
+62a346d90a77c1a77f65d08d,rating upward mobility,6
+62a346d90a77c1a77f65d08d,rating learning,9
+62a34726f8d5efcc22f7dec7,rating salary,3
+62a34726f8d5efcc22f7dec7,rating worklife balance,4
+62a34726f8d5efcc22f7dec7,rating coworkers,2
+62a34726f8d5efcc22f7dec7,rating management,1
+62a34726f8d5efcc22f7dec7,rating upward mobility,0
+62a34726f8d5efcc22f7dec7,rating learning,4
+62a3476c5d257a28a30d8e6d,rating salary,5
+62a3476c5d257a28a30d8e6d,rating worklife balance,4
+62a3476c5d257a28a30d8e6d,rating coworkers,5
+62a3476c5d257a28a30d8e6d,rating management,4
+62a3476c5d257a28a30d8e6d,rating upward mobility,3
+62a3476c5d257a28a30d8e6d,rating learning,6
+62a347b4f8f7561645853a98,rating salary,2
+62a347b4f8f7561645853a98,rating worklife balance,4
+62a347b4f8f7561645853a98,rating coworkers,6
+62a347b4f8f7561645853a98,rating management,5
+62a347b4f8f7561645853a98,rating upward mobility,3
+62a347b4f8f7561645853a98,rating learning,4
+62a347f6b4da29969c62fb79,rating salary,1
+62a347f6b4da29969c62fb79,rating worklife balance,4
+62a347f6b4da29969c62fb79,rating coworkers,4
+62a347f6b4da29969c62fb79,rating management,3
+62a347f6b4da29969c62fb79,rating upward mobility,2
+62a347f6b4da29969c62fb79,rating learning,6
+62a3483018134ddc75cea4e6,rating salary,8
+62a3483018134ddc75cea4e6,rating worklife balance,9
+62a3483018134ddc75cea4e6,rating coworkers,9
+62a3483018134ddc75cea4e6,rating management,9
+62a3483018134ddc75cea4e6,rating upward mobility,9
+62a3483018134ddc75cea4e6,rating learning,8
+62a348650f8c8599d5af2b77,rating salary,3
+62a348650f8c8599d5af2b77,rating worklife balance,5
+62a348650f8c8599d5af2b77,rating coworkers,5
+62a348650f8c8599d5af2b77,rating management,6
+62a348650f8c8599d5af2b77,rating upward mobility,3
+62a348650f8c8599d5af2b77,rating learning,4
+62a3489318134ddc75cea659,rating salary,6
+62a3489318134ddc75cea659,rating worklife balance,6
+62a3489318134ddc75cea659,rating coworkers,6
+62a3489318134ddc75cea659,rating management,6
+62a3489318134ddc75cea659,rating upward mobility,6
+62a3489318134ddc75cea659,rating learning,6
+62a348bf2e54c9003e533634,rating salary,4
+62a348bf2e54c9003e533634,rating worklife balance,4
+62a348bf2e54c9003e533634,rating coworkers,6
+62a348bf2e54c9003e533634,rating management,4
+62a348bf2e54c9003e533634,rating upward mobility,5
+62a348bf2e54c9003e533634,rating learning,6
+62a348c2f3072dd892623c10,rating salary,8
+62a348c2f3072dd892623c10,rating worklife balance,10
+62a348c2f3072dd892623c10,rating coworkers,8
+62a348c2f3072dd892623c10,rating management,7
+62a348c2f3072dd892623c10,rating upward mobility,8
+62a348c2f3072dd892623c10,rating learning,10
+62a348f2f8d5efcc22f7e2ba,rating salary,9
+62a348f2f8d5efcc22f7e2ba,rating worklife balance,9
+62a348f2f8d5efcc22f7e2ba,rating coworkers,9
+62a348f2f8d5efcc22f7e2ba,rating management,9
+62a348f2f8d5efcc22f7e2ba,rating upward mobility,7
+62a348f2f8d5efcc22f7e2ba,rating learning,4
+62a349160a77c1a77f65d4db,rating salary,6
+62a349160a77c1a77f65d4db,rating worklife balance,9
+62a349160a77c1a77f65d4db,rating coworkers,7
+62a349160a77c1a77f65d4db,rating management,6
+62a349160a77c1a77f65d4db,rating upward mobility,7
+62a349160a77c1a77f65d4db,rating learning,7
+62a3493fb4da29969c62fe63,rating salary,8
+62a3493fb4da29969c62fe63,rating worklife balance,8
+62a3493fb4da29969c62fe63,rating coworkers,9
+62a3493fb4da29969c62fe63,rating management,9
+62a3493fb4da29969c62fe63,rating upward mobility,10
+62a3493fb4da29969c62fe63,rating learning,10
+62a3496e575fa3a5ae88c4e6,rating salary,8
+62a3496e575fa3a5ae88c4e6,rating worklife balance,10
+62a3496e575fa3a5ae88c4e6,rating coworkers,9
+62a3496e575fa3a5ae88c4e6,rating management,9
+62a3496e575fa3a5ae88c4e6,rating upward mobility,10
+62a3496e575fa3a5ae88c4e6,rating learning,8
+62a3498e575fa3a5ae88c554,rating salary,7
+62a3498e575fa3a5ae88c554,rating worklife balance,9
+62a3498e575fa3a5ae88c554,rating coworkers,7
+62a3498e575fa3a5ae88c554,rating management,8
+62a3498e575fa3a5ae88c554,rating upward mobility,8
+62a3498e575fa3a5ae88c554,rating learning,10
+62a34991b4da29969c62ff4b,rating salary,3
+62a34991b4da29969c62ff4b,rating worklife balance,7
+62a34991b4da29969c62ff4b,rating coworkers,7
+62a34991b4da29969c62ff4b,rating management,7
+62a34991b4da29969c62ff4b,rating upward mobility,1
+62a34991b4da29969c62ff4b,rating learning,2
+62a349bbf8f756164585400d,rating salary,3
+62a349bbf8f756164585400d,rating worklife balance,6
+62a349bbf8f756164585400d,rating coworkers,6
+62a349bbf8f756164585400d,rating management,6
+62a349bbf8f756164585400d,rating upward mobility,4
+62a349bbf8f756164585400d,rating learning,4
+62a349c7cec54911e9ca67c7,rating salary,5
+62a349c7cec54911e9ca67c7,rating worklife balance,1
+62a349c7cec54911e9ca67c7,rating coworkers,4
+62a349c7cec54911e9ca67c7,rating management,3
+62a349c7cec54911e9ca67c7,rating upward mobility,3
+62a349c7cec54911e9ca67c7,rating learning,4
+62a349d5d8c00e9f5419ead2,rating salary,5
+62a349d5d8c00e9f5419ead2,rating worklife balance,5
+62a349d5d8c00e9f5419ead2,rating coworkers,5
+62a349d5d8c00e9f5419ead2,rating management,5
+62a349d5d8c00e9f5419ead2,rating upward mobility,4
+62a349d5d8c00e9f5419ead2,rating learning,5
+62a349e6b4da29969c63000c,rating salary,0
+62a349e6b4da29969c63000c,rating worklife balance,0
+62a349e6b4da29969c63000c,rating coworkers,0
+62a349e6b4da29969c63000c,rating management,2
+62a349e6b4da29969c63000c,rating upward mobility,2
+62a349e6b4da29969c63000c,rating learning,5
+62a34a03cec54911e9ca6869,rating salary,1
+62a34a03cec54911e9ca6869,rating worklife balance,2
+62a34a03cec54911e9ca6869,rating coworkers,1
+62a34a03cec54911e9ca6869,rating management,5
+62a34a03cec54911e9ca6869,rating upward mobility,6
+62a34a03cec54911e9ca6869,rating learning,6
+62a34ab15d257a28a30d9589,rating salary,7
+62a34ab15d257a28a30d9589,rating worklife balance,5
+62a34ab15d257a28a30d9589,rating coworkers,3
+62a34ab15d257a28a30d9589,rating management,6
+62a34ab15d257a28a30d9589,rating upward mobility,4
+62a34ab15d257a28a30d9589,rating learning,4
+62a34abc0f8c8599d5af31c5,rating salary,5
+62a34abc0f8c8599d5af31c5,rating worklife balance,8
+62a34abc0f8c8599d5af31c5,rating coworkers,8
+62a34abc0f8c8599d5af31c5,rating management,7
+62a34abc0f8c8599d5af31c5,rating upward mobility,6
+62a34abc0f8c8599d5af31c5,rating learning,7
+62a34b07cec54911e9ca6b6e,rating salary,0
+62a34b07cec54911e9ca6b6e,rating worklife balance,0
+62a34b07cec54911e9ca6b6e,rating coworkers,0
+62a34b07cec54911e9ca6b6e,rating management,0
+62a34b07cec54911e9ca6b6e,rating upward mobility,0
+62a34b07cec54911e9ca6b6e,rating learning,5
+62a34b0eb4da29969c6302ce,rating salary,7
+62a34b0eb4da29969c6302ce,rating worklife balance,9
+62a34b0eb4da29969c6302ce,rating coworkers,10
+62a34b0eb4da29969c6302ce,rating management,6
+62a34b0eb4da29969c6302ce,rating upward mobility,4
+62a34b0eb4da29969c6302ce,rating learning,4
+62a34b1b0f8c8599d5af328b,rating salary,10
+62a34b1b0f8c8599d5af328b,rating worklife balance,8
+62a34b1b0f8c8599d5af328b,rating coworkers,9
+62a34b1b0f8c8599d5af328b,rating management,10
+62a34b1b0f8c8599d5af328b,rating upward mobility,10
+62a34b1b0f8c8599d5af328b,rating learning,10
+62a34b5b5d257a28a30d96a6,rating salary,8
+62a34b5b5d257a28a30d96a6,rating worklife balance,7
+62a34b5b5d257a28a30d96a6,rating coworkers,6
+62a34b5b5d257a28a30d96a6,rating management,6
+62a34b5b5d257a28a30d96a6,rating upward mobility,5
+62a34b5b5d257a28a30d96a6,rating learning,9
+62a34b7ebae91e4b8b83076c,rating salary,1
+62a34b7ebae91e4b8b83076c,rating worklife balance,4
+62a34b7ebae91e4b8b83076c,rating coworkers,4
+62a34b7ebae91e4b8b83076c,rating management,3
+62a34b7ebae91e4b8b83076c,rating upward mobility,NA
+62a34b7ebae91e4b8b83076c,rating learning,5
+62a34b99cec54911e9ca6e14,rating salary,6
+62a34b99cec54911e9ca6e14,rating worklife balance,6
+62a34b99cec54911e9ca6e14,rating coworkers,6
+62a34b99cec54911e9ca6e14,rating management,6
+62a34b99cec54911e9ca6e14,rating upward mobility,6
+62a34b99cec54911e9ca6e14,rating learning,6
+62a34bb0f3072dd892624210,rating salary,5
+62a34bb0f3072dd892624210,rating worklife balance,7
+62a34bb0f3072dd892624210,rating coworkers,7
+62a34bb0f3072dd892624210,rating management,6
+62a34bb0f3072dd892624210,rating upward mobility,6
+62a34bb0f3072dd892624210,rating learning,7
+62a34bd0cf2555431730208b,rating salary,7
+62a34bd0cf2555431730208b,rating worklife balance,3
+62a34bd0cf2555431730208b,rating coworkers,8
+62a34bd0cf2555431730208b,rating management,6
+62a34bd0cf2555431730208b,rating upward mobility,8
+62a34bd0cf2555431730208b,rating learning,8
+62a34bd4f408bae018ed57bd,rating salary,1
+62a34bd4f408bae018ed57bd,rating worklife balance,9
+62a34bd4f408bae018ed57bd,rating coworkers,6
+62a34bd4f408bae018ed57bd,rating management,0
+62a34bd4f408bae018ed57bd,rating upward mobility,0
+62a34bd4f408bae018ed57bd,rating learning,0
+62a34c66b4da29969c6305af,rating salary,9
+62a34c66b4da29969c6305af,rating worklife balance,8
+62a34c66b4da29969c6305af,rating coworkers,9
+62a34c66b4da29969c6305af,rating management,9
+62a34c66b4da29969c6305af,rating upward mobility,8
+62a34c66b4da29969c6305af,rating learning,8
+62a34d1ff8f756164585465c,rating salary,4
+62a34d1ff8f756164585465c,rating worklife balance,7
+62a34d1ff8f756164585465c,rating coworkers,8
+62a34d1ff8f756164585465c,rating management,8
+62a34d1ff8f756164585465c,rating upward mobility,5
+62a34d1ff8f756164585465c,rating learning,7
+62a34d4118134ddc75ceb0ed,rating salary,1
+62a34d4118134ddc75ceb0ed,rating worklife balance,1
+62a34d4118134ddc75ceb0ed,rating coworkers,1
+62a34d4118134ddc75ceb0ed,rating management,0
+62a34d4118134ddc75ceb0ed,rating upward mobility,0
+62a34d4118134ddc75ceb0ed,rating learning,3
+62a34da0f408bae018ed5abd,rating salary,0
+62a34da0f408bae018ed5abd,rating worklife balance,0
+62a34da0f408bae018ed5abd,rating coworkers,2
+62a34da0f408bae018ed5abd,rating management,0
+62a34da0f408bae018ed5abd,rating upward mobility,0
+62a34da0f408bae018ed5abd,rating learning,0
+62a34dbb5d257a28a30d9a61,rating salary,0
+62a34dbb5d257a28a30d9a61,rating worklife balance,6
+62a34dbb5d257a28a30d9a61,rating coworkers,5
+62a34dbb5d257a28a30d9a61,rating management,5
+62a34dbb5d257a28a30d9a61,rating upward mobility,3
+62a34dbb5d257a28a30d9a61,rating learning,1
+62a34e00f8f7561645854954,rating salary,8
+62a34e00f8f7561645854954,rating worklife balance,10
+62a34e00f8f7561645854954,rating coworkers,10
+62a34e00f8f7561645854954,rating management,10
+62a34e00f8f7561645854954,rating upward mobility,2
+62a34e00f8f7561645854954,rating learning,7
+62a34e082e54c9003e534118,rating salary,5
+62a34e082e54c9003e534118,rating worklife balance,6
+62a34e082e54c9003e534118,rating coworkers,6
+62a34e082e54c9003e534118,rating management,6
+62a34e082e54c9003e534118,rating upward mobility,6
+62a34e082e54c9003e534118,rating learning,4
+62a34eb7bc6861bf3176e6d8,rating salary,7
+62a34eb7bc6861bf3176e6d8,rating worklife balance,10
+62a34eb7bc6861bf3176e6d8,rating coworkers,10
+62a34eb7bc6861bf3176e6d8,rating management,10
+62a34eb7bc6861bf3176e6d8,rating upward mobility,8
+62a34eb7bc6861bf3176e6d8,rating learning,10
+62a34f2af8f7561645854c1c,rating salary,1
+62a34f2af8f7561645854c1c,rating worklife balance,2
+62a34f2af8f7561645854c1c,rating coworkers,8
+62a34f2af8f7561645854c1c,rating management,7
+62a34f2af8f7561645854c1c,rating upward mobility,0
+62a34f2af8f7561645854c1c,rating learning,0
+62a34f3bf408bae018ed5e42,rating salary,10
+62a34f3bf408bae018ed5e42,rating worklife balance,10
+62a34f3bf408bae018ed5e42,rating coworkers,10
+62a34f3bf408bae018ed5e42,rating management,10
+62a34f3bf408bae018ed5e42,rating upward mobility,10
+62a34f3bf408bae018ed5e42,rating learning,10
+62a34fa418134ddc75ceb509,rating salary,4
+62a34fa418134ddc75ceb509,rating worklife balance,5
+62a34fa418134ddc75ceb509,rating coworkers,5
+62a34fa418134ddc75ceb509,rating management,5
+62a34fa418134ddc75ceb509,rating upward mobility,6
+62a34fa418134ddc75ceb509,rating learning,8
+62a34fbacec54911e9ca776f,rating salary,1
+62a34fbacec54911e9ca776f,rating worklife balance,6
+62a34fbacec54911e9ca776f,rating coworkers,4
+62a34fbacec54911e9ca776f,rating management,3
+62a34fbacec54911e9ca776f,rating upward mobility,5
+62a34fbacec54911e9ca776f,rating learning,6
+62a34fc3f3072dd892624a45,rating salary,8
+62a34fc3f3072dd892624a45,rating worklife balance,9
+62a34fc3f3072dd892624a45,rating coworkers,8
+62a34fc3f3072dd892624a45,rating management,7
+62a34fc3f3072dd892624a45,rating upward mobility,7
+62a34fc3f3072dd892624a45,rating learning,8
+62a34ff1f408bae018ed601d,rating salary,2
+62a34ff1f408bae018ed601d,rating worklife balance,6
+62a34ff1f408bae018ed601d,rating coworkers,2
+62a34ff1f408bae018ed601d,rating management,3
+62a34ff1f408bae018ed601d,rating upward mobility,2
+62a34ff1f408bae018ed601d,rating learning,2
+62a34ff4f3072dd892624b32,rating salary,3
+62a34ff4f3072dd892624b32,rating worklife balance,6
+62a34ff4f3072dd892624b32,rating coworkers,4
+62a34ff4f3072dd892624b32,rating management,6
+62a34ff4f3072dd892624b32,rating upward mobility,4
+62a34ff4f3072dd892624b32,rating learning,6
+62a3505bd8c00e9f5419f8df,rating salary,3
+62a3505bd8c00e9f5419f8df,rating worklife balance,5
+62a3505bd8c00e9f5419f8df,rating coworkers,4
+62a3505bd8c00e9f5419f8df,rating management,5
+62a3505bd8c00e9f5419f8df,rating upward mobility,4
+62a3505bd8c00e9f5419f8df,rating learning,4
+62a350f7f3072dd892624d05,rating salary,5
+62a350f7f3072dd892624d05,rating worklife balance,2
+62a350f7f3072dd892624d05,rating coworkers,4
+62a350f7f3072dd892624d05,rating management,3
+62a350f7f3072dd892624d05,rating upward mobility,3
+62a350f7f3072dd892624d05,rating learning,3
+62a35130f3072dd892624d9f,rating salary,2
+62a35130f3072dd892624d9f,rating worklife balance,6
+62a35130f3072dd892624d9f,rating coworkers,6
+62a35130f3072dd892624d9f,rating management,5
+62a35130f3072dd892624d9f,rating upward mobility,4
+62a35130f3072dd892624d9f,rating learning,5
+62a351860a77c1a77f65e86b,rating salary,7
+62a351860a77c1a77f65e86b,rating worklife balance,8
+62a351860a77c1a77f65e86b,rating coworkers,8
+62a351860a77c1a77f65e86b,rating management,8
+62a351860a77c1a77f65e86b,rating upward mobility,8
+62a351860a77c1a77f65e86b,rating learning,7
+62a3519b24a262602738514a,rating salary,9
+62a3519b24a262602738514a,rating worklife balance,10
+62a3519b24a262602738514a,rating coworkers,10
+62a3519b24a262602738514a,rating management,10
+62a3519b24a262602738514a,rating upward mobility,7
+62a3519b24a262602738514a,rating learning,9
+62a35236b4da29969c631214,rating salary,1
+62a35236b4da29969c631214,rating worklife balance,1
+62a35236b4da29969c631214,rating coworkers,1
+62a35236b4da29969c631214,rating management,0
+62a35236b4da29969c631214,rating upward mobility,0
+62a35236b4da29969c631214,rating learning,2
+62a352a32e54c9003e534981,rating salary,8
+62a352a32e54c9003e534981,rating worklife balance,8
+62a352a32e54c9003e534981,rating coworkers,7
+62a352a32e54c9003e534981,rating management,7
+62a352a32e54c9003e534981,rating upward mobility,10
+62a352a32e54c9003e534981,rating learning,10
+62a352f00a77c1a77f65eae7,rating salary,3
+62a352f00a77c1a77f65eae7,rating worklife balance,2
+62a352f00a77c1a77f65eae7,rating coworkers,4
+62a352f00a77c1a77f65eae7,rating management,2
+62a352f00a77c1a77f65eae7,rating upward mobility,2
+62a352f00a77c1a77f65eae7,rating learning,2
+62a353372e54c9003e534a40,rating salary,8
+62a353372e54c9003e534a40,rating worklife balance,10
+62a353372e54c9003e534a40,rating coworkers,9
+62a353372e54c9003e534a40,rating management,7
+62a353372e54c9003e534a40,rating upward mobility,5
+62a353372e54c9003e534a40,rating learning,5
+62a353565d257a28a30da59f,rating salary,2
+62a353565d257a28a30da59f,rating worklife balance,3
+62a353565d257a28a30da59f,rating coworkers,3
+62a353565d257a28a30da59f,rating management,3
+62a353565d257a28a30da59f,rating upward mobility,2
+62a353565d257a28a30da59f,rating learning,4
+62a353f07dc029e2d66c1783,rating salary,3
+62a353f07dc029e2d66c1783,rating worklife balance,5
+62a353f07dc029e2d66c1783,rating coworkers,5
+62a353f07dc029e2d66c1783,rating management,4
+62a353f07dc029e2d66c1783,rating upward mobility,4
+62a353f07dc029e2d66c1783,rating learning,5
+62a3545e0f8c8599d5af474b,rating salary,8
+62a3545e0f8c8599d5af474b,rating worklife balance,8
+62a3545e0f8c8599d5af474b,rating coworkers,8
+62a3545e0f8c8599d5af474b,rating management,8
+62a3545e0f8c8599d5af474b,rating upward mobility,10
+62a3545e0f8c8599d5af474b,rating learning,10
+62a35472cec54911e9ca82bc,rating salary,3
+62a35472cec54911e9ca82bc,rating worklife balance,4
+62a35472cec54911e9ca82bc,rating coworkers,5
+62a35472cec54911e9ca82bc,rating management,5
+62a35472cec54911e9ca82bc,rating upward mobility,4
+62a35472cec54911e9ca82bc,rating learning,3
+62a354bdb4da29969c631700,rating salary,1
+62a354bdb4da29969c631700,rating worklife balance,4
+62a354bdb4da29969c631700,rating coworkers,3
+62a354bdb4da29969c631700,rating management,2
+62a354bdb4da29969c631700,rating upward mobility,0
+62a354bdb4da29969c631700,rating learning,6
+62a354e9cf255543173031ed,rating salary,8
+62a354e9cf255543173031ed,rating worklife balance,10
+62a354e9cf255543173031ed,rating coworkers,8
+62a354e9cf255543173031ed,rating management,8
+62a354e9cf255543173031ed,rating upward mobility,9
+62a354e9cf255543173031ed,rating learning,10
+62a35541f3072dd892625517,rating salary,5
+62a35541f3072dd892625517,rating worklife balance,5
+62a35541f3072dd892625517,rating coworkers,7
+62a35541f3072dd892625517,rating management,7
+62a35541f3072dd892625517,rating upward mobility,7
+62a35541f3072dd892625517,rating learning,7
+62a355445d257a28a30dab12,rating salary,0
+62a355445d257a28a30dab12,rating worklife balance,7
+62a355445d257a28a30dab12,rating coworkers,7
+62a355445d257a28a30dab12,rating management,7
+62a355445d257a28a30dab12,rating upward mobility,0
+62a355445d257a28a30dab12,rating learning,7
+62a35631cf25554317303425,rating salary,7
+62a35631cf25554317303425,rating worklife balance,5
+62a35631cf25554317303425,rating coworkers,8
+62a35631cf25554317303425,rating management,6
+62a35631cf25554317303425,rating upward mobility,5
+62a35631cf25554317303425,rating learning,10
+62a357390a77c1a77f65f189,rating salary,0
+62a357390a77c1a77f65f189,rating worklife balance,7
+62a357390a77c1a77f65f189,rating coworkers,5
+62a357390a77c1a77f65f189,rating management,0
+62a357390a77c1a77f65f189,rating upward mobility,0
+62a357390a77c1a77f65f189,rating learning,7
+62a3578b0a77c1a77f65f279,rating salary,4
+62a3578b0a77c1a77f65f279,rating worklife balance,6
+62a3578b0a77c1a77f65f279,rating coworkers,5
+62a3578b0a77c1a77f65f279,rating management,4
+62a3578b0a77c1a77f65f279,rating upward mobility,5
+62a3578b0a77c1a77f65f279,rating learning,6
+62a357d30f8c8599d5af4ea3,rating salary,4
+62a357d30f8c8599d5af4ea3,rating worklife balance,4
+62a357d30f8c8599d5af4ea3,rating coworkers,5
+62a357d30f8c8599d5af4ea3,rating management,6
+62a357d30f8c8599d5af4ea3,rating upward mobility,6
+62a357d30f8c8599d5af4ea3,rating learning,0
+62a3582e575fa3a5ae88e506,rating salary,7
+62a3582e575fa3a5ae88e506,rating worklife balance,8
+62a3582e575fa3a5ae88e506,rating coworkers,8
+62a3582e575fa3a5ae88e506,rating management,8
+62a3582e575fa3a5ae88e506,rating upward mobility,7
+62a3582e575fa3a5ae88e506,rating learning,8
+62a35878575fa3a5ae88e5d5,rating salary,6
+62a35878575fa3a5ae88e5d5,rating worklife balance,10
+62a35878575fa3a5ae88e5d5,rating coworkers,3
+62a35878575fa3a5ae88e5d5,rating management,5
+62a35878575fa3a5ae88e5d5,rating upward mobility,0
+62a35878575fa3a5ae88e5d5,rating learning,10
+62a35981bae91e4b8b8323dd,rating salary,6
+62a35981bae91e4b8b8323dd,rating worklife balance,6
+62a35981bae91e4b8b8323dd,rating coworkers,3
+62a35981bae91e4b8b8323dd,rating management,3
+62a35981bae91e4b8b8323dd,rating upward mobility,3
+62a35981bae91e4b8b8323dd,rating learning,3
+62a35a2c7dc029e2d66c2519,rating salary,3
+62a35a2c7dc029e2d66c2519,rating worklife balance,7
+62a35a2c7dc029e2d66c2519,rating coworkers,6
+62a35a2c7dc029e2d66c2519,rating management,7
+62a35a2c7dc029e2d66c2519,rating upward mobility,0
+62a35a2c7dc029e2d66c2519,rating learning,0
+62a35aa2f8d5efcc22f8075d,rating salary,3
+62a35aa2f8d5efcc22f8075d,rating worklife balance,5
+62a35aa2f8d5efcc22f8075d,rating coworkers,6
+62a35aa2f8d5efcc22f8075d,rating management,4
+62a35aa2f8d5efcc22f8075d,rating upward mobility,3
+62a35aa2f8d5efcc22f8075d,rating learning,7
+62a35ababae91e4b8b83269d,rating salary,8
+62a35ababae91e4b8b83269d,rating worklife balance,8
+62a35ababae91e4b8b83269d,rating coworkers,8
+62a35ababae91e4b8b83269d,rating management,8
+62a35ababae91e4b8b83269d,rating upward mobility,8
+62a35ababae91e4b8b83269d,rating learning,9
+62a35ae0575fa3a5ae88ea98,rating salary,5
+62a35ae0575fa3a5ae88ea98,rating worklife balance,5
+62a35ae0575fa3a5ae88ea98,rating coworkers,6
+62a35ae0575fa3a5ae88ea98,rating management,5
+62a35ae0575fa3a5ae88ea98,rating upward mobility,6
+62a35ae0575fa3a5ae88ea98,rating learning,7
+62a35ae87dc029e2d66c279b,rating salary,1
+62a35ae87dc029e2d66c279b,rating worklife balance,2
+62a35ae87dc029e2d66c279b,rating coworkers,6
+62a35ae87dc029e2d66c279b,rating management,4
+62a35ae87dc029e2d66c279b,rating upward mobility,2
+62a35ae87dc029e2d66c279b,rating learning,0
+62a35b13bc6861bf31770188,rating salary,3
+62a35b13bc6861bf31770188,rating worklife balance,3
+62a35b13bc6861bf31770188,rating coworkers,3
+62a35b13bc6861bf31770188,rating management,2
+62a35b13bc6861bf31770188,rating upward mobility,2
+62a35b13bc6861bf31770188,rating learning,1
+62a35b72f408bae018ed76a8,rating salary,3
+62a35b72f408bae018ed76a8,rating worklife balance,4
+62a35b72f408bae018ed76a8,rating coworkers,4
+62a35b72f408bae018ed76a8,rating management,4
+62a35b72f408bae018ed76a8,rating upward mobility,1
+62a35b72f408bae018ed76a8,rating learning,3
+62a35b965d257a28a30db899,rating salary,0
+62a35b965d257a28a30db899,rating worklife balance,0
+62a35b965d257a28a30db899,rating coworkers,7
+62a35b965d257a28a30db899,rating management,1
+62a35b965d257a28a30db899,rating upward mobility,0
+62a35b965d257a28a30db899,rating learning,9
+62a35ba3f3072dd892626068,rating salary,8
+62a35ba3f3072dd892626068,rating worklife balance,10
+62a35ba3f3072dd892626068,rating coworkers,10
+62a35ba3f3072dd892626068,rating management,10
+62a35ba3f3072dd892626068,rating upward mobility,10
+62a35ba3f3072dd892626068,rating learning,10
+62a35c890a77c1a77f65fdfa,rating salary,2
+62a35c890a77c1a77f65fdfa,rating worklife balance,8
+62a35c890a77c1a77f65fdfa,rating coworkers,8
+62a35c890a77c1a77f65fdfa,rating management,7
+62a35c890a77c1a77f65fdfa,rating upward mobility,6
+62a35c890a77c1a77f65fdfa,rating learning,9
+62a35d8f575fa3a5ae88efd6,rating salary,2
+62a35d8f575fa3a5ae88efd6,rating worklife balance,4
+62a35d8f575fa3a5ae88efd6,rating coworkers,6
+62a35d8f575fa3a5ae88efd6,rating management,1
+62a35d8f575fa3a5ae88efd6,rating upward mobility,1
+62a35d8f575fa3a5ae88efd6,rating learning,1
+62a35d95cf25554317304386,rating salary,10
+62a35d95cf25554317304386,rating worklife balance,10
+62a35d95cf25554317304386,rating coworkers,10
+62a35d95cf25554317304386,rating management,8
+62a35d95cf25554317304386,rating upward mobility,10
+62a35d95cf25554317304386,rating learning,10
+62a35e970a77c1a77f66035a,rating salary,2
+62a35e970a77c1a77f66035a,rating worklife balance,4
+62a35e970a77c1a77f66035a,rating coworkers,1
+62a35e970a77c1a77f66035a,rating management,3
+62a35e970a77c1a77f66035a,rating upward mobility,1
+62a35e970a77c1a77f66035a,rating learning,7
+62a35eabf408bae018ed7cbc,rating salary,2
+62a35eabf408bae018ed7cbc,rating worklife balance,4
+62a35eabf408bae018ed7cbc,rating coworkers,5
+62a35eabf408bae018ed7cbc,rating management,5
+62a35eabf408bae018ed7cbc,rating upward mobility,4
+62a35eabf408bae018ed7cbc,rating learning,6
+62a35f0d24a2626027386a8b,rating salary,3
+62a35f0d24a2626027386a8b,rating worklife balance,3
+62a35f0d24a2626027386a8b,rating coworkers,4
+62a35f0d24a2626027386a8b,rating management,1
+62a35f0d24a2626027386a8b,rating upward mobility,2
+62a35f0d24a2626027386a8b,rating learning,2
+62a35f825d257a28a30dc128,rating salary,8
+62a35f825d257a28a30dc128,rating worklife balance,10
+62a35f825d257a28a30dc128,rating coworkers,10
+62a35f825d257a28a30dc128,rating management,8
+62a35f825d257a28a30dc128,rating upward mobility,5
+62a35f825d257a28a30dc128,rating learning,7
+62a35fa0f8f7561645856c35,rating salary,4
+62a35fa0f8f7561645856c35,rating worklife balance,5
+62a35fa0f8f7561645856c35,rating coworkers,5
+62a35fa0f8f7561645856c35,rating management,5
+62a35fa0f8f7561645856c35,rating upward mobility,4
+62a35fa0f8f7561645856c35,rating learning,4
+62a35fc1f8f7561645856c98,rating salary,0
+62a35fc1f8f7561645856c98,rating worklife balance,0
+62a35fc1f8f7561645856c98,rating coworkers,0
+62a35fc1f8f7561645856c98,rating management,0
+62a35fc1f8f7561645856c98,rating upward mobility,0
+62a35fc1f8f7561645856c98,rating learning,0
+62a3602318134ddc75ced6b9,rating salary,4
+62a3602318134ddc75ced6b9,rating worklife balance,5
+62a3602318134ddc75ced6b9,rating coworkers,3
+62a3602318134ddc75ced6b9,rating management,4
+62a3602318134ddc75ced6b9,rating upward mobility,2
+62a3602318134ddc75ced6b9,rating learning,3
+62a360b8f8f7561645856ec4,rating salary,5
+62a360b8f8f7561645856ec4,rating worklife balance,3
+62a360b8f8f7561645856ec4,rating coworkers,5
+62a360b8f8f7561645856ec4,rating management,5
+62a360b8f8f7561645856ec4,rating upward mobility,4
+62a360b8f8f7561645856ec4,rating learning,5
+62a360dbd8c00e9f541a16cf,rating salary,10
+62a360dbd8c00e9f541a16cf,rating worklife balance,4
+62a360dbd8c00e9f541a16cf,rating coworkers,10
+62a360dbd8c00e9f541a16cf,rating management,10
+62a360dbd8c00e9f541a16cf,rating upward mobility,4
+62a360dbd8c00e9f541a16cf,rating learning,10
+62a36146f8f7561645856ff7,rating salary,6
+62a36146f8f7561645856ff7,rating worklife balance,8
+62a36146f8f7561645856ff7,rating coworkers,6
+62a36146f8f7561645856ff7,rating management,6
+62a36146f8f7561645856ff7,rating upward mobility,8
+62a36146f8f7561645856ff7,rating learning,10
+62a361af0f8c8599d5af6277,rating salary,0
+62a361af0f8c8599d5af6277,rating worklife balance,0
+62a361af0f8c8599d5af6277,rating coworkers,0
+62a361af0f8c8599d5af6277,rating management,0
+62a361af0f8c8599d5af6277,rating upward mobility,0
+62a361af0f8c8599d5af6277,rating learning,0
+62a361cc575fa3a5ae88f908,rating salary,7
+62a361cc575fa3a5ae88f908,rating worklife balance,5
+62a361cc575fa3a5ae88f908,rating coworkers,5
+62a361cc575fa3a5ae88f908,rating management,7
+62a361cc575fa3a5ae88f908,rating upward mobility,9
+62a361cc575fa3a5ae88f908,rating learning,10
+62a3620f0f8c8599d5af63a5,rating salary,0
+62a3620f0f8c8599d5af63a5,rating worklife balance,10
+62a3620f0f8c8599d5af63a5,rating coworkers,6
+62a3620f0f8c8599d5af63a5,rating management,0
+62a3620f0f8c8599d5af63a5,rating upward mobility,0
+62a3620f0f8c8599d5af63a5,rating learning,0
+62a36251d8c00e9f541a199e,rating salary,5
+62a36251d8c00e9f541a199e,rating worklife balance,5
+62a36251d8c00e9f541a199e,rating coworkers,6
+62a36251d8c00e9f541a199e,rating management,4
+62a36251d8c00e9f541a199e,rating upward mobility,5
+62a36251d8c00e9f541a199e,rating learning,5
+62a36275bc6861bf31771183,rating salary,6
+62a36275bc6861bf31771183,rating worklife balance,8
+62a36275bc6861bf31771183,rating coworkers,10
+62a36275bc6861bf31771183,rating management,9
+62a36275bc6861bf31771183,rating upward mobility,7
+62a36275bc6861bf31771183,rating learning,9
+62a3636c2e54c9003e536e6b,rating salary,1
+62a3636c2e54c9003e536e6b,rating worklife balance,2
+62a3636c2e54c9003e536e6b,rating coworkers,4
+62a3636c2e54c9003e536e6b,rating management,4
+62a3636c2e54c9003e536e6b,rating upward mobility,4
+62a3636c2e54c9003e536e6b,rating learning,5
+62a365c2f8d5efcc22f81e2e,rating salary,3
+62a365c2f8d5efcc22f81e2e,rating worklife balance,5
+62a365c2f8d5efcc22f81e2e,rating coworkers,9
+62a365c2f8d5efcc22f81e2e,rating management,9
+62a365c2f8d5efcc22f81e2e,rating upward mobility,NA
+62a365c2f8d5efcc22f81e2e,rating learning,8
+62a365d5d8c00e9f541a20cf,rating salary,5
+62a365d5d8c00e9f541a20cf,rating worklife balance,7
+62a365d5d8c00e9f541a20cf,rating coworkers,5
+62a365d5d8c00e9f541a20cf,rating management,5
+62a365d5d8c00e9f541a20cf,rating upward mobility,5
+62a365d5d8c00e9f541a20cf,rating learning,7
+62a3670b575fa3a5ae890422,rating salary,0
+62a3670b575fa3a5ae890422,rating worklife balance,1
+62a3670b575fa3a5ae890422,rating coworkers,1
+62a3670b575fa3a5ae890422,rating management,0
+62a3670b575fa3a5ae890422,rating upward mobility,0
+62a3670b575fa3a5ae890422,rating learning,2
+62a3676bb4da29969c633ac7,rating salary,4
+62a3676bb4da29969c633ac7,rating worklife balance,7
+62a3676bb4da29969c633ac7,rating coworkers,8
+62a3676bb4da29969c633ac7,rating management,8
+62a3676bb4da29969c633ac7,rating upward mobility,8
+62a3676bb4da29969c633ac7,rating learning,9
+62a36794b4da29969c633b48,rating salary,6
+62a36794b4da29969c633b48,rating worklife balance,5
+62a36794b4da29969c633b48,rating coworkers,6
+62a36794b4da29969c633b48,rating management,5
+62a36794b4da29969c633b48,rating upward mobility,6
+62a36794b4da29969c633b48,rating learning,6
+62a367d224a2626027387b56,rating salary,7
+62a367d224a2626027387b56,rating worklife balance,7
+62a367d224a2626027387b56,rating coworkers,7
+62a367d224a2626027387b56,rating management,NA
+62a367d224a2626027387b56,rating upward mobility,5
+62a367d224a2626027387b56,rating learning,7
+62a367ed18134ddc75cee697,rating salary,7
+62a367ed18134ddc75cee697,rating worklife balance,4
+62a367ed18134ddc75cee697,rating coworkers,10
+62a367ed18134ddc75cee697,rating management,9
+62a367ed18134ddc75cee697,rating upward mobility,7
+62a367ed18134ddc75cee697,rating learning,10
+62a36802f8f7561645857e38,rating salary,6
+62a36802f8f7561645857e38,rating worklife balance,6
+62a36802f8f7561645857e38,rating coworkers,6
+62a36802f8f7561645857e38,rating management,6
+62a36802f8f7561645857e38,rating upward mobility,6
+62a36802f8f7561645857e38,rating learning,6
+62a3684ebc6861bf31771f15,rating salary,4
+62a3684ebc6861bf31771f15,rating worklife balance,4
+62a3684ebc6861bf31771f15,rating coworkers,4
+62a3684ebc6861bf31771f15,rating management,4
+62a3684ebc6861bf31771f15,rating upward mobility,4
+62a3684ebc6861bf31771f15,rating learning,4
+62a3688df8f7561645857f7e,rating salary,5
+62a3688df8f7561645857f7e,rating worklife balance,5
+62a3688df8f7561645857f7e,rating coworkers,5
+62a3688df8f7561645857f7e,rating management,5
+62a3688df8f7561645857f7e,rating upward mobility,5
+62a3688df8f7561645857f7e,rating learning,5
+62a368ee2e54c9003e537e4a,rating salary,5
+62a368ee2e54c9003e537e4a,rating worklife balance,10
+62a368ee2e54c9003e537e4a,rating coworkers,10
+62a368ee2e54c9003e537e4a,rating management,8
+62a368ee2e54c9003e537e4a,rating upward mobility,10
+62a368ee2e54c9003e537e4a,rating learning,10
+62a369280a77c1a77f661ad0,rating salary,0
+62a369280a77c1a77f661ad0,rating worklife balance,3
+62a369280a77c1a77f661ad0,rating coworkers,NA
+62a369280a77c1a77f661ad0,rating management,NA
+62a369280a77c1a77f661ad0,rating upward mobility,NA
+62a369280a77c1a77f661ad0,rating learning,6
+62a36969f8f756164585821d,rating salary,10
+62a36969f8f756164585821d,rating worklife balance,2
+62a36969f8f756164585821d,rating coworkers,8
+62a36969f8f756164585821d,rating management,5
+62a36969f8f756164585821d,rating upward mobility,0
+62a36969f8f756164585821d,rating learning,6
+62a3697ff408bae018ed948b,rating salary,7
+62a3697ff408bae018ed948b,rating worklife balance,7
+62a3697ff408bae018ed948b,rating coworkers,5
+62a3697ff408bae018ed948b,rating management,7
+62a3697ff408bae018ed948b,rating upward mobility,7
+62a3697ff408bae018ed948b,rating learning,7
+62a36ac6cf255543173063d8,rating salary,6
+62a36ac6cf255543173063d8,rating worklife balance,10
+62a36ac6cf255543173063d8,rating coworkers,8
+62a36ac6cf255543173063d8,rating management,8
+62a36ac6cf255543173063d8,rating upward mobility,4
+62a36ac6cf255543173063d8,rating learning,4
+62a36ad1f408bae018ed9793,rating salary,0
+62a36ad1f408bae018ed9793,rating worklife balance,3
+62a36ad1f408bae018ed9793,rating coworkers,3
+62a36ad1f408bae018ed9793,rating management,3
+62a36ad1f408bae018ed9793,rating upward mobility,3
+62a36ad1f408bae018ed9793,rating learning,NA
+62a36b6c24a26260273882a2,rating salary,1
+62a36b6c24a26260273882a2,rating worklife balance,2
+62a36b6c24a26260273882a2,rating coworkers,2
+62a36b6c24a26260273882a2,rating management,3
+62a36b6c24a26260273882a2,rating upward mobility,3
+62a36b6c24a26260273882a2,rating learning,4
+62a36b862e54c9003e5383c6,rating salary,5
+62a36b862e54c9003e5383c6,rating worklife balance,2
+62a36b862e54c9003e5383c6,rating coworkers,0
+62a36b862e54c9003e5383c6,rating management,2
+62a36b862e54c9003e5383c6,rating upward mobility,0
+62a36b862e54c9003e5383c6,rating learning,0
+62a36d12f8d5efcc22f82cd8,rating salary,0
+62a36d12f8d5efcc22f82cd8,rating worklife balance,4
+62a36d12f8d5efcc22f82cd8,rating coworkers,7
+62a36d12f8d5efcc22f82cd8,rating management,6
+62a36d12f8d5efcc22f82cd8,rating upward mobility,7
+62a36d12f8d5efcc22f82cd8,rating learning,8
+62a36d3124a262602738862c,rating salary,5
+62a36d3124a262602738862c,rating worklife balance,8
+62a36d3124a262602738862c,rating coworkers,8
+62a36d3124a262602738862c,rating management,9
+62a36d3124a262602738862c,rating upward mobility,7
+62a36d3124a262602738862c,rating learning,9
+62a36e470a77c1a77f662470,rating salary,10
+62a36e470a77c1a77f662470,rating worklife balance,5
+62a36e470a77c1a77f662470,rating coworkers,10
+62a36e470a77c1a77f662470,rating management,10
+62a36e470a77c1a77f662470,rating upward mobility,6
+62a36e470a77c1a77f662470,rating learning,10
+62a36e7024a262602738890a,rating salary,5
+62a36e7024a262602738890a,rating worklife balance,4
+62a36e7024a262602738890a,rating coworkers,4
+62a36e7024a262602738890a,rating management,4
+62a36e7024a262602738890a,rating upward mobility,5
+62a36e7024a262602738890a,rating learning,5
+62a36fe67dc029e2d66c5303,rating salary,1
+62a36fe67dc029e2d66c5303,rating worklife balance,4
+62a36fe67dc029e2d66c5303,rating coworkers,9
+62a36fe67dc029e2d66c5303,rating management,7
+62a36fe67dc029e2d66c5303,rating upward mobility,8
+62a36fe67dc029e2d66c5303,rating learning,10
+62a3701f575fa3a5ae89164e,rating salary,4
+62a3701f575fa3a5ae89164e,rating worklife balance,4
+62a3701f575fa3a5ae89164e,rating coworkers,6
+62a3701f575fa3a5ae89164e,rating management,3
+62a3701f575fa3a5ae89164e,rating upward mobility,4
+62a3701f575fa3a5ae89164e,rating learning,0
+62a370635d257a28a30de5eb,rating salary,1
+62a370635d257a28a30de5eb,rating worklife balance,1
+62a370635d257a28a30de5eb,rating coworkers,1
+62a370635d257a28a30de5eb,rating management,1
+62a370635d257a28a30de5eb,rating upward mobility,1
+62a370635d257a28a30de5eb,rating learning,1
+62a37128d8c00e9f541a39dd,rating salary,5
+62a37128d8c00e9f541a39dd,rating worklife balance,2
+62a37128d8c00e9f541a39dd,rating coworkers,5
+62a37128d8c00e9f541a39dd,rating management,5
+62a37128d8c00e9f541a39dd,rating upward mobility,3
+62a37128d8c00e9f541a39dd,rating learning,4
+62a3715124a2626027388f02,rating salary,4
+62a3715124a2626027388f02,rating worklife balance,7
+62a3715124a2626027388f02,rating coworkers,9
+62a3715124a2626027388f02,rating management,5
+62a3715124a2626027388f02,rating upward mobility,2
+62a3715124a2626027388f02,rating learning,8
+62a37222cf2555431730732d,rating salary,6
+62a37222cf2555431730732d,rating worklife balance,6
+62a37222cf2555431730732d,rating coworkers,6
+62a37222cf2555431730732d,rating management,5
+62a37222cf2555431730732d,rating upward mobility,4
+62a37222cf2555431730732d,rating learning,7
+62a373efbc6861bf3177360b,rating salary,8
+62a373efbc6861bf3177360b,rating worklife balance,9
+62a373efbc6861bf3177360b,rating coworkers,9
+62a373efbc6861bf3177360b,rating management,7
+62a373efbc6861bf3177360b,rating upward mobility,6
+62a373efbc6861bf3177360b,rating learning,6
+62a3759e5d257a28a30def3a,rating salary,4
+62a3759e5d257a28a30def3a,rating worklife balance,10
+62a3759e5d257a28a30def3a,rating coworkers,10
+62a3759e5d257a28a30def3a,rating management,8
+62a3759e5d257a28a30def3a,rating upward mobility,5
+62a3759e5d257a28a30def3a,rating learning,6
+62a3777624a262602738997e,rating salary,3
+62a3777624a262602738997e,rating worklife balance,5
+62a3777624a262602738997e,rating coworkers,4
+62a3777624a262602738997e,rating management,4
+62a3777624a262602738997e,rating upward mobility,4
+62a3777624a262602738997e,rating learning,4
+62a377987dc029e2d66c638d,rating salary,7
+62a377987dc029e2d66c638d,rating worklife balance,7
+62a377987dc029e2d66c638d,rating coworkers,8
+62a377987dc029e2d66c638d,rating management,9
+62a377987dc029e2d66c638d,rating upward mobility,10
+62a377987dc029e2d66c638d,rating learning,10
+62a377f424a2626027389af3,rating salary,2
+62a377f424a2626027389af3,rating worklife balance,8
+62a377f424a2626027389af3,rating coworkers,7
+62a377f424a2626027389af3,rating management,6
+62a377f424a2626027389af3,rating upward mobility,5
+62a377f424a2626027389af3,rating learning,6
+62a3784c0f8c8599d5af8fbc,rating salary,1
+62a3784c0f8c8599d5af8fbc,rating worklife balance,7
+62a3784c0f8c8599d5af8fbc,rating coworkers,7
+62a3784c0f8c8599d5af8fbc,rating management,1
+62a3784c0f8c8599d5af8fbc,rating upward mobility,4
+62a3784c0f8c8599d5af8fbc,rating learning,10
+62a37a43d8c00e9f541a4a7c,rating salary,4
+62a37a43d8c00e9f541a4a7c,rating worklife balance,7
+62a37a43d8c00e9f541a4a7c,rating coworkers,8
+62a37a43d8c00e9f541a4a7c,rating management,7
+62a37a43d8c00e9f541a4a7c,rating upward mobility,8
+62a37a43d8c00e9f541a4a7c,rating learning,8
+62a37a7818134ddc75cf0d4c,rating salary,0
+62a37a7818134ddc75cf0d4c,rating worklife balance,10
+62a37a7818134ddc75cf0d4c,rating coworkers,10
+62a37a7818134ddc75cf0d4c,rating management,10
+62a37a7818134ddc75cf0d4c,rating upward mobility,10
+62a37a7818134ddc75cf0d4c,rating learning,10
+62a37aa1cf255543173081e5,rating salary,3
+62a37aa1cf255543173081e5,rating worklife balance,5
+62a37aa1cf255543173081e5,rating coworkers,5
+62a37aa1cf255543173081e5,rating management,5
+62a37aa1cf255543173081e5,rating upward mobility,3
+62a37aa1cf255543173081e5,rating learning,3
+62a37ad924a2626027389f8a,rating salary,4
+62a37ad924a2626027389f8a,rating worklife balance,4
+62a37ad924a2626027389f8a,rating coworkers,4
+62a37ad924a2626027389f8a,rating management,0
+62a37ad924a2626027389f8a,rating upward mobility,0
+62a37ad924a2626027389f8a,rating learning,6
+62a37b7db4da29969c636123,rating salary,0
+62a37b7db4da29969c636123,rating worklife balance,0
+62a37b7db4da29969c636123,rating coworkers,1
+62a37b7db4da29969c636123,rating management,1
+62a37b7db4da29969c636123,rating upward mobility,0
+62a37b7db4da29969c636123,rating learning,1
+62a37bab2e54c9003e53a10a,rating salary,5
+62a37bab2e54c9003e53a10a,rating worklife balance,9
+62a37bab2e54c9003e53a10a,rating coworkers,10
+62a37bab2e54c9003e53a10a,rating management,10
+62a37bab2e54c9003e53a10a,rating upward mobility,5
+62a37bab2e54c9003e53a10a,rating learning,10
+62a37c50cec54911e9cacee2,rating salary,4
+62a37c50cec54911e9cacee2,rating worklife balance,3
+62a37c50cec54911e9cacee2,rating coworkers,5
+62a37c50cec54911e9cacee2,rating management,2
+62a37c50cec54911e9cacee2,rating upward mobility,2
+62a37c50cec54911e9cacee2,rating learning,3
+62a37d41bae91e4b8b8369f7,rating salary,1
+62a37d41bae91e4b8b8369f7,rating worklife balance,1
+62a37d41bae91e4b8b8369f7,rating coworkers,1
+62a37d41bae91e4b8b8369f7,rating management,1
+62a37d41bae91e4b8b8369f7,rating upward mobility,7
+62a37d41bae91e4b8b8369f7,rating learning,9
+62a37f8db4da29969c6367bf,rating salary,7
+62a37f8db4da29969c6367bf,rating worklife balance,8
+62a37f8db4da29969c6367bf,rating coworkers,10
+62a37f8db4da29969c6367bf,rating management,8
+62a37f8db4da29969c6367bf,rating upward mobility,7
+62a37f8db4da29969c6367bf,rating learning,5
+62a37ff3bae91e4b8b836ed0,rating salary,0
+62a37ff3bae91e4b8b836ed0,rating worklife balance,4
+62a37ff3bae91e4b8b836ed0,rating coworkers,0
+62a37ff3bae91e4b8b836ed0,rating management,0
+62a37ff3bae91e4b8b836ed0,rating upward mobility,4
+62a37ff3bae91e4b8b836ed0,rating learning,5
+62a38023575fa3a5ae89339e,rating salary,1
+62a38023575fa3a5ae89339e,rating worklife balance,1
+62a38023575fa3a5ae89339e,rating coworkers,2
+62a38023575fa3a5ae89339e,rating management,1
+62a38023575fa3a5ae89339e,rating upward mobility,1
+62a38023575fa3a5ae89339e,rating learning,1
+62a38153cec54911e9cad855,rating salary,4
+62a38153cec54911e9cad855,rating worklife balance,10
+62a38153cec54911e9cad855,rating coworkers,10
+62a38153cec54911e9cad855,rating management,8
+62a38153cec54911e9cad855,rating upward mobility,8
+62a38153cec54911e9cad855,rating learning,10
+62a381d024a262602738ab19,rating salary,0
+62a381d024a262602738ab19,rating worklife balance,6
+62a381d024a262602738ab19,rating coworkers,5
+62a381d024a262602738ab19,rating management,6
+62a381d024a262602738ab19,rating upward mobility,0
+62a381d024a262602738ab19,rating learning,2
+62a38227bae91e4b8b837235,rating salary,6
+62a38227bae91e4b8b837235,rating worklife balance,6
+62a38227bae91e4b8b837235,rating coworkers,5
+62a38227bae91e4b8b837235,rating management,4
+62a38227bae91e4b8b837235,rating upward mobility,2
+62a38227bae91e4b8b837235,rating learning,4
+62a38489cf25554317309145,rating salary,6
+62a38489cf25554317309145,rating worklife balance,7
+62a38489cf25554317309145,rating coworkers,7
+62a38489cf25554317309145,rating management,10
+62a38489cf25554317309145,rating upward mobility,6
+62a38489cf25554317309145,rating learning,7
+62a384f0cec54911e9cadd6f,rating salary,3
+62a384f0cec54911e9cadd6f,rating worklife balance,5
+62a384f0cec54911e9cadd6f,rating coworkers,6
+62a384f0cec54911e9cadd6f,rating management,4
+62a384f0cec54911e9cadd6f,rating upward mobility,6
+62a384f0cec54911e9cadd6f,rating learning,6
+62a385480f8c8599d5afa5c6,rating salary,4
+62a385480f8c8599d5afa5c6,rating worklife balance,7
+62a385480f8c8599d5afa5c6,rating coworkers,7
+62a385480f8c8599d5afa5c6,rating management,6
+62a385480f8c8599d5afa5c6,rating upward mobility,8
+62a385480f8c8599d5afa5c6,rating learning,7
+62a3856218134ddc75cf1ee0,rating salary,6
+62a3856218134ddc75cf1ee0,rating worklife balance,10
+62a3856218134ddc75cf1ee0,rating coworkers,9
+62a3856218134ddc75cf1ee0,rating management,9
+62a3856218134ddc75cf1ee0,rating upward mobility,9
+62a3856218134ddc75cf1ee0,rating learning,10
+62a385c40f8c8599d5afa6cf,rating salary,3
+62a385c40f8c8599d5afa6cf,rating worklife balance,4
+62a385c40f8c8599d5afa6cf,rating coworkers,4
+62a385c40f8c8599d5afa6cf,rating management,4
+62a385c40f8c8599d5afa6cf,rating upward mobility,5
+62a385c40f8c8599d5afa6cf,rating learning,5
+62a385ddbae91e4b8b837855,rating salary,6
+62a385ddbae91e4b8b837855,rating worklife balance,5
+62a385ddbae91e4b8b837855,rating coworkers,9
+62a385ddbae91e4b8b837855,rating management,9
+62a385ddbae91e4b8b837855,rating upward mobility,7
+62a385ddbae91e4b8b837855,rating learning,5
+62a385e7b4da29969c6372ab,rating salary,6
+62a385e7b4da29969c6372ab,rating worklife balance,8
+62a385e7b4da29969c6372ab,rating coworkers,8
+62a385e7b4da29969c6372ab,rating management,9
+62a385e7b4da29969c6372ab,rating upward mobility,6
+62a385e7b4da29969c6372ab,rating learning,8
+62a386dfcec54911e9cae1d3,rating salary,7
+62a386dfcec54911e9cae1d3,rating worklife balance,6
+62a386dfcec54911e9cae1d3,rating coworkers,7
+62a386dfcec54911e9cae1d3,rating management,4
+62a386dfcec54911e9cae1d3,rating upward mobility,5
+62a386dfcec54911e9cae1d3,rating learning,8
+62a3870bbc6861bf31775841,rating salary,1
+62a3870bbc6861bf31775841,rating worklife balance,1
+62a3870bbc6861bf31775841,rating coworkers,1
+62a3870bbc6861bf31775841,rating management,1
+62a3870bbc6861bf31775841,rating upward mobility,1
+62a3870bbc6861bf31775841,rating learning,1
+62a38733f8d5efcc22f859fc,rating salary,5
+62a38733f8d5efcc22f859fc,rating worklife balance,2
+62a38733f8d5efcc22f859fc,rating coworkers,5
+62a38733f8d5efcc22f859fc,rating management,4
+62a38733f8d5efcc22f859fc,rating upward mobility,3
+62a38733f8d5efcc22f859fc,rating learning,5
+62a387e6575fa3a5ae8940a1,rating salary,3
+62a387e6575fa3a5ae8940a1,rating worklife balance,3
+62a387e6575fa3a5ae8940a1,rating coworkers,5
+62a387e6575fa3a5ae8940a1,rating management,4
+62a387e6575fa3a5ae8940a1,rating upward mobility,3
+62a387e6575fa3a5ae8940a1,rating learning,2
+62a388d524a262602738b869,rating salary,0
+62a388d524a262602738b869,rating worklife balance,2
+62a388d524a262602738b869,rating coworkers,0
+62a388d524a262602738b869,rating management,1
+62a388d524a262602738b869,rating upward mobility,1
+62a388d524a262602738b869,rating learning,2
+62a38975b4da29969c637830,rating salary,3
+62a38975b4da29969c637830,rating worklife balance,6
+62a38975b4da29969c637830,rating coworkers,6
+62a38975b4da29969c637830,rating management,6
+62a38975b4da29969c637830,rating upward mobility,4
+62a38975b4da29969c637830,rating learning,3
+62a38985f8f756164585b89c,rating salary,5
+62a38985f8f756164585b89c,rating worklife balance,6
+62a38985f8f756164585b89c,rating coworkers,2
+62a38985f8f756164585b89c,rating management,3
+62a38985f8f756164585b89c,rating upward mobility,3
+62a38985f8f756164585b89c,rating learning,5
+62a389b70f8c8599d5afad1a,rating salary,3
+62a389b70f8c8599d5afad1a,rating worklife balance,5
+62a389b70f8c8599d5afad1a,rating coworkers,4
+62a389b70f8c8599d5afad1a,rating management,5
+62a389b70f8c8599d5afad1a,rating upward mobility,4
+62a389b70f8c8599d5afad1a,rating learning,2
+62a389ed18134ddc75cf24f8,rating salary,2
+62a389ed18134ddc75cf24f8,rating worklife balance,7
+62a389ed18134ddc75cf24f8,rating coworkers,7
+62a389ed18134ddc75cf24f8,rating management,7
+62a389ed18134ddc75cf24f8,rating upward mobility,7
+62a389ed18134ddc75cf24f8,rating learning,7
+62a38a060a77c1a77f6654b7,rating salary,2
+62a38a060a77c1a77f6654b7,rating worklife balance,4
+62a38a060a77c1a77f6654b7,rating coworkers,5
+62a38a060a77c1a77f6654b7,rating management,3
+62a38a060a77c1a77f6654b7,rating upward mobility,1
+62a38a060a77c1a77f6654b7,rating learning,1
+62a38a4d575fa3a5ae8944df,rating salary,7
+62a38a4d575fa3a5ae8944df,rating worklife balance,7
+62a38a4d575fa3a5ae8944df,rating coworkers,8
+62a38a4d575fa3a5ae8944df,rating management,8
+62a38a4d575fa3a5ae8944df,rating upward mobility,6
+62a38a4d575fa3a5ae8944df,rating learning,7
+62a38a97cf25554317309af2,rating salary,2
+62a38a97cf25554317309af2,rating worklife balance,4
+62a38a97cf25554317309af2,rating coworkers,7
+62a38a97cf25554317309af2,rating management,10
+62a38a97cf25554317309af2,rating upward mobility,5
+62a38a97cf25554317309af2,rating learning,10
+62a38c120f8c8599d5afb0e9,rating salary,1
+62a38c120f8c8599d5afb0e9,rating worklife balance,5
+62a38c120f8c8599d5afb0e9,rating coworkers,5
+62a38c120f8c8599d5afb0e9,rating management,1
+62a38c120f8c8599d5afb0e9,rating upward mobility,0
+62a38c120f8c8599d5afb0e9,rating learning,3
+62a38c9dbc6861bf317760c4,rating salary,7
+62a38c9dbc6861bf317760c4,rating worklife balance,6
+62a38c9dbc6861bf317760c4,rating coworkers,5
+62a38c9dbc6861bf317760c4,rating management,7
+62a38c9dbc6861bf317760c4,rating upward mobility,4
+62a38c9dbc6861bf317760c4,rating learning,4
+62a38de50f8c8599d5afb3e7,rating salary,3
+62a38de50f8c8599d5afb3e7,rating worklife balance,3
+62a38de50f8c8599d5afb3e7,rating coworkers,6
+62a38de50f8c8599d5afb3e7,rating management,5
+62a38de50f8c8599d5afb3e7,rating upward mobility,NA
+62a38de50f8c8599d5afb3e7,rating learning,4
+62a3906224a262602738c58a,rating salary,4
+62a3906224a262602738c58a,rating worklife balance,5
+62a3906224a262602738c58a,rating coworkers,5
+62a3906224a262602738c58a,rating management,5
+62a3906224a262602738c58a,rating upward mobility,4
+62a3906224a262602738c58a,rating learning,5
+62a3907cbae91e4b8b838917,rating salary,0
+62a3907cbae91e4b8b838917,rating worklife balance,0
+62a3907cbae91e4b8b838917,rating coworkers,0
+62a3907cbae91e4b8b838917,rating management,0
+62a3907cbae91e4b8b838917,rating upward mobility,0
+62a3907cbae91e4b8b838917,rating learning,10
+62a390c0d8c00e9f541a6fd7,rating salary,2
+62a390c0d8c00e9f541a6fd7,rating worklife balance,2
+62a390c0d8c00e9f541a6fd7,rating coworkers,4
+62a390c0d8c00e9f541a6fd7,rating management,1
+62a390c0d8c00e9f541a6fd7,rating upward mobility,2
+62a390c0d8c00e9f541a6fd7,rating learning,1
+62a390e4f3072dd89262c0cd,rating salary,7
+62a390e4f3072dd89262c0cd,rating worklife balance,5
+62a390e4f3072dd89262c0cd,rating coworkers,9
+62a390e4f3072dd89262c0cd,rating management,9
+62a390e4f3072dd89262c0cd,rating upward mobility,9
+62a390e4f3072dd89262c0cd,rating learning,8
+62a391cacf2555431730a623,rating salary,9
+62a391cacf2555431730a623,rating worklife balance,10
+62a391cacf2555431730a623,rating coworkers,8
+62a391cacf2555431730a623,rating management,8
+62a391cacf2555431730a623,rating upward mobility,7
+62a391cacf2555431730a623,rating learning,7
+62a39214f8f756164585c6b6,rating salary,3
+62a39214f8f756164585c6b6,rating worklife balance,3
+62a39214f8f756164585c6b6,rating coworkers,3
+62a39214f8f756164585c6b6,rating management,0
+62a39214f8f756164585c6b6,rating upward mobility,0
+62a39214f8f756164585c6b6,rating learning,1
+62a39297b4da29969c638679,rating salary,8
+62a39297b4da29969c638679,rating worklife balance,7
+62a39297b4da29969c638679,rating coworkers,10
+62a39297b4da29969c638679,rating management,9
+62a39297b4da29969c638679,rating upward mobility,10
+62a39297b4da29969c638679,rating learning,10
+62a393330a77c1a77f6662e4,rating salary,3
+62a393330a77c1a77f6662e4,rating worklife balance,8
+62a393330a77c1a77f6662e4,rating coworkers,7
+62a393330a77c1a77f6662e4,rating management,5
+62a393330a77c1a77f6662e4,rating upward mobility,8
+62a393330a77c1a77f6662e4,rating learning,7
+62a3944024a262602738cb07,rating salary,6
+62a3944024a262602738cb07,rating worklife balance,3
+62a3944024a262602738cb07,rating coworkers,5
+62a3944024a262602738cb07,rating management,7
+62a3944024a262602738cb07,rating upward mobility,5
+62a3944024a262602738cb07,rating learning,7
+62a3951ed8c00e9f541a75d1,rating salary,7
+62a3951ed8c00e9f541a75d1,rating worklife balance,7
+62a3951ed8c00e9f541a75d1,rating coworkers,4
+62a3951ed8c00e9f541a75d1,rating management,5
+62a3951ed8c00e9f541a75d1,rating upward mobility,5
+62a3951ed8c00e9f541a75d1,rating learning,4
+62a3958fcec54911e9caf827,rating salary,3
+62a3958fcec54911e9caf827,rating worklife balance,5
+62a3958fcec54911e9caf827,rating coworkers,8
+62a3958fcec54911e9caf827,rating management,4
+62a3958fcec54911e9caf827,rating upward mobility,5
+62a3958fcec54911e9caf827,rating learning,5
+62a3970ebae91e4b8b839495,rating salary,NA
+62a3970ebae91e4b8b839495,rating worklife balance,NA
+62a3970ebae91e4b8b839495,rating coworkers,NA
+62a3970ebae91e4b8b839495,rating management,NA
+62a3970ebae91e4b8b839495,rating upward mobility,NA
+62a3970ebae91e4b8b839495,rating learning,0
+62a3976ecf2555431730af5e,rating salary,4
+62a3976ecf2555431730af5e,rating worklife balance,6
+62a3976ecf2555431730af5e,rating coworkers,2
+62a3976ecf2555431730af5e,rating management,3
+62a3976ecf2555431730af5e,rating upward mobility,3
+62a3976ecf2555431730af5e,rating learning,2
+62a397fb5d257a28a30e279a,rating salary,0
+62a397fb5d257a28a30e279a,rating worklife balance,10
+62a397fb5d257a28a30e279a,rating coworkers,10
+62a397fb5d257a28a30e279a,rating management,5
+62a397fb5d257a28a30e279a,rating upward mobility,0
+62a397fb5d257a28a30e279a,rating learning,3
+62a3980c7dc029e2d66c9a81,rating salary,3
+62a3980c7dc029e2d66c9a81,rating worklife balance,5
+62a3980c7dc029e2d66c9a81,rating coworkers,5
+62a3980c7dc029e2d66c9a81,rating management,5
+62a3980c7dc029e2d66c9a81,rating upward mobility,3
+62a3980c7dc029e2d66c9a81,rating learning,2
+62a3980e0f8c8599d5afc32c,rating salary,9
+62a3980e0f8c8599d5afc32c,rating worklife balance,9
+62a3980e0f8c8599d5afc32c,rating coworkers,9
+62a3980e0f8c8599d5afc32c,rating management,6
+62a3980e0f8c8599d5afc32c,rating upward mobility,9
+62a3980e0f8c8599d5afc32c,rating learning,8
+62a39a340f8c8599d5afc6ce,rating salary,3
+62a39a340f8c8599d5afc6ce,rating worklife balance,3
+62a39a340f8c8599d5afc6ce,rating coworkers,1
+62a39a340f8c8599d5afc6ce,rating management,1
+62a39a340f8c8599d5afc6ce,rating upward mobility,1
+62a39a340f8c8599d5afc6ce,rating learning,6
+62a39a95bc6861bf3177751d,rating salary,6
+62a39a95bc6861bf3177751d,rating worklife balance,8
+62a39a95bc6861bf3177751d,rating coworkers,8
+62a39a95bc6861bf3177751d,rating management,8
+62a39a95bc6861bf3177751d,rating upward mobility,8
+62a39a95bc6861bf3177751d,rating learning,10
+62a39b315d257a28a30e2cae,rating salary,6
+62a39b315d257a28a30e2cae,rating worklife balance,10
+62a39b315d257a28a30e2cae,rating coworkers,10
+62a39b315d257a28a30e2cae,rating management,10
+62a39b315d257a28a30e2cae,rating upward mobility,9
+62a39b315d257a28a30e2cae,rating learning,8
+62a39b6cf408bae018ede929,rating salary,8
+62a39b6cf408bae018ede929,rating worklife balance,8
+62a39b6cf408bae018ede929,rating coworkers,9
+62a39b6cf408bae018ede929,rating management,9
+62a39b6cf408bae018ede929,rating upward mobility,8
+62a39b6cf408bae018ede929,rating learning,7
+62a39bd324a262602738d725,rating salary,7
+62a39bd324a262602738d725,rating worklife balance,4
+62a39bd324a262602738d725,rating coworkers,7
+62a39bd324a262602738d725,rating management,4
+62a39bd324a262602738d725,rating upward mobility,8
+62a39bd324a262602738d725,rating learning,10
+62a39e03f408bae018eded39,rating salary,6
+62a39e03f408bae018eded39,rating worklife balance,6
+62a39e03f408bae018eded39,rating coworkers,10
+62a39e03f408bae018eded39,rating management,8
+62a39e03f408bae018eded39,rating upward mobility,6
+62a39e03f408bae018eded39,rating learning,8
+62a39e69d8c00e9f541a8358,rating salary,5
+62a39e69d8c00e9f541a8358,rating worklife balance,5
+62a39e69d8c00e9f541a8358,rating coworkers,5
+62a39e69d8c00e9f541a8358,rating management,5
+62a39e69d8c00e9f541a8358,rating upward mobility,5
+62a39e69d8c00e9f541a8358,rating learning,5
+62a3a0bcf8f756164585daf7,rating salary,7
+62a3a0bcf8f756164585daf7,rating worklife balance,8
+62a3a0bcf8f756164585daf7,rating coworkers,8
+62a3a0bcf8f756164585daf7,rating management,4
+62a3a0bcf8f756164585daf7,rating upward mobility,6
+62a3a0bcf8f756164585daf7,rating learning,8
+62a3a1a62e54c9003e53dc35,rating salary,0
+62a3a1a62e54c9003e53dc35,rating worklife balance,0
+62a3a1a62e54c9003e53dc35,rating coworkers,5
+62a3a1a62e54c9003e53dc35,rating management,0
+62a3a1a62e54c9003e53dc35,rating upward mobility,0
+62a3a1a62e54c9003e53dc35,rating learning,0
+62a3a231b4da29969c639b2c,rating salary,4
+62a3a231b4da29969c639b2c,rating worklife balance,4
+62a3a231b4da29969c639b2c,rating coworkers,2
+62a3a231b4da29969c639b2c,rating management,2
+62a3a231b4da29969c639b2c,rating upward mobility,2
+62a3a231b4da29969c639b2c,rating learning,2
+62a3a3800f8c8599d5afd4db,rating salary,9
+62a3a3800f8c8599d5afd4db,rating worklife balance,10
+62a3a3800f8c8599d5afd4db,rating coworkers,10
+62a3a3800f8c8599d5afd4db,rating management,9
+62a3a3800f8c8599d5afd4db,rating upward mobility,8
+62a3a3800f8c8599d5afd4db,rating learning,10
+62a3a4fdbae91e4b8b83ab6f,rating salary,4
+62a3a4fdbae91e4b8b83ab6f,rating worklife balance,9
+62a3a4fdbae91e4b8b83ab6f,rating coworkers,8
+62a3a4fdbae91e4b8b83ab6f,rating management,8
+62a3a4fdbae91e4b8b83ab6f,rating upward mobility,6
+62a3a4fdbae91e4b8b83ab6f,rating learning,10
+62a3a7f50a77c1a77f668221,rating salary,2
+62a3a7f50a77c1a77f668221,rating worklife balance,5
+62a3a7f50a77c1a77f668221,rating coworkers,5
+62a3a7f50a77c1a77f668221,rating management,5
+62a3a7f50a77c1a77f668221,rating upward mobility,5
+62a3a7f50a77c1a77f668221,rating learning,5
+62a3a90f24a262602738e800,rating salary,3
+62a3a90f24a262602738e800,rating worklife balance,10
+62a3a90f24a262602738e800,rating coworkers,9
+62a3a90f24a262602738e800,rating management,10
+62a3a90f24a262602738e800,rating upward mobility,5
+62a3a90f24a262602738e800,rating learning,0
+62a3a9dbd8c00e9f541a93eb,rating salary,4
+62a3a9dbd8c00e9f541a93eb,rating worklife balance,4
+62a3a9dbd8c00e9f541a93eb,rating coworkers,4
+62a3a9dbd8c00e9f541a93eb,rating management,5
+62a3a9dbd8c00e9f541a93eb,rating upward mobility,2
+62a3a9dbd8c00e9f541a93eb,rating learning,1
+62a3aaa3cec54911e9cb1724,rating salary,5
+62a3aaa3cec54911e9cb1724,rating worklife balance,7
+62a3aaa3cec54911e9cb1724,rating coworkers,9
+62a3aaa3cec54911e9cb1724,rating management,8
+62a3aaa3cec54911e9cb1724,rating upward mobility,8
+62a3aaa3cec54911e9cb1724,rating learning,8
+62a3ab320f8c8599d5afdfa8,rating salary,3
+62a3ab320f8c8599d5afdfa8,rating worklife balance,4
+62a3ab320f8c8599d5afdfa8,rating coworkers,4
+62a3ab320f8c8599d5afdfa8,rating management,4
+62a3ab320f8c8599d5afdfa8,rating upward mobility,4
+62a3ab320f8c8599d5afdfa8,rating learning,2
+62a3abacd8c00e9f541a96eb,rating salary,0
+62a3abacd8c00e9f541a96eb,rating worklife balance,5
+62a3abacd8c00e9f541a96eb,rating coworkers,0
+62a3abacd8c00e9f541a96eb,rating management,0
+62a3abacd8c00e9f541a96eb,rating upward mobility,0
+62a3abacd8c00e9f541a96eb,rating learning,0
+62a3ac4bf8f756164585ea83,rating salary,3
+62a3ac4bf8f756164585ea83,rating worklife balance,2
+62a3ac4bf8f756164585ea83,rating coworkers,4
+62a3ac4bf8f756164585ea83,rating management,3
+62a3ac4bf8f756164585ea83,rating upward mobility,7
+62a3ac4bf8f756164585ea83,rating learning,8
+62a3ad35cec54911e9cb1b5c,rating salary,4
+62a3ad35cec54911e9cb1b5c,rating worklife balance,6
+62a3ad35cec54911e9cb1b5c,rating coworkers,5
+62a3ad35cec54911e9cb1b5c,rating management,6
+62a3ad35cec54911e9cb1b5c,rating upward mobility,6
+62a3ad35cec54911e9cb1b5c,rating learning,4
+62a3ae69bc6861bf3177900d,rating salary,3
+62a3ae69bc6861bf3177900d,rating worklife balance,6
+62a3ae69bc6861bf3177900d,rating coworkers,9
+62a3ae69bc6861bf3177900d,rating management,6
+62a3ae69bc6861bf3177900d,rating upward mobility,5
+62a3ae69bc6861bf3177900d,rating learning,10
+62a3af26cec54911e9cb1f3a,rating salary,8
+62a3af26cec54911e9cb1f3a,rating worklife balance,5
+62a3af26cec54911e9cb1f3a,rating coworkers,9
+62a3af26cec54911e9cb1f3a,rating management,6
+62a3af26cec54911e9cb1f3a,rating upward mobility,6
+62a3af26cec54911e9cb1f3a,rating learning,10
+62a3af66f8f756164585eeb8,rating salary,4
+62a3af66f8f756164585eeb8,rating worklife balance,5
+62a3af66f8f756164585eeb8,rating coworkers,4
+62a3af66f8f756164585eeb8,rating management,4
+62a3af66f8f756164585eeb8,rating upward mobility,3
+62a3af66f8f756164585eeb8,rating learning,4
+62a3b135b4da29969c63b1ed,rating salary,2
+62a3b135b4da29969c63b1ed,rating worklife balance,5
+62a3b135b4da29969c63b1ed,rating coworkers,5
+62a3b135b4da29969c63b1ed,rating management,5
+62a3b135b4da29969c63b1ed,rating upward mobility,4
+62a3b135b4da29969c63b1ed,rating learning,5
+62a3b255d8c00e9f541a9fd5,rating salary,4
+62a3b255d8c00e9f541a9fd5,rating worklife balance,6
+62a3b255d8c00e9f541a9fd5,rating coworkers,3
+62a3b255d8c00e9f541a9fd5,rating management,4
+62a3b255d8c00e9f541a9fd5,rating upward mobility,4
+62a3b255d8c00e9f541a9fd5,rating learning,2
+62a3b314f408bae018ee0938,rating salary,8
+62a3b314f408bae018ee0938,rating worklife balance,8
+62a3b314f408bae018ee0938,rating coworkers,10
+62a3b314f408bae018ee0938,rating management,9
+62a3b314f408bae018ee0938,rating upward mobility,7
+62a3b314f408bae018ee0938,rating learning,5
+62a3b3f6bc6861bf3177973b,rating salary,3
+62a3b3f6bc6861bf3177973b,rating worklife balance,2
+62a3b3f6bc6861bf3177973b,rating coworkers,1
+62a3b3f6bc6861bf3177973b,rating management,1
+62a3b3f6bc6861bf3177973b,rating upward mobility,0
+62a3b3f6bc6861bf3177973b,rating learning,2
+62a3ba4dbc6861bf31779f24,rating salary,3
+62a3ba4dbc6861bf31779f24,rating worklife balance,5
+62a3ba4dbc6861bf31779f24,rating coworkers,3
+62a3ba4dbc6861bf31779f24,rating management,3
+62a3ba4dbc6861bf31779f24,rating upward mobility,1
+62a3ba4dbc6861bf31779f24,rating learning,1
+62a3baa624a262602738ff27,rating salary,6
+62a3baa624a262602738ff27,rating worklife balance,8
+62a3baa624a262602738ff27,rating coworkers,7
+62a3baa624a262602738ff27,rating management,6
+62a3baa624a262602738ff27,rating upward mobility,2
+62a3baa624a262602738ff27,rating learning,4
+62a3bc00d8c00e9f541aad66,rating salary,5
+62a3bc00d8c00e9f541aad66,rating worklife balance,7
+62a3bc00d8c00e9f541aad66,rating coworkers,7
+62a3bc00d8c00e9f541aad66,rating management,3
+62a3bc00d8c00e9f541aad66,rating upward mobility,7
+62a3bc00d8c00e9f541aad66,rating learning,9
+62a3bf1b0a77c1a77f66a347,rating salary,6
+62a3bf1b0a77c1a77f66a347,rating worklife balance,3
+62a3bf1b0a77c1a77f66a347,rating coworkers,9
+62a3bf1b0a77c1a77f66a347,rating management,5
+62a3bf1b0a77c1a77f66a347,rating upward mobility,8
+62a3bf1b0a77c1a77f66a347,rating learning,8
+62a3c021f8f756164586043f,rating salary,0
+62a3c021f8f756164586043f,rating worklife balance,3
+62a3c021f8f756164586043f,rating coworkers,3
+62a3c021f8f756164586043f,rating management,3
+62a3c021f8f756164586043f,rating upward mobility,4
+62a3c021f8f756164586043f,rating learning,4
+62a3c1b1bc6861bf3177aa8c,rating salary,4
+62a3c1b1bc6861bf3177aa8c,rating worklife balance,6
+62a3c1b1bc6861bf3177aa8c,rating coworkers,7
+62a3c1b1bc6861bf3177aa8c,rating management,7
+62a3c1b1bc6861bf3177aa8c,rating upward mobility,2
+62a3c1b1bc6861bf3177aa8c,rating learning,2
+62a3c30324a26260273909b9,rating salary,5
+62a3c30324a26260273909b9,rating worklife balance,3
+62a3c30324a26260273909b9,rating coworkers,5
+62a3c30324a26260273909b9,rating management,6
+62a3c30324a26260273909b9,rating upward mobility,6
+62a3c30324a26260273909b9,rating learning,4
+62a3c476bc6861bf3177ad9d,rating salary,3
+62a3c476bc6861bf3177ad9d,rating worklife balance,7
+62a3c476bc6861bf3177ad9d,rating coworkers,7
+62a3c476bc6861bf3177ad9d,rating management,7
+62a3c476bc6861bf3177ad9d,rating upward mobility,7
+62a3c476bc6861bf3177ad9d,rating learning,6
+62a3c5f2cec54911e9cb3d9b,rating salary,2
+62a3c5f2cec54911e9cb3d9b,rating worklife balance,10
+62a3c5f2cec54911e9cb3d9b,rating coworkers,10
+62a3c5f2cec54911e9cb3d9b,rating management,10
+62a3c5f2cec54911e9cb3d9b,rating upward mobility,10
+62a3c5f2cec54911e9cb3d9b,rating learning,3
+62a3c7f1bc6861bf3177b06e,rating salary,7
+62a3c7f1bc6861bf3177b06e,rating worklife balance,7
+62a3c7f1bc6861bf3177b06e,rating coworkers,7
+62a3c7f1bc6861bf3177b06e,rating management,7
+62a3c7f1bc6861bf3177b06e,rating upward mobility,7
+62a3c7f1bc6861bf3177b06e,rating learning,7
+62a3c8652e54c9003e54103e,rating salary,0
+62a3c8652e54c9003e54103e,rating worklife balance,5
+62a3c8652e54c9003e54103e,rating coworkers,9
+62a3c8652e54c9003e54103e,rating management,9
+62a3c8652e54c9003e54103e,rating upward mobility,0
+62a3c8652e54c9003e54103e,rating learning,10
+62a3ca44bae91e4b8b83dcd4,rating salary,7
+62a3ca44bae91e4b8b83dcd4,rating worklife balance,8
+62a3ca44bae91e4b8b83dcd4,rating coworkers,7
+62a3ca44bae91e4b8b83dcd4,rating management,7
+62a3ca44bae91e4b8b83dcd4,rating upward mobility,8
+62a3ca44bae91e4b8b83dcd4,rating learning,7
+62a3cafff8d5efcc22f8b5cb,rating salary,NA
+62a3cafff8d5efcc22f8b5cb,rating worklife balance,NA
+62a3cafff8d5efcc22f8b5cb,rating coworkers,NA
+62a3cafff8d5efcc22f8b5cb,rating management,8
+62a3cafff8d5efcc22f8b5cb,rating upward mobility,10
+62a3cafff8d5efcc22f8b5cb,rating learning,10
+62a3cbfef8d5efcc22f8b6f1,rating salary,0
+62a3cbfef8d5efcc22f8b6f1,rating worklife balance,1
+62a3cbfef8d5efcc22f8b6f1,rating coworkers,1
+62a3cbfef8d5efcc22f8b6f1,rating management,1
+62a3cbfef8d5efcc22f8b6f1,rating upward mobility,1
+62a3cbfef8d5efcc22f8b6f1,rating learning,2
+62a3cde8f8f7561645861366,rating salary,6
+62a3cde8f8f7561645861366,rating worklife balance,6
+62a3cde8f8f7561645861366,rating coworkers,3
+62a3cde8f8f7561645861366,rating management,7
+62a3cde8f8f7561645861366,rating upward mobility,2
+62a3cde8f8f7561645861366,rating learning,4
+62a3cfed0f8c8599d5b00b12,rating salary,1
+62a3cfed0f8c8599d5b00b12,rating worklife balance,10
+62a3cfed0f8c8599d5b00b12,rating coworkers,10
+62a3cfed0f8c8599d5b00b12,rating management,5
+62a3cfed0f8c8599d5b00b12,rating upward mobility,3
+62a3cfed0f8c8599d5b00b12,rating learning,1
+62a3d21ef3072dd8926314d1,rating salary,1
+62a3d21ef3072dd8926314d1,rating worklife balance,2
+62a3d21ef3072dd8926314d1,rating coworkers,10
+62a3d21ef3072dd8926314d1,rating management,1
+62a3d21ef3072dd8926314d1,rating upward mobility,2
+62a3d21ef3072dd8926314d1,rating learning,8
+62a3d37c0a77c1a77f66bc0e,rating salary,3
+62a3d37c0a77c1a77f66bc0e,rating worklife balance,7
+62a3d37c0a77c1a77f66bc0e,rating coworkers,5
+62a3d37c0a77c1a77f66bc0e,rating management,5
+62a3d37c0a77c1a77f66bc0e,rating upward mobility,3
+62a3d37c0a77c1a77f66bc0e,rating learning,3
+62a3d8dbf8f7561645861f9d,rating salary,6
+62a3d8dbf8f7561645861f9d,rating worklife balance,10
+62a3d8dbf8f7561645861f9d,rating coworkers,10
+62a3d8dbf8f7561645861f9d,rating management,10
+62a3d8dbf8f7561645861f9d,rating upward mobility,7
+62a3d8dbf8f7561645861f9d,rating learning,6
+62a3d9697dc029e2d66cf087,rating salary,4
+62a3d9697dc029e2d66cf087,rating worklife balance,10
+62a3d9697dc029e2d66cf087,rating coworkers,9
+62a3d9697dc029e2d66cf087,rating management,3
+62a3d9697dc029e2d66cf087,rating upward mobility,0
+62a3d9697dc029e2d66cf087,rating learning,10
+62a3dac9f3072dd892631e12,rating salary,8
+62a3dac9f3072dd892631e12,rating worklife balance,7
+62a3dac9f3072dd892631e12,rating coworkers,8
+62a3dac9f3072dd892631e12,rating management,7
+62a3dac9f3072dd892631e12,rating upward mobility,7
+62a3dac9f3072dd892631e12,rating learning,8
+62a3dc3ab4da29969c63e3d7,rating salary,3
+62a3dc3ab4da29969c63e3d7,rating worklife balance,2
+62a3dc3ab4da29969c63e3d7,rating coworkers,6
+62a3dc3ab4da29969c63e3d7,rating management,6
+62a3dc3ab4da29969c63e3d7,rating upward mobility,5
+62a3dc3ab4da29969c63e3d7,rating learning,4
+62a3e2abf8f75616458628d1,rating salary,3
+62a3e2abf8f75616458628d1,rating worklife balance,5
+62a3e2abf8f75616458628d1,rating coworkers,6
+62a3e2abf8f75616458628d1,rating management,6
+62a3e2abf8f75616458628d1,rating upward mobility,6
+62a3e2abf8f75616458628d1,rating learning,7
+62a3e32bd8c00e9f541ad5f0,rating salary,0
+62a3e32bd8c00e9f541ad5f0,rating worklife balance,1
+62a3e32bd8c00e9f541ad5f0,rating coworkers,10
+62a3e32bd8c00e9f541ad5f0,rating management,5
+62a3e32bd8c00e9f541ad5f0,rating upward mobility,0
+62a3e32bd8c00e9f541ad5f0,rating learning,0
+62a3ecf7bc6861bf3177d5c2,rating salary,3
+62a3ecf7bc6861bf3177d5c2,rating worklife balance,5
+62a3ecf7bc6861bf3177d5c2,rating coworkers,4
+62a3ecf7bc6861bf3177d5c2,rating management,6
+62a3ecf7bc6861bf3177d5c2,rating upward mobility,4
+62a3ecf7bc6861bf3177d5c2,rating learning,6
+62a3eea9bae91e4b8b8401a4,rating salary,0
+62a3eea9bae91e4b8b8401a4,rating worklife balance,0
+62a3eea9bae91e4b8b8401a4,rating coworkers,0
+62a3eea9bae91e4b8b8401a4,rating management,0
+62a3eea9bae91e4b8b8401a4,rating upward mobility,0
+62a3eea9bae91e4b8b8401a4,rating learning,4
+62a3f39df8d5efcc22f8ddc2,rating salary,5
+62a3f39df8d5efcc22f8ddc2,rating worklife balance,9
+62a3f39df8d5efcc22f8ddc2,rating coworkers,5
+62a3f39df8d5efcc22f8ddc2,rating management,2
+62a3f39df8d5efcc22f8ddc2,rating upward mobility,5
+62a3f39df8d5efcc22f8ddc2,rating learning,1
+62a3f6a25d257a28a30e9d02,rating salary,5
+62a3f6a25d257a28a30e9d02,rating worklife balance,10
+62a3f6a25d257a28a30e9d02,rating coworkers,8
+62a3f6a25d257a28a30e9d02,rating management,5
+62a3f6a25d257a28a30e9d02,rating upward mobility,7
+62a3f6a25d257a28a30e9d02,rating learning,10
+62a3f6d9bae91e4b8b8408ca,rating salary,0
+62a3f6d9bae91e4b8b8408ca,rating worklife balance,0
+62a3f6d9bae91e4b8b8408ca,rating coworkers,0
+62a3f6d9bae91e4b8b8408ca,rating management,0
+62a3f6d9bae91e4b8b8408ca,rating upward mobility,0
+62a3f6d9bae91e4b8b8408ca,rating learning,0
+62a3fc7c7dc029e2d66d10e8,rating salary,7
+62a3fc7c7dc029e2d66d10e8,rating worklife balance,8
+62a3fc7c7dc029e2d66d10e8,rating coworkers,7
+62a3fc7c7dc029e2d66d10e8,rating management,7
+62a3fc7c7dc029e2d66d10e8,rating upward mobility,10
+62a3fc7c7dc029e2d66d10e8,rating learning,10
+62a3fe0d5d257a28a30ea3c8,rating salary,8
+62a3fe0d5d257a28a30ea3c8,rating worklife balance,6
+62a3fe0d5d257a28a30ea3c8,rating coworkers,7
+62a3fe0d5d257a28a30ea3c8,rating management,7
+62a3fe0d5d257a28a30ea3c8,rating upward mobility,8
+62a3fe0d5d257a28a30ea3c8,rating learning,8
+62a3fea50a77c1a77f66e41b,rating salary,4
+62a3fea50a77c1a77f66e41b,rating worklife balance,5
+62a3fea50a77c1a77f66e41b,rating coworkers,7
+62a3fea50a77c1a77f66e41b,rating management,7
+62a3fea50a77c1a77f66e41b,rating upward mobility,5
+62a3fea50a77c1a77f66e41b,rating learning,7
+62a40276bc6861bf3177e6fd,rating salary,2
+62a40276bc6861bf3177e6fd,rating worklife balance,2
+62a40276bc6861bf3177e6fd,rating coworkers,3
+62a40276bc6861bf3177e6fd,rating management,3
+62a40276bc6861bf3177e6fd,rating upward mobility,2
+62a40276bc6861bf3177e6fd,rating learning,3
+62a403bbf8d5efcc22f8eb18,rating salary,5
+62a403bbf8d5efcc22f8eb18,rating worklife balance,10
+62a403bbf8d5efcc22f8eb18,rating coworkers,5
+62a403bbf8d5efcc22f8eb18,rating management,6
+62a403bbf8d5efcc22f8eb18,rating upward mobility,6
+62a403bbf8d5efcc22f8eb18,rating learning,8
+62a403d30f8c8599d5b03d65,rating salary,1
+62a403d30f8c8599d5b03d65,rating worklife balance,7
+62a403d30f8c8599d5b03d65,rating coworkers,7
+62a403d30f8c8599d5b03d65,rating management,7
+62a403d30f8c8599d5b03d65,rating upward mobility,1
+62a403d30f8c8599d5b03d65,rating learning,2
+62a4044acf25554317312a81,rating salary,7
+62a4044acf25554317312a81,rating worklife balance,8
+62a4044acf25554317312a81,rating coworkers,8
+62a4044acf25554317312a81,rating management,7
+62a4044acf25554317312a81,rating upward mobility,5
+62a4044acf25554317312a81,rating learning,9
+62a4061bf408bae018ee5deb,rating salary,8
+62a4061bf408bae018ee5deb,rating worklife balance,5
+62a4061bf408bae018ee5deb,rating coworkers,6
+62a4061bf408bae018ee5deb,rating management,4
+62a4061bf408bae018ee5deb,rating upward mobility,4
+62a4061bf408bae018ee5deb,rating learning,8
+62a40726575fa3a5ae89d990,rating salary,4
+62a40726575fa3a5ae89d990,rating worklife balance,NA
+62a40726575fa3a5ae89d990,rating coworkers,NA
+62a40726575fa3a5ae89d990,rating management,NA
+62a40726575fa3a5ae89d990,rating upward mobility,NA
+62a40726575fa3a5ae89d990,rating learning,NA
+62a4098124a2626027394ddc,rating salary,10
+62a4098124a2626027394ddc,rating worklife balance,10
+62a4098124a2626027394ddc,rating coworkers,10
+62a4098124a2626027394ddc,rating management,7
+62a4098124a2626027394ddc,rating upward mobility,10
+62a4098124a2626027394ddc,rating learning,10
+62a40c99575fa3a5ae89de4b,rating salary,6
+62a40c99575fa3a5ae89de4b,rating worklife balance,5
+62a40c99575fa3a5ae89de4b,rating coworkers,8
+62a40c99575fa3a5ae89de4b,rating management,8
+62a40c99575fa3a5ae89de4b,rating upward mobility,7
+62a40c99575fa3a5ae89de4b,rating learning,9
+62a40d86d8c00e9f541afb5e,rating salary,3
+62a40d86d8c00e9f541afb5e,rating worklife balance,2
+62a40d86d8c00e9f541afb5e,rating coworkers,6
+62a40d86d8c00e9f541afb5e,rating management,5
+62a40d86d8c00e9f541afb5e,rating upward mobility,5
+62a40d86d8c00e9f541afb5e,rating learning,6
+62a40da3cf255543173132e2,rating salary,4
+62a40da3cf255543173132e2,rating worklife balance,6
+62a40da3cf255543173132e2,rating coworkers,6
+62a40da3cf255543173132e2,rating management,5
+62a40da3cf255543173132e2,rating upward mobility,5
+62a40da3cf255543173132e2,rating learning,6
+62a40dfa5d257a28a30eb110,rating salary,4
+62a40dfa5d257a28a30eb110,rating worklife balance,8
+62a40dfa5d257a28a30eb110,rating coworkers,8
+62a40dfa5d257a28a30eb110,rating management,8
+62a40dfa5d257a28a30eb110,rating upward mobility,7
+62a40dfa5d257a28a30eb110,rating learning,8
+62a410b5cec54911e9cb8262,rating salary,0
+62a410b5cec54911e9cb8262,rating worklife balance,4
+62a410b5cec54911e9cb8262,rating coworkers,0
+62a410b5cec54911e9cb8262,rating management,1
+62a410b5cec54911e9cb8262,rating upward mobility,4
+62a410b5cec54911e9cb8262,rating learning,2
+62a41135bc6861bf3177f3d8,rating salary,5
+62a41135bc6861bf3177f3d8,rating worklife balance,5
+62a41135bc6861bf3177f3d8,rating coworkers,7
+62a41135bc6861bf3177f3d8,rating management,6
+62a41135bc6861bf3177f3d8,rating upward mobility,4
+62a41135bc6861bf3177f3d8,rating learning,6
+62a41795cec54911e9cb8854,rating salary,2
+62a41795cec54911e9cb8854,rating worklife balance,NA
+62a41795cec54911e9cb8854,rating coworkers,NA
+62a41795cec54911e9cb8854,rating management,NA
+62a41795cec54911e9cb8854,rating upward mobility,NA
+62a41795cec54911e9cb8854,rating learning,NA
+62a41964d8c00e9f541b061d,rating salary,4
+62a41964d8c00e9f541b061d,rating worklife balance,7
+62a41964d8c00e9f541b061d,rating coworkers,7
+62a41964d8c00e9f541b061d,rating management,7
+62a41964d8c00e9f541b061d,rating upward mobility,2
+62a41964d8c00e9f541b061d,rating learning,7
+62a41968f8d5efcc22f8fd44,rating salary,2
+62a41968f8d5efcc22f8fd44,rating worklife balance,3
+62a41968f8d5efcc22f8fd44,rating coworkers,6
+62a41968f8d5efcc22f8fd44,rating management,6
+62a41968f8d5efcc22f8fd44,rating upward mobility,3
+62a41968f8d5efcc22f8fd44,rating learning,5
+62a41e23bc6861bf3177fffb,rating salary,5
+62a41e23bc6861bf3177fffb,rating worklife balance,5
+62a41e23bc6861bf3177fffb,rating coworkers,5
+62a41e23bc6861bf3177fffb,rating management,5
+62a41e23bc6861bf3177fffb,rating upward mobility,5
+62a41e23bc6861bf3177fffb,rating learning,10
+62a421cebc6861bf317803f5,rating salary,3
+62a421cebc6861bf317803f5,rating worklife balance,4
+62a421cebc6861bf317803f5,rating coworkers,5
+62a421cebc6861bf317803f5,rating management,3
+62a421cebc6861bf317803f5,rating upward mobility,2
+62a421cebc6861bf317803f5,rating learning,3
+62a42243f8d5efcc22f90c55,rating salary,0
+62a42243f8d5efcc22f90c55,rating worklife balance,0
+62a42243f8d5efcc22f90c55,rating coworkers,0
+62a42243f8d5efcc22f90c55,rating management,0
+62a42243f8d5efcc22f90c55,rating upward mobility,0
+62a42243f8d5efcc22f90c55,rating learning,0
+62a424ccd8c00e9f541b114e,rating salary,1
+62a424ccd8c00e9f541b114e,rating worklife balance,7
+62a424ccd8c00e9f541b114e,rating coworkers,7
+62a424ccd8c00e9f541b114e,rating management,7
+62a424ccd8c00e9f541b114e,rating upward mobility,7
+62a424ccd8c00e9f541b114e,rating learning,1
+62a42527b4da29969c6423f7,rating salary,3
+62a42527b4da29969c6423f7,rating worklife balance,6
+62a42527b4da29969c6423f7,rating coworkers,5
+62a42527b4da29969c6423f7,rating management,5
+62a42527b4da29969c6423f7,rating upward mobility,3
+62a42527b4da29969c6423f7,rating learning,4
+62a425ec2e54c9003e5467bf,rating salary,4
+62a425ec2e54c9003e5467bf,rating worklife balance,4
+62a425ec2e54c9003e5467bf,rating coworkers,5
+62a425ec2e54c9003e5467bf,rating management,5
+62a425ec2e54c9003e5467bf,rating upward mobility,4
+62a425ec2e54c9003e5467bf,rating learning,6
+62a427190a77c1a77f67095c,rating salary,3
+62a427190a77c1a77f67095c,rating worklife balance,5
+62a427190a77c1a77f67095c,rating coworkers,5
+62a427190a77c1a77f67095c,rating management,5
+62a427190a77c1a77f67095c,rating upward mobility,5
+62a427190a77c1a77f67095c,rating learning,2
+62a429f0f3072dd892636396,rating salary,0
+62a429f0f3072dd892636396,rating worklife balance,10
+62a429f0f3072dd892636396,rating coworkers,0
+62a429f0f3072dd892636396,rating management,9
+62a429f0f3072dd892636396,rating upward mobility,5
+62a429f0f3072dd892636396,rating learning,10
+62a42d6ef8d5efcc22f9178a,rating salary,7
+62a42d6ef8d5efcc22f9178a,rating worklife balance,4
+62a42d6ef8d5efcc22f9178a,rating coworkers,6
+62a42d6ef8d5efcc22f9178a,rating management,5
+62a42d6ef8d5efcc22f9178a,rating upward mobility,6
+62a42d6ef8d5efcc22f9178a,rating learning,6
+62a436fd24a2626027397c93,rating salary,NA
+62a436fd24a2626027397c93,rating worklife balance,NA
+62a436fd24a2626027397c93,rating coworkers,NA
+62a436fd24a2626027397c93,rating management,NA
+62a436fd24a2626027397c93,rating upward mobility,NA
+62a436fd24a2626027397c93,rating learning,5
+62a43e86f408bae018ee913a,rating salary,5
+62a43e86f408bae018ee913a,rating worklife balance,6
+62a43e86f408bae018ee913a,rating coworkers,6
+62a43e86f408bae018ee913a,rating management,5
+62a43e86f408bae018ee913a,rating upward mobility,1
+62a43e86f408bae018ee913a,rating learning,3
+62a43ed4f8d5efcc22f92d0a,rating salary,1
+62a43ed4f8d5efcc22f92d0a,rating worklife balance,8
+62a43ed4f8d5efcc22f92d0a,rating coworkers,5
+62a43ed4f8d5efcc22f92d0a,rating management,1
+62a43ed4f8d5efcc22f92d0a,rating upward mobility,7
+62a43ed4f8d5efcc22f92d0a,rating learning,8
+62a43f43f408bae018ee9281,rating salary,0
+62a43f43f408bae018ee9281,rating worklife balance,1
+62a43f43f408bae018ee9281,rating coworkers,2
+62a43f43f408bae018ee9281,rating management,2
+62a43f43f408bae018ee9281,rating upward mobility,1
+62a43f43f408bae018ee9281,rating learning,1
+62a440ab575fa3a5ae8a1418,rating salary,7
+62a440ab575fa3a5ae8a1418,rating worklife balance,10
+62a440ab575fa3a5ae8a1418,rating coworkers,10
+62a440ab575fa3a5ae8a1418,rating management,10
+62a440ab575fa3a5ae8a1418,rating upward mobility,5
+62a440ab575fa3a5ae8a1418,rating learning,10
+62a441e3575fa3a5ae8a1552,rating salary,4
+62a441e3575fa3a5ae8a1552,rating worklife balance,5
+62a441e3575fa3a5ae8a1552,rating coworkers,5
+62a441e3575fa3a5ae8a1552,rating management,5
+62a441e3575fa3a5ae8a1552,rating upward mobility,6
+62a441e3575fa3a5ae8a1552,rating learning,6
+62a446faf8f7561645868c60,rating salary,2
+62a446faf8f7561645868c60,rating worklife balance,3
+62a446faf8f7561645868c60,rating coworkers,3
+62a446faf8f7561645868c60,rating management,3
+62a446faf8f7561645868c60,rating upward mobility,3
+62a446faf8f7561645868c60,rating learning,3
+62a448832e54c9003e5491c5,rating salary,7
+62a448832e54c9003e5491c5,rating worklife balance,8
+62a448832e54c9003e5491c5,rating coworkers,9
+62a448832e54c9003e5491c5,rating management,7
+62a448832e54c9003e5491c5,rating upward mobility,7
+62a448832e54c9003e5491c5,rating learning,6
+62a44ae2f8f7561645869335,rating salary,4
+62a44ae2f8f7561645869335,rating worklife balance,7
+62a44ae2f8f7561645869335,rating coworkers,6
+62a44ae2f8f7561645869335,rating management,6
+62a44ae2f8f7561645869335,rating upward mobility,6
+62a44ae2f8f7561645869335,rating learning,7
+62a44bc7bc6861bf31783829,rating salary,2
+62a44bc7bc6861bf31783829,rating worklife balance,8
+62a44bc7bc6861bf31783829,rating coworkers,8
+62a44bc7bc6861bf31783829,rating management,9
+62a44bc7bc6861bf31783829,rating upward mobility,8
+62a44bc7bc6861bf31783829,rating learning,10
+62a44ea3f408bae018eea62a,rating salary,6
+62a44ea3f408bae018eea62a,rating worklife balance,10
+62a44ea3f408bae018eea62a,rating coworkers,10
+62a44ea3f408bae018eea62a,rating management,10
+62a44ea3f408bae018eea62a,rating upward mobility,10
+62a44ea3f408bae018eea62a,rating learning,10
+62a4514ff408bae018eea94d,rating salary,0
+62a4514ff408bae018eea94d,rating worklife balance,4
+62a4514ff408bae018eea94d,rating coworkers,1
+62a4514ff408bae018eea94d,rating management,0
+62a4514ff408bae018eea94d,rating upward mobility,1
+62a4514ff408bae018eea94d,rating learning,3
+62a45a140a77c1a77f67469d,rating salary,6
+62a45a140a77c1a77f67469d,rating worklife balance,8
+62a45a140a77c1a77f67469d,rating coworkers,7
+62a45a140a77c1a77f67469d,rating management,7
+62a45a140a77c1a77f67469d,rating upward mobility,5
+62a45a140a77c1a77f67469d,rating learning,6
+62a45c8bf3072dd89263a493,rating salary,0
+62a45c8bf3072dd89263a493,rating worklife balance,0
+62a45c8bf3072dd89263a493,rating coworkers,0
+62a45c8bf3072dd89263a493,rating management,0
+62a45c8bf3072dd89263a493,rating upward mobility,0
+62a45c8bf3072dd89263a493,rating learning,0
+62a45f8c0f8c8599d5b09d40,rating salary,3
+62a45f8c0f8c8599d5b09d40,rating worklife balance,3
+62a45f8c0f8c8599d5b09d40,rating coworkers,3
+62a45f8c0f8c8599d5b09d40,rating management,3
+62a45f8c0f8c8599d5b09d40,rating upward mobility,3
+62a45f8c0f8c8599d5b09d40,rating learning,4
+62a4604d0a77c1a77f674e29,rating salary,3
+62a4604d0a77c1a77f674e29,rating worklife balance,5
+62a4604d0a77c1a77f674e29,rating coworkers,7
+62a4604d0a77c1a77f674e29,rating management,2
+62a4604d0a77c1a77f674e29,rating upward mobility,5
+62a4604d0a77c1a77f674e29,rating learning,7
+62a46a66f8d5efcc22f95a7a,rating salary,5
+62a46a66f8d5efcc22f95a7a,rating worklife balance,8
+62a46a66f8d5efcc22f95a7a,rating coworkers,8
+62a46a66f8d5efcc22f95a7a,rating management,5
+62a46a66f8d5efcc22f95a7a,rating upward mobility,5
+62a46a66f8d5efcc22f95a7a,rating learning,6
+62a46ad7d8c00e9f541b664a,rating salary,0
+62a46ad7d8c00e9f541b664a,rating worklife balance,0
+62a46ad7d8c00e9f541b664a,rating coworkers,1
+62a46ad7d8c00e9f541b664a,rating management,3
+62a46ad7d8c00e9f541b664a,rating upward mobility,2
+62a46ad7d8c00e9f541b664a,rating learning,1
+62a46dbecf25554317319e48,rating salary,6
+62a46dbecf25554317319e48,rating worklife balance,8
+62a46dbecf25554317319e48,rating coworkers,3
+62a46dbecf25554317319e48,rating management,4
+62a46dbecf25554317319e48,rating upward mobility,5
+62a46dbecf25554317319e48,rating learning,1
+62a475dcf408bae018eed15c,rating salary,0
+62a475dcf408bae018eed15c,rating worklife balance,1
+62a475dcf408bae018eed15c,rating coworkers,2
+62a475dcf408bae018eed15c,rating management,1
+62a475dcf408bae018eed15c,rating upward mobility,0
+62a475dcf408bae018eed15c,rating learning,3
+62a477f0b4da29969c64892f,rating salary,5
+62a477f0b4da29969c64892f,rating worklife balance,6
+62a477f0b4da29969c64892f,rating coworkers,5
+62a477f0b4da29969c64892f,rating management,5
+62a477f0b4da29969c64892f,rating upward mobility,6
+62a477f0b4da29969c64892f,rating learning,6
+62a47947cec54911e9cbf6b2,rating salary,10
+62a47947cec54911e9cbf6b2,rating worklife balance,10
+62a47947cec54911e9cbf6b2,rating coworkers,10
+62a47947cec54911e9cbf6b2,rating management,10
+62a47947cec54911e9cbf6b2,rating upward mobility,10
+62a47947cec54911e9cbf6b2,rating learning,10
+62a47c587dc029e2d66d9782,rating salary,0
+62a47c587dc029e2d66d9782,rating worklife balance,6
+62a47c587dc029e2d66d9782,rating coworkers,6
+62a47c587dc029e2d66d9782,rating management,6
+62a47c587dc029e2d66d9782,rating upward mobility,5
+62a47c587dc029e2d66d9782,rating learning,6
+62a47e3ef3072dd89263c8c0,rating salary,2
+62a47e3ef3072dd89263c8c0,rating worklife balance,1
+62a47e3ef3072dd89263c8c0,rating coworkers,4
+62a47e3ef3072dd89263c8c0,rating management,1
+62a47e3ef3072dd89263c8c0,rating upward mobility,1
+62a47e3ef3072dd89263c8c0,rating learning,1
+62a47e812e54c9003e54d789,rating salary,3
+62a47e812e54c9003e54d789,rating worklife balance,6
+62a47e812e54c9003e54d789,rating coworkers,7
+62a47e812e54c9003e54d789,rating management,6
+62a47e812e54c9003e54d789,rating upward mobility,4
+62a47e812e54c9003e54d789,rating learning,4
+62a47ea87dc029e2d66d9b60,rating salary,0
+62a47ea87dc029e2d66d9b60,rating worklife balance,1
+62a47ea87dc029e2d66d9b60,rating coworkers,3
+62a47ea87dc029e2d66d9b60,rating management,0
+62a47ea87dc029e2d66d9b60,rating upward mobility,0
+62a47ea87dc029e2d66d9b60,rating learning,0
+62a47f1e0a77c1a77f677174,rating salary,8
+62a47f1e0a77c1a77f677174,rating worklife balance,8
+62a47f1e0a77c1a77f677174,rating coworkers,8
+62a47f1e0a77c1a77f677174,rating management,8
+62a47f1e0a77c1a77f677174,rating upward mobility,8
+62a47f1e0a77c1a77f677174,rating learning,8
+62a48566b4da29969c64995a,rating salary,9
+62a48566b4da29969c64995a,rating worklife balance,8
+62a48566b4da29969c64995a,rating coworkers,9
+62a48566b4da29969c64995a,rating management,10
+62a48566b4da29969c64995a,rating upward mobility,8
+62a48566b4da29969c64995a,rating learning,10
+62a48612d8c00e9f541b86b8,rating salary,7
+62a48612d8c00e9f541b86b8,rating worklife balance,7
+62a48612d8c00e9f541b86b8,rating coworkers,8
+62a48612d8c00e9f541b86b8,rating management,4
+62a48612d8c00e9f541b86b8,rating upward mobility,6
+62a48612d8c00e9f541b86b8,rating learning,9
+62a487167dc029e2d66da73e,rating salary,5
+62a487167dc029e2d66da73e,rating worklife balance,5
+62a487167dc029e2d66da73e,rating coworkers,5
+62a487167dc029e2d66da73e,rating management,5
+62a487167dc029e2d66da73e,rating upward mobility,5
+62a487167dc029e2d66da73e,rating learning,6
+62a488197dc029e2d66da8a1,rating salary,10
+62a488197dc029e2d66da8a1,rating worklife balance,8
+62a488197dc029e2d66da8a1,rating coworkers,6
+62a488197dc029e2d66da8a1,rating management,10
+62a488197dc029e2d66da8a1,rating upward mobility,7
+62a488197dc029e2d66da8a1,rating learning,5
+62a48c4c24a262602739e141,rating salary,8
+62a48c4c24a262602739e141,rating worklife balance,7
+62a48c4c24a262602739e141,rating coworkers,8
+62a48c4c24a262602739e141,rating management,6
+62a48c4c24a262602739e141,rating upward mobility,7
+62a48c4c24a262602739e141,rating learning,8
+62a48cbdf408bae018eeeccf,rating salary,7
+62a48cbdf408bae018eeeccf,rating worklife balance,8
+62a48cbdf408bae018eeeccf,rating coworkers,9
+62a48cbdf408bae018eeeccf,rating management,9
+62a48cbdf408bae018eeeccf,rating upward mobility,4
+62a48cbdf408bae018eeeccf,rating learning,9
+62a48d4df8d5efcc22f98308,rating salary,5
+62a48d4df8d5efcc22f98308,rating worklife balance,5
+62a48d4df8d5efcc22f98308,rating coworkers,4
+62a48d4df8d5efcc22f98308,rating management,5
+62a48d4df8d5efcc22f98308,rating upward mobility,6
+62a48d4df8d5efcc22f98308,rating learning,6
+62a48d562e54c9003e54ea2b,rating salary,2
+62a48d562e54c9003e54ea2b,rating worklife balance,5
+62a48d562e54c9003e54ea2b,rating coworkers,2
+62a48d562e54c9003e54ea2b,rating management,8
+62a48d562e54c9003e54ea2b,rating upward mobility,9
+62a48d562e54c9003e54ea2b,rating learning,10
+62a48da6b4da29969c64a3a5,rating salary,9
+62a48da6b4da29969c64a3a5,rating worklife balance,4
+62a48da6b4da29969c64a3a5,rating coworkers,8
+62a48da6b4da29969c64a3a5,rating management,7
+62a48da6b4da29969c64a3a5,rating upward mobility,5
+62a48da6b4da29969c64a3a5,rating learning,6
+62a49012f408bae018eef16d,rating salary,8
+62a49012f408bae018eef16d,rating worklife balance,9
+62a49012f408bae018eef16d,rating coworkers,9
+62a49012f408bae018eef16d,rating management,7
+62a49012f408bae018eef16d,rating upward mobility,8
+62a49012f408bae018eef16d,rating learning,8
+62a491b3b4da29969c64a89e,rating salary,3
+62a491b3b4da29969c64a89e,rating worklife balance,NA
+62a491b3b4da29969c64a89e,rating coworkers,NA
+62a491b3b4da29969c64a89e,rating management,NA
+62a491b3b4da29969c64a89e,rating upward mobility,NA
+62a491b3b4da29969c64a89e,rating learning,NA
+62a4926ef408bae018eef4ee,rating salary,0
+62a4926ef408bae018eef4ee,rating worklife balance,8
+62a4926ef408bae018eef4ee,rating coworkers,5
+62a4926ef408bae018eef4ee,rating management,5
+62a4926ef408bae018eef4ee,rating upward mobility,2
+62a4926ef408bae018eef4ee,rating learning,2
+62a495d724a262602739ee07,rating salary,0
+62a495d724a262602739ee07,rating worklife balance,2
+62a495d724a262602739ee07,rating coworkers,3
+62a495d724a262602739ee07,rating management,3
+62a495d724a262602739ee07,rating upward mobility,2
+62a495d724a262602739ee07,rating learning,3
+62a49b3cb4da29969c64b5dc,rating salary,8
+62a49b3cb4da29969c64b5dc,rating worklife balance,10
+62a49b3cb4da29969c64b5dc,rating coworkers,7
+62a49b3cb4da29969c64b5dc,rating management,5
+62a49b3cb4da29969c64b5dc,rating upward mobility,6
+62a49b3cb4da29969c64b5dc,rating learning,5
+62a49e087dc029e2d66dc57e,rating salary,3
+62a49e087dc029e2d66dc57e,rating worklife balance,5
+62a49e087dc029e2d66dc57e,rating coworkers,4
+62a49e087dc029e2d66dc57e,rating management,5
+62a49e087dc029e2d66dc57e,rating upward mobility,3
+62a49e087dc029e2d66dc57e,rating learning,6
+62a49e47b4da29969c64b9f9,rating salary,0
+62a49e47b4da29969c64b9f9,rating worklife balance,0
+62a49e47b4da29969c64b9f9,rating coworkers,0
+62a49e47b4da29969c64b9f9,rating management,0
+62a49e47b4da29969c64b9f9,rating upward mobility,0
+62a49e47b4da29969c64b9f9,rating learning,0
+62a49e5f24a262602739f9af,rating salary,4
+62a49e5f24a262602739f9af,rating worklife balance,4
+62a49e5f24a262602739f9af,rating coworkers,1
+62a49e5f24a262602739f9af,rating management,6
+62a49e5f24a262602739f9af,rating upward mobility,1
+62a49e5f24a262602739f9af,rating learning,5
+62a49fe7b4da29969c64bbe1,rating salary,4
+62a49fe7b4da29969c64bbe1,rating worklife balance,10
+62a49fe7b4da29969c64bbe1,rating coworkers,10
+62a49fe7b4da29969c64bbe1,rating management,10
+62a49fe7b4da29969c64bbe1,rating upward mobility,8
+62a49fe7b4da29969c64bbe1,rating learning,6
+62a4a3d4f8d5efcc22f9a051,rating salary,9
+62a4a3d4f8d5efcc22f9a051,rating worklife balance,9
+62a4a3d4f8d5efcc22f9a051,rating coworkers,6
+62a4a3d4f8d5efcc22f9a051,rating management,6
+62a4a3d4f8d5efcc22f9a051,rating upward mobility,6
+62a4a3d4f8d5efcc22f9a051,rating learning,7
+62a4a8cb0a77c1a77f67a405,rating salary,NA
+62a4a8cb0a77c1a77f67a405,rating worklife balance,5
+62a4a8cb0a77c1a77f67a405,rating coworkers,8
+62a4a8cb0a77c1a77f67a405,rating management,4
+62a4a8cb0a77c1a77f67a405,rating upward mobility,8
+62a4a8cb0a77c1a77f67a405,rating learning,4
+62a4abb30f8c8599d5b0fc24,rating salary,7
+62a4abb30f8c8599d5b0fc24,rating worklife balance,9
+62a4abb30f8c8599d5b0fc24,rating coworkers,8
+62a4abb30f8c8599d5b0fc24,rating management,6
+62a4abb30f8c8599d5b0fc24,rating upward mobility,6
+62a4abb30f8c8599d5b0fc24,rating learning,9
+62a4afd87dc029e2d66ddb24,rating salary,7
+62a4afd87dc029e2d66ddb24,rating worklife balance,7
+62a4afd87dc029e2d66ddb24,rating coworkers,8
+62a4afd87dc029e2d66ddb24,rating management,6
+62a4afd87dc029e2d66ddb24,rating upward mobility,6
+62a4afd87dc029e2d66ddb24,rating learning,4
+62a4b085cec54911e9cc3afe,rating salary,3
+62a4b085cec54911e9cc3afe,rating worklife balance,2
+62a4b085cec54911e9cc3afe,rating coworkers,4
+62a4b085cec54911e9cc3afe,rating management,2
+62a4b085cec54911e9cc3afe,rating upward mobility,2
+62a4b085cec54911e9cc3afe,rating learning,3
+62a4b23f5d257a28a30f6b8c,rating salary,4
+62a4b23f5d257a28a30f6b8c,rating worklife balance,4
+62a4b23f5d257a28a30f6b8c,rating coworkers,4
+62a4b23f5d257a28a30f6b8c,rating management,4
+62a4b23f5d257a28a30f6b8c,rating upward mobility,5
+62a4b23f5d257a28a30f6b8c,rating learning,6
+62a4b29a5d257a28a30f6c63,rating salary,4
+62a4b29a5d257a28a30f6c63,rating worklife balance,5
+62a4b29a5d257a28a30f6c63,rating coworkers,6
+62a4b29a5d257a28a30f6c63,rating management,6
+62a4b29a5d257a28a30f6c63,rating upward mobility,5
+62a4b29a5d257a28a30f6c63,rating learning,6
+62a4b2e5f8f75616458712af,rating salary,6
+62a4b2e5f8f75616458712af,rating worklife balance,3
+62a4b2e5f8f75616458712af,rating coworkers,3
+62a4b2e5f8f75616458712af,rating management,6
+62a4b2e5f8f75616458712af,rating upward mobility,6
+62a4b2e5f8f75616458712af,rating learning,4
+62a4b6c30a77c1a77f67b54c,rating salary,7
+62a4b6c30a77c1a77f67b54c,rating worklife balance,8
+62a4b6c30a77c1a77f67b54c,rating coworkers,7
+62a4b6c30a77c1a77f67b54c,rating management,8
+62a4b6c30a77c1a77f67b54c,rating upward mobility,3
+62a4b6c30a77c1a77f67b54c,rating learning,4
+62a4bf07b4da29969c64e4f8,rating salary,9
+62a4bf07b4da29969c64e4f8,rating worklife balance,9
+62a4bf07b4da29969c64e4f8,rating coworkers,9
+62a4bf07b4da29969c64e4f8,rating management,8
+62a4bf07b4da29969c64e4f8,rating upward mobility,8
+62a4bf07b4da29969c64e4f8,rating learning,9
+62a4bf3a0a77c1a77f67bef2,rating salary,5
+62a4bf3a0a77c1a77f67bef2,rating worklife balance,6
+62a4bf3a0a77c1a77f67bef2,rating coworkers,7
+62a4bf3a0a77c1a77f67bef2,rating management,6
+62a4bf3a0a77c1a77f67bef2,rating upward mobility,6
+62a4bf3a0a77c1a77f67bef2,rating learning,7
+62a4c49a575fa3a5ae8aadf4,rating salary,2
+62a4c49a575fa3a5ae8aadf4,rating worklife balance,6
+62a4c49a575fa3a5ae8aadf4,rating coworkers,3
+62a4c49a575fa3a5ae8aadf4,rating management,6
+62a4c49a575fa3a5ae8aadf4,rating upward mobility,6
+62a4c49a575fa3a5ae8aadf4,rating learning,7
+62a4c57af3072dd8926421ac,rating salary,8
+62a4c57af3072dd8926421ac,rating worklife balance,9
+62a4c57af3072dd8926421ac,rating coworkers,10
+62a4c57af3072dd8926421ac,rating management,10
+62a4c57af3072dd8926421ac,rating upward mobility,9
+62a4c57af3072dd8926421ac,rating learning,10
+62a4c6060a77c1a77f67c772,rating salary,9
+62a4c6060a77c1a77f67c772,rating worklife balance,8
+62a4c6060a77c1a77f67c772,rating coworkers,3
+62a4c6060a77c1a77f67c772,rating management,5
+62a4c6060a77c1a77f67c772,rating upward mobility,2
+62a4c6060a77c1a77f67c772,rating learning,4
+62a4c7d0f8f7561645872912,rating salary,4
+62a4c7d0f8f7561645872912,rating worklife balance,5
+62a4c7d0f8f7561645872912,rating coworkers,5
+62a4c7d0f8f7561645872912,rating management,3
+62a4c7d0f8f7561645872912,rating upward mobility,3
+62a4c7d0f8f7561645872912,rating learning,4
+62a4cdfad8c00e9f541bdc6b,rating salary,8
+62a4cdfad8c00e9f541bdc6b,rating worklife balance,9
+62a4cdfad8c00e9f541bdc6b,rating coworkers,9
+62a4cdfad8c00e9f541bdc6b,rating management,9
+62a4cdfad8c00e9f541bdc6b,rating upward mobility,9
+62a4cdfad8c00e9f541bdc6b,rating learning,10
+62a4ce2bbae91e4b8b84f3db,rating salary,3
+62a4ce2bbae91e4b8b84f3db,rating worklife balance,10
+62a4ce2bbae91e4b8b84f3db,rating coworkers,6
+62a4ce2bbae91e4b8b84f3db,rating management,5
+62a4ce2bbae91e4b8b84f3db,rating upward mobility,7
+62a4ce2bbae91e4b8b84f3db,rating learning,8
+62a4cffeb4da29969c64f6a1,rating salary,2
+62a4cffeb4da29969c64f6a1,rating worklife balance,2
+62a4cffeb4da29969c64f6a1,rating coworkers,5
+62a4cffeb4da29969c64f6a1,rating management,5
+62a4cffeb4da29969c64f6a1,rating upward mobility,2
+62a4cffeb4da29969c64f6a1,rating learning,3
+62a4d08bf3072dd892642d2c,rating salary,8
+62a4d08bf3072dd892642d2c,rating worklife balance,9
+62a4d08bf3072dd892642d2c,rating coworkers,9
+62a4d08bf3072dd892642d2c,rating management,9
+62a4d08bf3072dd892642d2c,rating upward mobility,9
+62a4d08bf3072dd892642d2c,rating learning,9
+62a4d13bbae91e4b8b84f89b,rating salary,0
+62a4d13bbae91e4b8b84f89b,rating worklife balance,5
+62a4d13bbae91e4b8b84f89b,rating coworkers,8
+62a4d13bbae91e4b8b84f89b,rating management,6
+62a4d13bbae91e4b8b84f89b,rating upward mobility,5
+62a4d13bbae91e4b8b84f89b,rating learning,7
+62a4d74c5d257a28a30f97fc,rating salary,2
+62a4d74c5d257a28a30f97fc,rating worklife balance,2
+62a4d74c5d257a28a30f97fc,rating coworkers,7
+62a4d74c5d257a28a30f97fc,rating management,4
+62a4d74c5d257a28a30f97fc,rating upward mobility,8
+62a4d74c5d257a28a30f97fc,rating learning,1
+62a4d7f6bae91e4b8b84ffed,rating salary,4
+62a4d7f6bae91e4b8b84ffed,rating worklife balance,10
+62a4d7f6bae91e4b8b84ffed,rating coworkers,2
+62a4d7f6bae91e4b8b84ffed,rating management,3
+62a4d7f6bae91e4b8b84ffed,rating upward mobility,2
+62a4d7f6bae91e4b8b84ffed,rating learning,3
+62a4d9d4bae91e4b8b8501f1,rating salary,10
+62a4d9d4bae91e4b8b8501f1,rating worklife balance,9
+62a4d9d4bae91e4b8b8501f1,rating coworkers,8
+62a4d9d4bae91e4b8b8501f1,rating management,8
+62a4d9d4bae91e4b8b8501f1,rating upward mobility,9
+62a4d9d4bae91e4b8b8501f1,rating learning,10
+62a4dd63f408bae018ef4e51,rating salary,4
+62a4dd63f408bae018ef4e51,rating worklife balance,6
+62a4dd63f408bae018ef4e51,rating coworkers,6
+62a4dd63f408bae018ef4e51,rating management,6
+62a4dd63f408bae018ef4e51,rating upward mobility,5
+62a4dd63f408bae018ef4e51,rating learning,7
+62a4e34d7dc029e2d66e10b9,rating salary,3
+62a4e34d7dc029e2d66e10b9,rating worklife balance,4
+62a4e34d7dc029e2d66e10b9,rating coworkers,5
+62a4e34d7dc029e2d66e10b9,rating management,5
+62a4e34d7dc029e2d66e10b9,rating upward mobility,6
+62a4e34d7dc029e2d66e10b9,rating learning,6
+62a4e4c90f8c8599d5b13d8f,rating salary,8
+62a4e4c90f8c8599d5b13d8f,rating worklife balance,7
+62a4e4c90f8c8599d5b13d8f,rating coworkers,5
+62a4e4c90f8c8599d5b13d8f,rating management,4
+62a4e4c90f8c8599d5b13d8f,rating upward mobility,7
+62a4e4c90f8c8599d5b13d8f,rating learning,7
+62a4e5aed8c00e9f541bf48c,rating salary,0
+62a4e5aed8c00e9f541bf48c,rating worklife balance,6
+62a4e5aed8c00e9f541bf48c,rating coworkers,6
+62a4e5aed8c00e9f541bf48c,rating management,2
+62a4e5aed8c00e9f541bf48c,rating upward mobility,0
+62a4e5aed8c00e9f541bf48c,rating learning,3
+62a4f6eef3072dd892645775,rating salary,7
+62a4f6eef3072dd892645775,rating worklife balance,7
+62a4f6eef3072dd892645775,rating coworkers,6
+62a4f6eef3072dd892645775,rating management,7
+62a4f6eef3072dd892645775,rating upward mobility,6
+62a4f6eef3072dd892645775,rating learning,6
+62a4fe370f8c8599d5b158c4,rating salary,7
+62a4fe370f8c8599d5b158c4,rating worklife balance,5
+62a4fe370f8c8599d5b158c4,rating coworkers,9
+62a4fe370f8c8599d5b158c4,rating management,9
+62a4fe370f8c8599d5b158c4,rating upward mobility,4
+62a4fe370f8c8599d5b158c4,rating learning,9
+62a5008c5d257a28a30fbde5,rating salary,5
+62a5008c5d257a28a30fbde5,rating worklife balance,4
+62a5008c5d257a28a30fbde5,rating coworkers,4
+62a5008c5d257a28a30fbde5,rating management,5
+62a5008c5d257a28a30fbde5,rating upward mobility,7
+62a5008c5d257a28a30fbde5,rating learning,10
+62a5038acec54911e9cc9526,rating salary,2
+62a5038acec54911e9cc9526,rating worklife balance,7
+62a5038acec54911e9cc9526,rating coworkers,6
+62a5038acec54911e9cc9526,rating management,5
+62a5038acec54911e9cc9526,rating upward mobility,6
+62a5038acec54911e9cc9526,rating learning,4
+62a50775f8f756164587677b,rating salary,4
+62a50775f8f756164587677b,rating worklife balance,6
+62a50775f8f756164587677b,rating coworkers,6
+62a50775f8f756164587677b,rating management,6
+62a50775f8f756164587677b,rating upward mobility,6
+62a50775f8f756164587677b,rating learning,6
+62a50eddf8d5efcc22fa1a4e,rating salary,8
+62a50eddf8d5efcc22fa1a4e,rating worklife balance,9
+62a50eddf8d5efcc22fa1a4e,rating coworkers,7
+62a50eddf8d5efcc22fa1a4e,rating management,7
+62a50eddf8d5efcc22fa1a4e,rating upward mobility,7
+62a50eddf8d5efcc22fa1a4e,rating learning,9
+62a511acbc6861bf3179178a,rating salary,8
+62a511acbc6861bf3179178a,rating worklife balance,6
+62a511acbc6861bf3179178a,rating coworkers,5
+62a511acbc6861bf3179178a,rating management,2
+62a511acbc6861bf3179178a,rating upward mobility,3
+62a511acbc6861bf3179178a,rating learning,2
+62a5177d18134ddc75d0e9d8,rating salary,0
+62a5177d18134ddc75d0e9d8,rating worklife balance,2
+62a5177d18134ddc75d0e9d8,rating coworkers,2
+62a5177d18134ddc75d0e9d8,rating management,3
+62a5177d18134ddc75d0e9d8,rating upward mobility,3
+62a5177d18134ddc75d0e9d8,rating learning,4
+62a51aaacec54911e9cca93b,rating salary,6
+62a51aaacec54911e9cca93b,rating worklife balance,6
+62a51aaacec54911e9cca93b,rating coworkers,6
+62a51aaacec54911e9cca93b,rating management,5
+62a51aaacec54911e9cca93b,rating upward mobility,4
+62a51aaacec54911e9cca93b,rating learning,4
+62a51dc6575fa3a5ae8b09f3,rating salary,1
+62a51dc6575fa3a5ae8b09f3,rating worklife balance,7
+62a51dc6575fa3a5ae8b09f3,rating coworkers,4
+62a51dc6575fa3a5ae8b09f3,rating management,10
+62a51dc6575fa3a5ae8b09f3,rating upward mobility,10
+62a51dc6575fa3a5ae8b09f3,rating learning,10
+62a51fe0575fa3a5ae8b0c06,rating salary,1
+62a51fe0575fa3a5ae8b0c06,rating worklife balance,5
+62a51fe0575fa3a5ae8b0c06,rating coworkers,4
+62a51fe0575fa3a5ae8b0c06,rating management,6
+62a51fe0575fa3a5ae8b0c06,rating upward mobility,5
+62a51fe0575fa3a5ae8b0c06,rating learning,6
+62a525aff8f75616458784dd,rating salary,2
+62a525aff8f75616458784dd,rating worklife balance,1
+62a525aff8f75616458784dd,rating coworkers,3
+62a525aff8f75616458784dd,rating management,3
+62a525aff8f75616458784dd,rating upward mobility,3
+62a525aff8f75616458784dd,rating learning,4
+62a52629b4da29969c654a94,rating salary,NA
+62a52629b4da29969c654a94,rating worklife balance,NA
+62a52629b4da29969c654a94,rating coworkers,NA
+62a52629b4da29969c654a94,rating management,NA
+62a52629b4da29969c654a94,rating upward mobility,NA
+62a52629b4da29969c654a94,rating learning,6
+62a52725d8c00e9f541c3b4a,rating salary,3
+62a52725d8c00e9f541c3b4a,rating worklife balance,6
+62a52725d8c00e9f541c3b4a,rating coworkers,4
+62a52725d8c00e9f541c3b4a,rating management,2
+62a52725d8c00e9f541c3b4a,rating upward mobility,2
+62a52725d8c00e9f541c3b4a,rating learning,3
+62a5390cb4da29969c655ccc,rating salary,4
+62a5390cb4da29969c655ccc,rating worklife balance,4
+62a5390cb4da29969c655ccc,rating coworkers,3
+62a5390cb4da29969c655ccc,rating management,4
+62a5390cb4da29969c655ccc,rating upward mobility,4
+62a5390cb4da29969c655ccc,rating learning,5
+62a53bc0bc6861bf31793947,rating salary,3
+62a53bc0bc6861bf31793947,rating worklife balance,4
+62a53bc0bc6861bf31793947,rating coworkers,4
+62a53bc0bc6861bf31793947,rating management,5
+62a53bc0bc6861bf31793947,rating upward mobility,4
+62a53bc0bc6861bf31793947,rating learning,4
+62a53c84f3072dd8926495c9,rating salary,2
+62a53c84f3072dd8926495c9,rating worklife balance,7
+62a53c84f3072dd8926495c9,rating coworkers,9
+62a53c84f3072dd8926495c9,rating management,7
+62a53c84f3072dd8926495c9,rating upward mobility,3
+62a53c84f3072dd8926495c9,rating learning,3
+62a54bccf3072dd89264a13b,rating salary,6
+62a54bccf3072dd89264a13b,rating worklife balance,8
+62a54bccf3072dd89264a13b,rating coworkers,10
+62a54bccf3072dd89264a13b,rating management,9
+62a54bccf3072dd89264a13b,rating upward mobility,6
+62a54bccf3072dd89264a13b,rating learning,8
+62a54f20d8c00e9f541c5cfa,rating salary,2
+62a54f20d8c00e9f541c5cfa,rating worklife balance,8
+62a54f20d8c00e9f541c5cfa,rating coworkers,6
+62a54f20d8c00e9f541c5cfa,rating management,1
+62a54f20d8c00e9f541c5cfa,rating upward mobility,8
+62a54f20d8c00e9f541c5cfa,rating learning,10
+62a552e1cf2555431732922d,rating salary,4
+62a552e1cf2555431732922d,rating worklife balance,4
+62a552e1cf2555431732922d,rating coworkers,5
+62a552e1cf2555431732922d,rating management,5
+62a552e1cf2555431732922d,rating upward mobility,4
+62a552e1cf2555431732922d,rating learning,6
+62a557d10f8c8599d5b1a81c,rating salary,9
+62a557d10f8c8599d5b1a81c,rating worklife balance,8
+62a557d10f8c8599d5b1a81c,rating coworkers,10
+62a557d10f8c8599d5b1a81c,rating management,10
+62a557d10f8c8599d5b1a81c,rating upward mobility,10
+62a557d10f8c8599d5b1a81c,rating learning,10
+62a55b05f8d5efcc22fa5b65,rating salary,8
+62a55b05f8d5efcc22fa5b65,rating worklife balance,10
+62a55b05f8d5efcc22fa5b65,rating coworkers,10
+62a55b05f8d5efcc22fa5b65,rating management,7
+62a55b05f8d5efcc22fa5b65,rating upward mobility,8
+62a55b05f8d5efcc22fa5b65,rating learning,5
+62a55fe1f8d5efcc22fa5fe4,rating salary,0
+62a55fe1f8d5efcc22fa5fe4,rating worklife balance,6
+62a55fe1f8d5efcc22fa5fe4,rating coworkers,6
+62a55fe1f8d5efcc22fa5fe4,rating management,6
+62a55fe1f8d5efcc22fa5fe4,rating upward mobility,6
+62a55fe1f8d5efcc22fa5fe4,rating learning,6
+62a56bc67dc029e2d66e86c0,rating salary,3
+62a56bc67dc029e2d66e86c0,rating worklife balance,3
+62a56bc67dc029e2d66e86c0,rating coworkers,4
+62a56bc67dc029e2d66e86c0,rating management,4
+62a56bc67dc029e2d66e86c0,rating upward mobility,3
+62a56bc67dc029e2d66e86c0,rating learning,5
+62a57116f408bae018efd56a,rating salary,10
+62a57116f408bae018efd56a,rating worklife balance,10
+62a57116f408bae018efd56a,rating coworkers,10
+62a57116f408bae018efd56a,rating management,10
+62a57116f408bae018efd56a,rating upward mobility,10
+62a57116f408bae018efd56a,rating learning,6
+62a57263cec54911e9ccf648,rating salary,1
+62a57263cec54911e9ccf648,rating worklife balance,10
+62a57263cec54911e9ccf648,rating coworkers,10
+62a57263cec54911e9ccf648,rating management,8
+62a57263cec54911e9ccf648,rating upward mobility,10
+62a57263cec54911e9ccf648,rating learning,3
+62a574b3b4da29969c658eb4,rating salary,2
+62a574b3b4da29969c658eb4,rating worklife balance,3
+62a574b3b4da29969c658eb4,rating coworkers,7
+62a574b3b4da29969c658eb4,rating management,6
+62a574b3b4da29969c658eb4,rating upward mobility,5
+62a574b3b4da29969c658eb4,rating learning,6
+62a58b267dc029e2d66ea3f8,rating salary,8
+62a58b267dc029e2d66ea3f8,rating worklife balance,7
+62a58b267dc029e2d66ea3f8,rating coworkers,8
+62a58b267dc029e2d66ea3f8,rating management,7
+62a58b267dc029e2d66ea3f8,rating upward mobility,7
+62a58b267dc029e2d66ea3f8,rating learning,9
+62a58d20575fa3a5ae8b6969,rating salary,8
+62a58d20575fa3a5ae8b6969,rating worklife balance,5
+62a58d20575fa3a5ae8b6969,rating coworkers,8
+62a58d20575fa3a5ae8b6969,rating management,8
+62a58d20575fa3a5ae8b6969,rating upward mobility,5
+62a58d20575fa3a5ae8b6969,rating learning,10
+62a58faf2e54c9003e55ef2e,rating salary,2
+62a58faf2e54c9003e55ef2e,rating worklife balance,5
+62a58faf2e54c9003e55ef2e,rating coworkers,5
+62a58faf2e54c9003e55ef2e,rating management,5
+62a58faf2e54c9003e55ef2e,rating upward mobility,2
+62a58faf2e54c9003e55ef2e,rating learning,4
+62a5998fbc6861bf31798ef0,rating salary,7
+62a5998fbc6861bf31798ef0,rating worklife balance,8
+62a5998fbc6861bf31798ef0,rating coworkers,8
+62a5998fbc6861bf31798ef0,rating management,8
+62a5998fbc6861bf31798ef0,rating upward mobility,8
+62a5998fbc6861bf31798ef0,rating learning,7
+62a59cd2cec54911e9cd251a,rating salary,1
+62a59cd2cec54911e9cd251a,rating worklife balance,1
+62a59cd2cec54911e9cd251a,rating coworkers,2
+62a59cd2cec54911e9cd251a,rating management,1
+62a59cd2cec54911e9cd251a,rating upward mobility,0
+62a59cd2cec54911e9cd251a,rating learning,3
+62a59d007dc029e2d66eb8f9,rating salary,2
+62a59d007dc029e2d66eb8f9,rating worklife balance,0
+62a59d007dc029e2d66eb8f9,rating coworkers,0
+62a59d007dc029e2d66eb8f9,rating management,0
+62a59d007dc029e2d66eb8f9,rating upward mobility,0
+62a59d007dc029e2d66eb8f9,rating learning,2
+62a5a124cec54911e9cd29f5,rating salary,3
+62a5a124cec54911e9cd29f5,rating worklife balance,3
+62a5a124cec54911e9cd29f5,rating coworkers,4
+62a5a124cec54911e9cd29f5,rating management,4
+62a5a124cec54911e9cd29f5,rating upward mobility,4
+62a5a124cec54911e9cd29f5,rating learning,4
+62a5a44b24a26260273af0fc,rating salary,4
+62a5a44b24a26260273af0fc,rating worklife balance,5
+62a5a44b24a26260273af0fc,rating coworkers,4
+62a5a44b24a26260273af0fc,rating management,5
+62a5a44b24a26260273af0fc,rating upward mobility,4
+62a5a44b24a26260273af0fc,rating learning,4
+62a5a931cec54911e9cd3333,rating salary,6
+62a5a931cec54911e9cd3333,rating worklife balance,7
+62a5a931cec54911e9cd3333,rating coworkers,8
+62a5a931cec54911e9cd3333,rating management,7
+62a5a931cec54911e9cd3333,rating upward mobility,6
+62a5a931cec54911e9cd3333,rating learning,7
+62a5bea05d257a28a3106f7e,rating salary,2
+62a5bea05d257a28a3106f7e,rating worklife balance,3
+62a5bea05d257a28a3106f7e,rating coworkers,2
+62a5bea05d257a28a3106f7e,rating management,5
+62a5bea05d257a28a3106f7e,rating upward mobility,5
+62a5bea05d257a28a3106f7e,rating learning,6
+62a5c571575fa3a5ae8baaa1,rating salary,0
+62a5c571575fa3a5ae8baaa1,rating worklife balance,1
+62a5c571575fa3a5ae8baaa1,rating coworkers,1
+62a5c571575fa3a5ae8baaa1,rating management,0
+62a5c571575fa3a5ae8baaa1,rating upward mobility,0
+62a5c571575fa3a5ae8baaa1,rating learning,0
+62a5cb12cf25554317330d69,rating salary,2
+62a5cb12cf25554317330d69,rating worklife balance,1
+62a5cb12cf25554317330d69,rating coworkers,2
+62a5cb12cf25554317330d69,rating management,3
+62a5cb12cf25554317330d69,rating upward mobility,4
+62a5cb12cf25554317330d69,rating learning,3
+62a5cba2575fa3a5ae8bb122,rating salary,3
+62a5cba2575fa3a5ae8bb122,rating worklife balance,10
+62a5cba2575fa3a5ae8bb122,rating coworkers,8
+62a5cba2575fa3a5ae8bb122,rating management,8
+62a5cba2575fa3a5ae8bb122,rating upward mobility,10
+62a5cba2575fa3a5ae8bb122,rating learning,10
+62a5d350f3072dd892652c70,rating salary,5
+62a5d350f3072dd892652c70,rating worklife balance,8
+62a5d350f3072dd892652c70,rating coworkers,3
+62a5d350f3072dd892652c70,rating management,2
+62a5d350f3072dd892652c70,rating upward mobility,4
+62a5d350f3072dd892652c70,rating learning,8
+62a5db29cf2555431733248f,rating salary,0
+62a5db29cf2555431733248f,rating worklife balance,3
+62a5db29cf2555431733248f,rating coworkers,3
+62a5db29cf2555431733248f,rating management,3
+62a5db29cf2555431733248f,rating upward mobility,3
+62a5db29cf2555431733248f,rating learning,6
+62a5e69f24a26260273b42bf,rating salary,0
+62a5e69f24a26260273b42bf,rating worklife balance,10
+62a5e69f24a26260273b42bf,rating coworkers,10
+62a5e69f24a26260273b42bf,rating management,5
+62a5e69f24a26260273b42bf,rating upward mobility,0
+62a5e69f24a26260273b42bf,rating learning,0
+62a5ea667dc029e2d66f153d,rating salary,8
+62a5ea667dc029e2d66f153d,rating worklife balance,6
+62a5ea667dc029e2d66f153d,rating coworkers,6
+62a5ea667dc029e2d66f153d,rating management,7
+62a5ea667dc029e2d66f153d,rating upward mobility,9
+62a5ea667dc029e2d66f153d,rating learning,10
+62a5ebe05d257a28a310ac53,rating salary,6
+62a5ebe05d257a28a310ac53,rating worklife balance,9
+62a5ebe05d257a28a310ac53,rating coworkers,5
+62a5ebe05d257a28a310ac53,rating management,7
+62a5ebe05d257a28a310ac53,rating upward mobility,8
+62a5ebe05d257a28a310ac53,rating learning,9
+62a5edb2575fa3a5ae8bdba5,rating salary,3
+62a5edb2575fa3a5ae8bdba5,rating worklife balance,6
+62a5edb2575fa3a5ae8bdba5,rating coworkers,6
+62a5edb2575fa3a5ae8bdba5,rating management,6
+62a5edb2575fa3a5ae8bdba5,rating upward mobility,6
+62a5edb2575fa3a5ae8bdba5,rating learning,6
+62a5edba0a77c1a77f68f1b5,rating salary,1
+62a5edba0a77c1a77f68f1b5,rating worklife balance,5
+62a5edba0a77c1a77f68f1b5,rating coworkers,3
+62a5edba0a77c1a77f68f1b5,rating management,3
+62a5edba0a77c1a77f68f1b5,rating upward mobility,6
+62a5edba0a77c1a77f68f1b5,rating learning,5
+62a5f332bc6861bf3179f631,rating salary,1
+62a5f332bc6861bf3179f631,rating worklife balance,8
+62a5f332bc6861bf3179f631,rating coworkers,8
+62a5f332bc6861bf3179f631,rating management,1
+62a5f332bc6861bf3179f631,rating upward mobility,3
+62a5f332bc6861bf3179f631,rating learning,7
+62a5f872bae91e4b8b861e53,rating salary,9
+62a5f872bae91e4b8b861e53,rating worklife balance,10
+62a5f872bae91e4b8b861e53,rating coworkers,10
+62a5f872bae91e4b8b861e53,rating management,10
+62a5f872bae91e4b8b861e53,rating upward mobility,10
+62a5f872bae91e4b8b861e53,rating learning,10
+62a609b8f8f75616458875b7,rating salary,8
+62a609b8f8f75616458875b7,rating worklife balance,10
+62a609b8f8f75616458875b7,rating coworkers,9
+62a609b8f8f75616458875b7,rating management,6
+62a609b8f8f75616458875b7,rating upward mobility,8
+62a609b8f8f75616458875b7,rating learning,9
+62a609c4bc6861bf317a10a3,rating salary,7
+62a609c4bc6861bf317a10a3,rating worklife balance,6
+62a609c4bc6861bf317a10a3,rating coworkers,8
+62a609c4bc6861bf317a10a3,rating management,8
+62a609c4bc6861bf317a10a3,rating upward mobility,8
+62a609c4bc6861bf317a10a3,rating learning,7
+62a61076f8f7561645887ded,rating salary,0
+62a61076f8f7561645887ded,rating worklife balance,0
+62a61076f8f7561645887ded,rating coworkers,0
+62a61076f8f7561645887ded,rating management,0
+62a61076f8f7561645887ded,rating upward mobility,0
+62a61076f8f7561645887ded,rating learning,0
+62a615fd18134ddc75d1f1fa,rating salary,0
+62a615fd18134ddc75d1f1fa,rating worklife balance,0
+62a615fd18134ddc75d1f1fa,rating coworkers,3
+62a615fd18134ddc75d1f1fa,rating management,0
+62a615fd18134ddc75d1f1fa,rating upward mobility,0
+62a615fd18134ddc75d1f1fa,rating learning,8
+62a617c30a77c1a77f6925fc,rating salary,9
+62a617c30a77c1a77f6925fc,rating worklife balance,7
+62a617c30a77c1a77f6925fc,rating coworkers,9
+62a617c30a77c1a77f6925fc,rating management,10
+62a617c30a77c1a77f6925fc,rating upward mobility,10
+62a617c30a77c1a77f6925fc,rating learning,10
+62a618a9d8c00e9f541d3537,rating salary,0
+62a618a9d8c00e9f541d3537,rating worklife balance,8
+62a618a9d8c00e9f541d3537,rating coworkers,7
+62a618a9d8c00e9f541d3537,rating management,6
+62a618a9d8c00e9f541d3537,rating upward mobility,3
+62a618a9d8c00e9f541d3537,rating learning,9
+62a61eb02e54c9003e5697f7,rating salary,5
+62a61eb02e54c9003e5697f7,rating worklife balance,7
+62a61eb02e54c9003e5697f7,rating coworkers,6
+62a61eb02e54c9003e5697f7,rating management,8
+62a61eb02e54c9003e5697f7,rating upward mobility,7
+62a61eb02e54c9003e5697f7,rating learning,7
+62a6246df3072dd892659218,rating salary,3
+62a6246df3072dd892659218,rating worklife balance,2
+62a6246df3072dd892659218,rating coworkers,4
+62a6246df3072dd892659218,rating management,3
+62a6246df3072dd892659218,rating upward mobility,3
+62a6246df3072dd892659218,rating learning,3
+62a62a7124a26260273b94fa,rating salary,2
+62a62a7124a26260273b94fa,rating worklife balance,6
+62a62a7124a26260273b94fa,rating coworkers,6
+62a62a7124a26260273b94fa,rating management,7
+62a62a7124a26260273b94fa,rating upward mobility,7
+62a62a7124a26260273b94fa,rating learning,9
+62a631782e54c9003e56ac36,rating salary,7
+62a631782e54c9003e56ac36,rating worklife balance,9
+62a631782e54c9003e56ac36,rating coworkers,10
+62a631782e54c9003e56ac36,rating management,10
+62a631782e54c9003e56ac36,rating upward mobility,3
+62a631782e54c9003e56ac36,rating learning,4
+62a633b4d8c00e9f541d54a4,rating salary,5
+62a633b4d8c00e9f541d54a4,rating worklife balance,6
+62a633b4d8c00e9f541d54a4,rating coworkers,5
+62a633b4d8c00e9f541d54a4,rating management,2
+62a633b4d8c00e9f541d54a4,rating upward mobility,3
+62a633b4d8c00e9f541d54a4,rating learning,3
+62a639e05d257a28a3110ef5,rating salary,4
+62a639e05d257a28a3110ef5,rating worklife balance,5
+62a639e05d257a28a3110ef5,rating coworkers,4
+62a639e05d257a28a3110ef5,rating management,4
+62a639e05d257a28a3110ef5,rating upward mobility,5
+62a639e05d257a28a3110ef5,rating learning,6
+62a642690f8c8599d5b2ab37,rating salary,7
+62a642690f8c8599d5b2ab37,rating worklife balance,9
+62a642690f8c8599d5b2ab37,rating coworkers,9
+62a642690f8c8599d5b2ab37,rating management,9
+62a642690f8c8599d5b2ab37,rating upward mobility,7
+62a642690f8c8599d5b2ab37,rating learning,9
+62a64b4dd8c00e9f541d6d81,rating salary,3
+62a64b4dd8c00e9f541d6d81,rating worklife balance,7
+62a64b4dd8c00e9f541d6d81,rating coworkers,8
+62a64b4dd8c00e9f541d6d81,rating management,6
+62a64b4dd8c00e9f541d6d81,rating upward mobility,6
+62a64b4dd8c00e9f541d6d81,rating learning,9
+62a64c6ecf2555431733a7a4,rating salary,3
+62a64c6ecf2555431733a7a4,rating worklife balance,5
+62a64c6ecf2555431733a7a4,rating coworkers,5
+62a64c6ecf2555431733a7a4,rating management,4
+62a64c6ecf2555431733a7a4,rating upward mobility,3
+62a64c6ecf2555431733a7a4,rating learning,2
+62a654165d257a28a3112ac9,rating salary,7
+62a654165d257a28a3112ac9,rating worklife balance,5
+62a654165d257a28a3112ac9,rating coworkers,5
+62a654165d257a28a3112ac9,rating management,8
+62a654165d257a28a3112ac9,rating upward mobility,8
+62a654165d257a28a3112ac9,rating learning,8
+62a65618d8c00e9f541d783a,rating salary,8
+62a65618d8c00e9f541d783a,rating worklife balance,10
+62a65618d8c00e9f541d783a,rating coworkers,10
+62a65618d8c00e9f541d783a,rating management,10
+62a65618d8c00e9f541d783a,rating upward mobility,7
+62a65618d8c00e9f541d783a,rating learning,9
+62a65db824a26260273bc9ff,rating salary,8
+62a65db824a26260273bc9ff,rating worklife balance,8
+62a65db824a26260273bc9ff,rating coworkers,10
+62a65db824a26260273bc9ff,rating management,10
+62a65db824a26260273bc9ff,rating upward mobility,10
+62a65db824a26260273bc9ff,rating learning,10
+62a66558cf2555431733c0f9,rating salary,7
+62a66558cf2555431733c0f9,rating worklife balance,9
+62a66558cf2555431733c0f9,rating coworkers,8
+62a66558cf2555431733c0f9,rating management,8
+62a66558cf2555431733c0f9,rating upward mobility,6
+62a66558cf2555431733c0f9,rating learning,6
+62a6772c18134ddc75d25895,rating salary,1
+62a6772c18134ddc75d25895,rating worklife balance,5
+62a6772c18134ddc75d25895,rating coworkers,10
+62a6772c18134ddc75d25895,rating management,10
+62a6772c18134ddc75d25895,rating upward mobility,8
+62a6772c18134ddc75d25895,rating learning,10
+62a68f1e0a77c1a77f69a381,rating salary,3
+62a68f1e0a77c1a77f69a381,rating worklife balance,3
+62a68f1e0a77c1a77f69a381,rating coworkers,3
+62a68f1e0a77c1a77f69a381,rating management,2
+62a68f1e0a77c1a77f69a381,rating upward mobility,2
+62a68f1e0a77c1a77f69a381,rating learning,2
+62a6a11a0a77c1a77f69b7cb,rating salary,1
+62a6a11a0a77c1a77f69b7cb,rating worklife balance,4
+62a6a11a0a77c1a77f69b7cb,rating coworkers,1
+62a6a11a0a77c1a77f69b7cb,rating management,2
+62a6a11a0a77c1a77f69b7cb,rating upward mobility,2
+62a6a11a0a77c1a77f69b7cb,rating learning,3
+62a6ac1524a26260273c1cd0,rating salary,3
+62a6ac1524a26260273c1cd0,rating worklife balance,8
+62a6ac1524a26260273c1cd0,rating coworkers,8
+62a6ac1524a26260273c1cd0,rating management,5
+62a6ac1524a26260273c1cd0,rating upward mobility,3
+62a6ac1524a26260273c1cd0,rating learning,5
+62a6b0790a77c1a77f69cb15,rating salary,5
+62a6b0790a77c1a77f69cb15,rating worklife balance,8
+62a6b0790a77c1a77f69cb15,rating coworkers,7
+62a6b0790a77c1a77f69cb15,rating management,7
+62a6b0790a77c1a77f69cb15,rating upward mobility,3
+62a6b0790a77c1a77f69cb15,rating learning,2
+62a6bc6a18134ddc75d2a726,rating salary,6
+62a6bc6a18134ddc75d2a726,rating worklife balance,5
+62a6bc6a18134ddc75d2a726,rating coworkers,4
+62a6bc6a18134ddc75d2a726,rating management,4
+62a6bc6a18134ddc75d2a726,rating upward mobility,3
+62a6bc6a18134ddc75d2a726,rating learning,4
+62a6c3d9cec54911e9ce7669,rating salary,5
+62a6c3d9cec54911e9ce7669,rating worklife balance,10
+62a6c3d9cec54911e9ce7669,rating coworkers,7
+62a6c3d9cec54911e9ce7669,rating management,7
+62a6c3d9cec54911e9ce7669,rating upward mobility,4
+62a6c3d9cec54911e9ce7669,rating learning,8
+62a6d037cec54911e9ce862a,rating salary,3
+62a6d037cec54911e9ce862a,rating worklife balance,3
+62a6d037cec54911e9ce862a,rating coworkers,8
+62a6d037cec54911e9ce862a,rating management,9
+62a6d037cec54911e9ce862a,rating upward mobility,5
+62a6d037cec54911e9ce862a,rating learning,3
+62a6d2532e54c9003e575d9c,rating salary,1
+62a6d2532e54c9003e575d9c,rating worklife balance,4
+62a6d2532e54c9003e575d9c,rating coworkers,4
+62a6d2532e54c9003e575d9c,rating management,1
+62a6d2532e54c9003e575d9c,rating upward mobility,1
+62a6d2532e54c9003e575d9c,rating learning,4
+62a6dbcad8c00e9f541e1050,rating salary,6
+62a6dbcad8c00e9f541e1050,rating worklife balance,9
+62a6dbcad8c00e9f541e1050,rating coworkers,8
+62a6dbcad8c00e9f541e1050,rating management,8
+62a6dbcad8c00e9f541e1050,rating upward mobility,8
+62a6dbcad8c00e9f541e1050,rating learning,7
+62a6e2815d257a28a311c8f9,rating salary,5
+62a6e2815d257a28a311c8f9,rating worklife balance,7
+62a6e2815d257a28a311c8f9,rating coworkers,7
+62a6e2815d257a28a311c8f9,rating management,7
+62a6e2815d257a28a311c8f9,rating upward mobility,7
+62a6e2815d257a28a311c8f9,rating learning,7
+62a6ea03d8c00e9f541e3594,rating salary,5
+62a6ea03d8c00e9f541e3594,rating worklife balance,7
+62a6ea03d8c00e9f541e3594,rating coworkers,7
+62a6ea03d8c00e9f541e3594,rating management,4
+62a6ea03d8c00e9f541e3594,rating upward mobility,5
+62a6ea03d8c00e9f541e3594,rating learning,7
+62a7029ff8f7561645899bae,rating salary,5
+62a7029ff8f7561645899bae,rating worklife balance,5
+62a7029ff8f7561645899bae,rating coworkers,7
+62a7029ff8f7561645899bae,rating management,7
+62a7029ff8f7561645899bae,rating upward mobility,7
+62a7029ff8f7561645899bae,rating learning,8
+62a7047c24a26260273c9646,rating salary,0
+62a7047c24a26260273c9646,rating worklife balance,3
+62a7047c24a26260273c9646,rating coworkers,0
+62a7047c24a26260273c9646,rating management,1
+62a7047c24a26260273c9646,rating upward mobility,0
+62a7047c24a26260273c9646,rating learning,0
+62a70b55cec54911e9cedd98,rating salary,4
+62a70b55cec54911e9cedd98,rating worklife balance,2
+62a70b55cec54911e9cedd98,rating coworkers,5
+62a70b55cec54911e9cedd98,rating management,2
+62a70b55cec54911e9cedd98,rating upward mobility,4
+62a70b55cec54911e9cedd98,rating learning,4
+62a71930bae91e4b8b878b2b,rating salary,NA
+62a71930bae91e4b8b878b2b,rating worklife balance,NA
+62a71930bae91e4b8b878b2b,rating coworkers,NA
+62a71930bae91e4b8b878b2b,rating management,NA
+62a71930bae91e4b8b878b2b,rating upward mobility,NA
+62a71930bae91e4b8b878b2b,rating learning,10
+62a73a37f8d5efcc22fcb724,rating salary,6
+62a73a37f8d5efcc22fcb724,rating worklife balance,6
+62a73a37f8d5efcc22fcb724,rating coworkers,7
+62a73a37f8d5efcc22fcb724,rating management,7
+62a73a37f8d5efcc22fcb724,rating upward mobility,6
+62a73a37f8d5efcc22fcb724,rating learning,7
+62a73aa824a26260273d0172,rating salary,3
+62a73aa824a26260273d0172,rating worklife balance,3
+62a73aa824a26260273d0172,rating coworkers,5
+62a73aa824a26260273d0172,rating management,4
+62a73aa824a26260273d0172,rating upward mobility,4
+62a73aa824a26260273d0172,rating learning,4
+62a73c5b0a77c1a77f6aba65,rating salary,5
+62a73c5b0a77c1a77f6aba65,rating worklife balance,8
+62a73c5b0a77c1a77f6aba65,rating coworkers,5
+62a73c5b0a77c1a77f6aba65,rating management,5
+62a73c5b0a77c1a77f6aba65,rating upward mobility,5
+62a73c5b0a77c1a77f6aba65,rating learning,4
+62a749ebd8c00e9f541efa36,rating salary,4
+62a749ebd8c00e9f541efa36,rating worklife balance,5
+62a749ebd8c00e9f541efa36,rating coworkers,4
+62a749ebd8c00e9f541efa36,rating management,5
+62a749ebd8c00e9f541efa36,rating upward mobility,5
+62a749ebd8c00e9f541efa36,rating learning,6
+62a74e28b4da29969c681108,rating salary,7
+62a74e28b4da29969c681108,rating worklife balance,9
+62a74e28b4da29969c681108,rating coworkers,5
+62a74e28b4da29969c681108,rating management,6
+62a74e28b4da29969c681108,rating upward mobility,6
+62a74e28b4da29969c681108,rating learning,7
+62a758185d257a28a312bc94,rating salary,8
+62a758185d257a28a312bc94,rating worklife balance,7
+62a758185d257a28a312bc94,rating coworkers,6
+62a758185d257a28a312bc94,rating management,7
+62a758185d257a28a312bc94,rating upward mobility,8
+62a758185d257a28a312bc94,rating learning,10
+62a75a5418134ddc75d3d2f1,rating salary,9
+62a75a5418134ddc75d3d2f1,rating worklife balance,9
+62a75a5418134ddc75d3d2f1,rating coworkers,9
+62a75a5418134ddc75d3d2f1,rating management,9
+62a75a5418134ddc75d3d2f1,rating upward mobility,8
+62a75a5418134ddc75d3d2f1,rating learning,8
+62a75ed0f8f75616458a5d1a,rating salary,8
+62a75ed0f8f75616458a5d1a,rating worklife balance,6
+62a75ed0f8f75616458a5d1a,rating coworkers,6
+62a75ed0f8f75616458a5d1a,rating management,8
+62a75ed0f8f75616458a5d1a,rating upward mobility,7
+62a75ed0f8f75616458a5d1a,rating learning,8
+62a75f1b575fa3a5ae8e0010,rating salary,5
+62a75f1b575fa3a5ae8e0010,rating worklife balance,9
+62a75f1b575fa3a5ae8e0010,rating coworkers,7
+62a75f1b575fa3a5ae8e0010,rating management,7
+62a75f1b575fa3a5ae8e0010,rating upward mobility,6
+62a75f1b575fa3a5ae8e0010,rating learning,9
+62a764ffd8c00e9f541f3cc3,rating salary,7
+62a764ffd8c00e9f541f3cc3,rating worklife balance,9
+62a764ffd8c00e9f541f3cc3,rating coworkers,8
+62a764ffd8c00e9f541f3cc3,rating management,8
+62a764ffd8c00e9f541f3cc3,rating upward mobility,4
+62a764ffd8c00e9f541f3cc3,rating learning,2
+62a76c962e54c9003e588661,rating salary,5
+62a76c962e54c9003e588661,rating worklife balance,6
+62a76c962e54c9003e588661,rating coworkers,6
+62a76c962e54c9003e588661,rating management,2
+62a76c962e54c9003e588661,rating upward mobility,2
+62a76c962e54c9003e588661,rating learning,3
+62a772da575fa3a5ae8e2a4a,rating salary,4
+62a772da575fa3a5ae8e2a4a,rating worklife balance,3
+62a772da575fa3a5ae8e2a4a,rating coworkers,2
+62a772da575fa3a5ae8e2a4a,rating management,0
+62a772da575fa3a5ae8e2a4a,rating upward mobility,0
+62a772da575fa3a5ae8e2a4a,rating learning,0
+62a7738a2e54c9003e589598,rating salary,4
+62a7738a2e54c9003e589598,rating worklife balance,3
+62a7738a2e54c9003e589598,rating coworkers,4
+62a7738a2e54c9003e589598,rating management,2
+62a7738a2e54c9003e589598,rating upward mobility,2
+62a7738a2e54c9003e589598,rating learning,2
+62a77967f8d5efcc22fd4c81,rating salary,4
+62a77967f8d5efcc22fd4c81,rating worklife balance,9
+62a77967f8d5efcc22fd4c81,rating coworkers,8
+62a77967f8d5efcc22fd4c81,rating management,8
+62a77967f8d5efcc22fd4c81,rating upward mobility,6
+62a77967f8d5efcc22fd4c81,rating learning,7
+62a77a37f8d5efcc22fd4e47,rating salary,0
+62a77a37f8d5efcc22fd4e47,rating worklife balance,0
+62a77a37f8d5efcc22fd4e47,rating coworkers,0
+62a77a37f8d5efcc22fd4e47,rating management,0
+62a77a37f8d5efcc22fd4e47,rating upward mobility,0
+62a77a37f8d5efcc22fd4e47,rating learning,0
+62a77cb7b4da29969c68743a,rating salary,3
+62a77cb7b4da29969c68743a,rating worklife balance,6
+62a77cb7b4da29969c68743a,rating coworkers,5
+62a77cb7b4da29969c68743a,rating management,5
+62a77cb7b4da29969c68743a,rating upward mobility,5
+62a77cb7b4da29969c68743a,rating learning,6
+62a78743f8f75616458ab6bb,rating salary,8
+62a78743f8f75616458ab6bb,rating worklife balance,10
+62a78743f8f75616458ab6bb,rating coworkers,6
+62a78743f8f75616458ab6bb,rating management,7
+62a78743f8f75616458ab6bb,rating upward mobility,8
+62a78743f8f75616458ab6bb,rating learning,8
+62a789015d257a28a3132977,rating salary,5
+62a789015d257a28a3132977,rating worklife balance,6
+62a789015d257a28a3132977,rating coworkers,9
+62a789015d257a28a3132977,rating management,6
+62a789015d257a28a3132977,rating upward mobility,7
+62a789015d257a28a3132977,rating learning,10
+62a78f3bf408bae018f2ef51,rating salary,8
+62a78f3bf408bae018f2ef51,rating worklife balance,9
+62a78f3bf408bae018f2ef51,rating coworkers,9
+62a78f3bf408bae018f2ef51,rating management,7
+62a78f3bf408bae018f2ef51,rating upward mobility,8
+62a78f3bf408bae018f2ef51,rating learning,8
+62a7988bbae91e4b8b88b8ee,rating salary,6
+62a7988bbae91e4b8b88b8ee,rating worklife balance,10
+62a7988bbae91e4b8b88b8ee,rating coworkers,10
+62a7988bbae91e4b8b88b8ee,rating management,10
+62a7988bbae91e4b8b88b8ee,rating upward mobility,10
+62a7988bbae91e4b8b88b8ee,rating learning,8
+62a79c9c2e54c9003e58f0d5,rating salary,3
+62a79c9c2e54c9003e58f0d5,rating worklife balance,4
+62a79c9c2e54c9003e58f0d5,rating coworkers,5
+62a79c9c2e54c9003e58f0d5,rating management,5
+62a79c9c2e54c9003e58f0d5,rating upward mobility,4
+62a79c9c2e54c9003e58f0d5,rating learning,5
+62a7b0ae0f8c8599d5b51cd0,rating salary,6
+62a7b0ae0f8c8599d5b51cd0,rating worklife balance,6
+62a7b0ae0f8c8599d5b51cd0,rating coworkers,9
+62a7b0ae0f8c8599d5b51cd0,rating management,9
+62a7b0ae0f8c8599d5b51cd0,rating upward mobility,10
+62a7b0ae0f8c8599d5b51cd0,rating learning,10
+62a7b283f8d5efcc22fdc189,rating salary,2
+62a7b283f8d5efcc22fdc189,rating worklife balance,3
+62a7b283f8d5efcc22fdc189,rating coworkers,4
+62a7b283f8d5efcc22fdc189,rating management,3
+62a7b283f8d5efcc22fdc189,rating upward mobility,3
+62a7b283f8d5efcc22fdc189,rating learning,5
+62a7b296f8d5efcc22fdc1ef,rating salary,8
+62a7b296f8d5efcc22fdc1ef,rating worklife balance,8
+62a7b296f8d5efcc22fdc1ef,rating coworkers,7
+62a7b296f8d5efcc22fdc1ef,rating management,6
+62a7b296f8d5efcc22fdc1ef,rating upward mobility,7
+62a7b296f8d5efcc22fdc1ef,rating learning,9
+62a7bd0e5d257a28a313855c,rating salary,6
+62a7bd0e5d257a28a313855c,rating worklife balance,7
+62a7bd0e5d257a28a313855c,rating coworkers,7
+62a7bd0e5d257a28a313855c,rating management,6
+62a7bd0e5d257a28a313855c,rating upward mobility,7
+62a7bd0e5d257a28a313855c,rating learning,6
+62a7be5e5d257a28a313876a,rating salary,7
+62a7be5e5d257a28a313876a,rating worklife balance,6
+62a7be5e5d257a28a313876a,rating coworkers,5
+62a7be5e5d257a28a313876a,rating management,4
+62a7be5e5d257a28a313876a,rating upward mobility,3
+62a7be5e5d257a28a313876a,rating learning,6
+62a7ce44575fa3a5ae8ece5f,rating salary,0
+62a7ce44575fa3a5ae8ece5f,rating worklife balance,6
+62a7ce44575fa3a5ae8ece5f,rating coworkers,4
+62a7ce44575fa3a5ae8ece5f,rating management,5
+62a7ce44575fa3a5ae8ece5f,rating upward mobility,2
+62a7ce44575fa3a5ae8ece5f,rating learning,4
+62a7e1380f8c8599d5b55fcf,rating salary,2
+62a7e1380f8c8599d5b55fcf,rating worklife balance,6
+62a7e1380f8c8599d5b55fcf,rating coworkers,6
+62a7e1380f8c8599d5b55fcf,rating management,4
+62a7e1380f8c8599d5b55fcf,rating upward mobility,3
+62a7e1380f8c8599d5b55fcf,rating learning,3
+62a7e2d024a26260273e4448,rating salary,4
+62a7e2d024a26260273e4448,rating worklife balance,3
+62a7e2d024a26260273e4448,rating coworkers,4
+62a7e2d024a26260273e4448,rating management,4
+62a7e2d024a26260273e4448,rating upward mobility,4
+62a7e2d024a26260273e4448,rating learning,6
+62a7ed9c0f8c8599d5b57132,rating salary,4
+62a7ed9c0f8c8599d5b57132,rating worklife balance,6
+62a7ed9c0f8c8599d5b57132,rating coworkers,3
+62a7ed9c0f8c8599d5b57132,rating management,2
+62a7ed9c0f8c8599d5b57132,rating upward mobility,3
+62a7ed9c0f8c8599d5b57132,rating learning,3
+62a7f09a0f8c8599d5b57526,rating salary,6
+62a7f09a0f8c8599d5b57526,rating worklife balance,7
+62a7f09a0f8c8599d5b57526,rating coworkers,7
+62a7f09a0f8c8599d5b57526,rating management,5
+62a7f09a0f8c8599d5b57526,rating upward mobility,5
+62a7f09a0f8c8599d5b57526,rating learning,9
+62a7fb02f8d5efcc22fe2486,rating salary,7
+62a7fb02f8d5efcc22fe2486,rating worklife balance,5
+62a7fb02f8d5efcc22fe2486,rating coworkers,6
+62a7fb02f8d5efcc22fe2486,rating management,6
+62a7fb02f8d5efcc22fe2486,rating upward mobility,4
+62a7fb02f8d5efcc22fe2486,rating learning,6
+62a816907dc029e2d6725a33,rating salary,3
+62a816907dc029e2d6725a33,rating worklife balance,4
+62a816907dc029e2d6725a33,rating coworkers,8
+62a816907dc029e2d6725a33,rating management,5
+62a816907dc029e2d6725a33,rating upward mobility,5
+62a816907dc029e2d6725a33,rating learning,3
+62a84764bc6861bf317d7b86,rating salary,2
+62a84764bc6861bf317d7b86,rating worklife balance,4
+62a84764bc6861bf317d7b86,rating coworkers,4
+62a84764bc6861bf317d7b86,rating management,3
+62a84764bc6861bf317d7b86,rating upward mobility,4
+62a84764bc6861bf317d7b86,rating learning,4
+62a84f9af408bae018f41e34,rating salary,0
+62a84f9af408bae018f41e34,rating worklife balance,1
+62a84f9af408bae018f41e34,rating coworkers,2
+62a84f9af408bae018f41e34,rating management,1
+62a84f9af408bae018f41e34,rating upward mobility,1
+62a84f9af408bae018f41e34,rating learning,1
+62a85803f8d5efcc22fea92f,rating salary,0
+62a85803f8d5efcc22fea92f,rating worklife balance,1
+62a85803f8d5efcc22fea92f,rating coworkers,0
+62a85803f8d5efcc22fea92f,rating management,0
+62a85803f8d5efcc22fea92f,rating upward mobility,0
+62a85803f8d5efcc22fea92f,rating learning,0
+62a8592f7dc029e2d672c0a8,rating salary,4
+62a8592f7dc029e2d672c0a8,rating worklife balance,6
+62a8592f7dc029e2d672c0a8,rating coworkers,6
+62a8592f7dc029e2d672c0a8,rating management,3
+62a8592f7dc029e2d672c0a8,rating upward mobility,7
+62a8592f7dc029e2d672c0a8,rating learning,9
+62a8643bcec54911e9d14297,rating salary,3
+62a8643bcec54911e9d14297,rating worklife balance,5
+62a8643bcec54911e9d14297,rating coworkers,5
+62a8643bcec54911e9d14297,rating management,4
+62a8643bcec54911e9d14297,rating upward mobility,5
+62a8643bcec54911e9d14297,rating learning,6
+62a8665c5d257a28a31474f7,rating salary,6
+62a8665c5d257a28a31474f7,rating worklife balance,7
+62a8665c5d257a28a31474f7,rating coworkers,5
+62a8665c5d257a28a31474f7,rating management,7
+62a8665c5d257a28a31474f7,rating upward mobility,7
+62a8665c5d257a28a31474f7,rating learning,9
+62a868c5cf2555431737094b,rating salary,4
+62a868c5cf2555431737094b,rating worklife balance,7
+62a868c5cf2555431737094b,rating coworkers,7
+62a868c5cf2555431737094b,rating management,7
+62a868c5cf2555431737094b,rating upward mobility,5
+62a868c5cf2555431737094b,rating learning,5
+62a88e9ff8d5efcc22ff1eb6,rating salary,5
+62a88e9ff8d5efcc22ff1eb6,rating worklife balance,1
+62a88e9ff8d5efcc22ff1eb6,rating coworkers,3
+62a88e9ff8d5efcc22ff1eb6,rating management,1
+62a88e9ff8d5efcc22ff1eb6,rating upward mobility,4
+62a88e9ff8d5efcc22ff1eb6,rating learning,5
+62a89e365d257a28a314fd36,rating salary,0
+62a89e365d257a28a314fd36,rating worklife balance,0
+62a89e365d257a28a314fd36,rating coworkers,0
+62a89e365d257a28a314fd36,rating management,0
+62a89e365d257a28a314fd36,rating upward mobility,0
+62a89e365d257a28a314fd36,rating learning,0
+62a8b6ffbae91e4b8b8aa5c2,rating salary,4
+62a8b6ffbae91e4b8b8aa5c2,rating worklife balance,7
+62a8b6ffbae91e4b8b8aa5c2,rating coworkers,7
+62a8b6ffbae91e4b8b8aa5c2,rating management,6
+62a8b6ffbae91e4b8b8aa5c2,rating upward mobility,6
+62a8b6ffbae91e4b8b8aa5c2,rating learning,6
+62a8bf9e575fa3a5ae907617,rating salary,3
+62a8bf9e575fa3a5ae907617,rating worklife balance,4
+62a8bf9e575fa3a5ae907617,rating coworkers,4
+62a8bf9e575fa3a5ae907617,rating management,4
+62a8bf9e575fa3a5ae907617,rating upward mobility,2
+62a8bf9e575fa3a5ae907617,rating learning,0
+62a8cd29bc6861bf317ea9a2,rating salary,6
+62a8cd29bc6861bf317ea9a2,rating worklife balance,7
+62a8cd29bc6861bf317ea9a2,rating coworkers,7
+62a8cd29bc6861bf317ea9a2,rating management,7
+62a8cd29bc6861bf317ea9a2,rating upward mobility,7
+62a8cd29bc6861bf317ea9a2,rating learning,6
+62a8f477f408bae018f5869d,rating salary,8
+62a8f477f408bae018f5869d,rating worklife balance,9
+62a8f477f408bae018f5869d,rating coworkers,8
+62a8f477f408bae018f5869d,rating management,8
+62a8f477f408bae018f5869d,rating upward mobility,8
+62a8f477f408bae018f5869d,rating learning,9
+62a8fcf5cf25554317384604,rating salary,5
+62a8fcf5cf25554317384604,rating worklife balance,6
+62a8fcf5cf25554317384604,rating coworkers,6
+62a8fcf5cf25554317384604,rating management,2
+62a8fcf5cf25554317384604,rating upward mobility,0
+62a8fcf5cf25554317384604,rating learning,4
+62a8fe9abc6861bf317f0c01,rating salary,1
+62a8fe9abc6861bf317f0c01,rating worklife balance,7
+62a8fe9abc6861bf317f0c01,rating coworkers,5
+62a8fe9abc6861bf317f0c01,rating management,5
+62a8fe9abc6861bf317f0c01,rating upward mobility,4
+62a8fe9abc6861bf317f0c01,rating learning,4
+62a9024d18134ddc75d6e76d,rating salary,3
+62a9024d18134ddc75d6e76d,rating worklife balance,6
+62a9024d18134ddc75d6e76d,rating coworkers,6
+62a9024d18134ddc75d6e76d,rating management,4
+62a9024d18134ddc75d6e76d,rating upward mobility,6
+62a9024d18134ddc75d6e76d,rating learning,3
+62a95253bae91e4b8b8b91d9,rating salary,0
+62a95253bae91e4b8b8b91d9,rating worklife balance,3
+62a95253bae91e4b8b8b91d9,rating coworkers,3
+62a95253bae91e4b8b8b91d9,rating management,4
+62a95253bae91e4b8b8b91d9,rating upward mobility,5
+62a95253bae91e4b8b8b91d9,rating learning,5
+62a960567dc029e2d6749dd8,rating salary,6
+62a960567dc029e2d6749dd8,rating worklife balance,8
+62a960567dc029e2d6749dd8,rating coworkers,8
+62a960567dc029e2d6749dd8,rating management,5
+62a960567dc029e2d6749dd8,rating upward mobility,5
+62a960567dc029e2d6749dd8,rating learning,5
+62a9612bf8d5efcc22007c09,rating salary,5
+62a9612bf8d5efcc22007c09,rating worklife balance,9
+62a9612bf8d5efcc22007c09,rating coworkers,7
+62a9612bf8d5efcc22007c09,rating management,9
+62a9612bf8d5efcc22007c09,rating upward mobility,8
+62a9612bf8d5efcc22007c09,rating learning,9
+62a962380f8c8599d5b7e3fb,rating salary,2
+62a962380f8c8599d5b7e3fb,rating worklife balance,0
+62a962380f8c8599d5b7e3fb,rating coworkers,5
+62a962380f8c8599d5b7e3fb,rating management,3
+62a962380f8c8599d5b7e3fb,rating upward mobility,0
+62a962380f8c8599d5b7e3fb,rating learning,3
+62a993537dc029e2d674e9b5,rating salary,3
+62a993537dc029e2d674e9b5,rating worklife balance,3
+62a993537dc029e2d674e9b5,rating coworkers,5
+62a993537dc029e2d674e9b5,rating management,3
+62a993537dc029e2d674e9b5,rating upward mobility,3
+62a993537dc029e2d674e9b5,rating learning,4
+62a9bb81bc6861bf3180079c,rating salary,2
+62a9bb81bc6861bf3180079c,rating worklife balance,6
+62a9bb81bc6861bf3180079c,rating coworkers,5
+62a9bb81bc6861bf3180079c,rating management,5
+62a9bb81bc6861bf3180079c,rating upward mobility,6
+62a9bb81bc6861bf3180079c,rating learning,6
+62a9c880f408bae018f6aa1b,rating salary,7
+62a9c880f408bae018f6aa1b,rating worklife balance,8
+62a9c880f408bae018f6aa1b,rating coworkers,9
+62a9c880f408bae018f6aa1b,rating management,9
+62a9c880f408bae018f6aa1b,rating upward mobility,9
+62a9c880f408bae018f6aa1b,rating learning,9
+62a9e206f3072dd8926bce70,rating salary,3
+62a9e206f3072dd8926bce70,rating worklife balance,8
+62a9e206f3072dd8926bce70,rating coworkers,8
+62a9e206f3072dd8926bce70,rating management,5
+62a9e206f3072dd8926bce70,rating upward mobility,7
+62a9e206f3072dd8926bce70,rating learning,9
+62a9f0172e54c9003e5cdc25,rating salary,5
+62a9f0172e54c9003e5cdc25,rating worklife balance,9
+62a9f0172e54c9003e5cdc25,rating coworkers,7
+62a9f0172e54c9003e5cdc25,rating management,7
+62a9f0172e54c9003e5cdc25,rating upward mobility,8
+62a9f0172e54c9003e5cdc25,rating learning,9
+62a9f8a4cf2555431739d694,rating salary,10
+62a9f8a4cf2555431739d694,rating worklife balance,10
+62a9f8a4cf2555431739d694,rating coworkers,10
+62a9f8a4cf2555431739d694,rating management,9
+62a9f8a4cf2555431739d694,rating upward mobility,9
+62a9f8a4cf2555431739d694,rating learning,10
+62aa121dcec54911e9d446cc,rating salary,5
+62aa121dcec54911e9d446cc,rating worklife balance,3
+62aa121dcec54911e9d446cc,rating coworkers,7
+62aa121dcec54911e9d446cc,rating management,4
+62aa121dcec54911e9d446cc,rating upward mobility,5
+62aa121dcec54911e9d446cc,rating learning,3
+62aa1734f3072dd8926c4168,rating salary,7
+62aa1734f3072dd8926c4168,rating worklife balance,10
+62aa1734f3072dd8926c4168,rating coworkers,10
+62aa1734f3072dd8926c4168,rating management,10
+62aa1734f3072dd8926c4168,rating upward mobility,4
+62aa1734f3072dd8926c4168,rating learning,5
+62aa21e218134ddc75d8be11,rating salary,2
+62aa21e218134ddc75d8be11,rating worklife balance,2
+62aa21e218134ddc75d8be11,rating coworkers,2
+62aa21e218134ddc75d8be11,rating management,2
+62aa21e218134ddc75d8be11,rating upward mobility,2
+62aa21e218134ddc75d8be11,rating learning,2
+62aa29852e54c9003e5d50b5,rating salary,7
+62aa29852e54c9003e5d50b5,rating worklife balance,3
+62aa29852e54c9003e5d50b5,rating coworkers,3
+62aa29852e54c9003e5d50b5,rating management,2
+62aa29852e54c9003e5d50b5,rating upward mobility,5
+62aa29852e54c9003e5d50b5,rating learning,9
+62aa2f44bc6861bf3180fd06,rating salary,4
+62aa2f44bc6861bf3180fd06,rating worklife balance,7
+62aa2f44bc6861bf3180fd06,rating coworkers,5
+62aa2f44bc6861bf3180fd06,rating management,6
+62aa2f44bc6861bf3180fd06,rating upward mobility,4
+62aa2f44bc6861bf3180fd06,rating learning,6
+62aa3454bae91e4b8b8d3249,rating salary,5
+62aa3454bae91e4b8b8d3249,rating worklife balance,1
+62aa3454bae91e4b8b8d3249,rating coworkers,7
+62aa3454bae91e4b8b8d3249,rating management,1
+62aa3454bae91e4b8b8d3249,rating upward mobility,1
+62aa3454bae91e4b8b8d3249,rating learning,2
+62aa34e8f3072dd8926c7d56,rating salary,0
+62aa34e8f3072dd8926c7d56,rating worklife balance,7
+62aa34e8f3072dd8926c7d56,rating coworkers,1
+62aa34e8f3072dd8926c7d56,rating management,6
+62aa34e8f3072dd8926c7d56,rating upward mobility,0
+62aa34e8f3072dd8926c7d56,rating learning,0
+62aa356ff8d5efcc22020832,rating salary,4
+62aa356ff8d5efcc22020832,rating worklife balance,3
+62aa356ff8d5efcc22020832,rating coworkers,6
+62aa356ff8d5efcc22020832,rating management,7
+62aa356ff8d5efcc22020832,rating upward mobility,4
+62aa356ff8d5efcc22020832,rating learning,7
+62aa3e6824a26260274264da,rating salary,1
+62aa3e6824a26260274264da,rating worklife balance,9
+62aa3e6824a26260274264da,rating coworkers,5
+62aa3e6824a26260274264da,rating management,5
+62aa3e6824a26260274264da,rating upward mobility,1
+62aa3e6824a26260274264da,rating learning,1
+62aa4790f8d5efcc2202266e,rating salary,0
+62aa4790f8d5efcc2202266e,rating worklife balance,6
+62aa4790f8d5efcc2202266e,rating coworkers,5
+62aa4790f8d5efcc2202266e,rating management,5
+62aa4790f8d5efcc2202266e,rating upward mobility,5
+62aa4790f8d5efcc2202266e,rating learning,6
+62aa5761bc6861bf318141fc,rating salary,7
+62aa5761bc6861bf318141fc,rating worklife balance,7
+62aa5761bc6861bf318141fc,rating coworkers,5
+62aa5761bc6861bf318141fc,rating management,5
+62aa5761bc6861bf318141fc,rating upward mobility,0
+62aa5761bc6861bf318141fc,rating learning,0
+62aa5c11f408bae018f7dec0,rating salary,9
+62aa5c11f408bae018f7dec0,rating worklife balance,7
+62aa5c11f408bae018f7dec0,rating coworkers,10
+62aa5c11f408bae018f7dec0,rating management,10
+62aa5c11f408bae018f7dec0,rating upward mobility,5
+62aa5c11f408bae018f7dec0,rating learning,8
+62aa956ef8d5efcc22028e3d,rating salary,6
+62aa956ef8d5efcc22028e3d,rating worklife balance,7
+62aa956ef8d5efcc22028e3d,rating coworkers,7
+62aa956ef8d5efcc22028e3d,rating management,7
+62aa956ef8d5efcc22028e3d,rating upward mobility,5
+62aa956ef8d5efcc22028e3d,rating learning,6
+62aa95970a77c1a77f709268,rating salary,6
+62aa95970a77c1a77f709268,rating worklife balance,8
+62aa95970a77c1a77f709268,rating coworkers,7
+62aa95970a77c1a77f709268,rating management,4
+62aa95970a77c1a77f709268,rating upward mobility,4
+62aa95970a77c1a77f709268,rating learning,2
+62aa98bfcf255543173adbdc,rating salary,5
+62aa98bfcf255543173adbdc,rating worklife balance,6
+62aa98bfcf255543173adbdc,rating coworkers,10
+62aa98bfcf255543173adbdc,rating management,7
+62aa98bfcf255543173adbdc,rating upward mobility,3
+62aa98bfcf255543173adbdc,rating learning,3
+62aaa387f8d5efcc22029fcb,rating salary,7
+62aaa387f8d5efcc22029fcb,rating worklife balance,7
+62aaa387f8d5efcc22029fcb,rating coworkers,4
+62aaa387f8d5efcc22029fcb,rating management,7
+62aaa387f8d5efcc22029fcb,rating upward mobility,7
+62aaa387f8d5efcc22029fcb,rating learning,7
+62aaa86bbae91e4b8b8dc832,rating salary,0
+62aaa86bbae91e4b8b8dc832,rating worklife balance,NA
+62aaa86bbae91e4b8b8dc832,rating coworkers,NA
+62aaa86bbae91e4b8b8dc832,rating management,NA
+62aaa86bbae91e4b8b8dc832,rating upward mobility,NA
+62aaa86bbae91e4b8b8dc832,rating learning,NA
+62aacd922e54c9003e5e33c2,rating salary,3
+62aacd922e54c9003e5e33c2,rating worklife balance,3
+62aacd922e54c9003e5e33c2,rating coworkers,3
+62aacd922e54c9003e5e33c2,rating management,3
+62aacd922e54c9003e5e33c2,rating upward mobility,3
+62aacd922e54c9003e5e33c2,rating learning,3
+62aaeecd0f8c8599d5ba6923,rating salary,7
+62aaeecd0f8c8599d5ba6923,rating worklife balance,7
+62aaeecd0f8c8599d5ba6923,rating coworkers,2
+62aaeecd0f8c8599d5ba6923,rating management,2
+62aaeecd0f8c8599d5ba6923,rating upward mobility,7
+62aaeecd0f8c8599d5ba6923,rating learning,9
+62aaf8397dc029e2d6773cde,rating salary,4
+62aaf8397dc029e2d6773cde,rating worklife balance,8
+62aaf8397dc029e2d6773cde,rating coworkers,8
+62aaf8397dc029e2d6773cde,rating management,8
+62aaf8397dc029e2d6773cde,rating upward mobility,10
+62aaf8397dc029e2d6773cde,rating learning,10
+62aaff342e54c9003e5e79b8,rating salary,0
+62aaff342e54c9003e5e79b8,rating worklife balance,4
+62aaff342e54c9003e5e79b8,rating coworkers,2
+62aaff342e54c9003e5e79b8,rating management,0
+62aaff342e54c9003e5e79b8,rating upward mobility,1
+62aaff342e54c9003e5e79b8,rating learning,3
+62ab0bdc575fa3a5ae9413e5,rating salary,5
+62ab0bdc575fa3a5ae9413e5,rating worklife balance,6
+62ab0bdc575fa3a5ae9413e5,rating coworkers,5
+62ab0bdc575fa3a5ae9413e5,rating management,6
+62ab0bdc575fa3a5ae9413e5,rating upward mobility,2
+62ab0bdc575fa3a5ae9413e5,rating learning,1
+62ab1cb0cec54911e9d5d187,rating salary,8
+62ab1cb0cec54911e9d5d187,rating worklife balance,10
+62ab1cb0cec54911e9d5d187,rating coworkers,10
+62ab1cb0cec54911e9d5d187,rating management,10
+62ab1cb0cec54911e9d5d187,rating upward mobility,8
+62ab1cb0cec54911e9d5d187,rating learning,9
+62ab3e62bae91e4b8b8ebe14,rating salary,6
+62ab3e62bae91e4b8b8ebe14,rating worklife balance,9
+62ab3e62bae91e4b8b8ebe14,rating coworkers,7
+62ab3e62bae91e4b8b8ebe14,rating management,7
+62ab3e62bae91e4b8b8ebe14,rating upward mobility,5
+62ab3e62bae91e4b8b8ebe14,rating learning,8
+62ab6ab318134ddc75dabb09,rating salary,2
+62ab6ab318134ddc75dabb09,rating worklife balance,3
+62ab6ab318134ddc75dabb09,rating coworkers,4
+62ab6ab318134ddc75dabb09,rating management,5
+62ab6ab318134ddc75dabb09,rating upward mobility,3
+62ab6ab318134ddc75dabb09,rating learning,6
+62ab83a7d8c00e9f54263d2e,rating salary,3
+62ab83a7d8c00e9f54263d2e,rating worklife balance,6
+62ab83a7d8c00e9f54263d2e,rating coworkers,6
+62ab83a7d8c00e9f54263d2e,rating management,6
+62ab83a7d8c00e9f54263d2e,rating upward mobility,5
+62ab83a7d8c00e9f54263d2e,rating learning,5
+62ab8bf65d257a28a319e9cb,rating salary,0
+62ab8bf65d257a28a319e9cb,rating worklife balance,6
+62ab8bf65d257a28a319e9cb,rating coworkers,3
+62ab8bf65d257a28a319e9cb,rating management,0
+62ab8bf65d257a28a319e9cb,rating upward mobility,0
+62ab8bf65d257a28a319e9cb,rating learning,10
+62abec6cf3072dd8926f2ad0,rating salary,1
+62abec6cf3072dd8926f2ad0,rating worklife balance,6
+62abec6cf3072dd8926f2ad0,rating coworkers,2
+62abec6cf3072dd8926f2ad0,rating management,5
+62abec6cf3072dd8926f2ad0,rating upward mobility,1
+62abec6cf3072dd8926f2ad0,rating learning,0
+62abee280f8c8599d5bc246d,rating salary,8
+62abee280f8c8599d5bc246d,rating worklife balance,10
+62abee280f8c8599d5bc246d,rating coworkers,9
+62abee280f8c8599d5bc246d,rating management,10
+62abee280f8c8599d5bc246d,rating upward mobility,8
+62abee280f8c8599d5bc246d,rating learning,10
+62acc1f0cf255543173e59f7,rating salary,2
+62acc1f0cf255543173e59f7,rating worklife balance,2
+62acc1f0cf255543173e59f7,rating coworkers,5
+62acc1f0cf255543173e59f7,rating management,6
+62acc1f0cf255543173e59f7,rating upward mobility,6
+62acc1f0cf255543173e59f7,rating learning,3
+62ace61d575fa3a5ae972d57,rating salary,4
+62ace61d575fa3a5ae972d57,rating worklife balance,4
+62ace61d575fa3a5ae972d57,rating coworkers,4
+62ace61d575fa3a5ae972d57,rating management,4
+62ace61d575fa3a5ae972d57,rating upward mobility,3
+62ace61d575fa3a5ae972d57,rating learning,4
+62acf0890f8c8599d5bdce87,rating salary,4
+62acf0890f8c8599d5bdce87,rating worklife balance,5
+62acf0890f8c8599d5bdce87,rating coworkers,4
+62acf0890f8c8599d5bdce87,rating management,5
+62acf0890f8c8599d5bdce87,rating upward mobility,5
+62acf0890f8c8599d5bdce87,rating learning,3
+62ad591424a2626027471080,rating salary,2
+62ad591424a2626027471080,rating worklife balance,2
+62ad591424a2626027471080,rating coworkers,4
+62ad591424a2626027471080,rating management,5
+62ad591424a2626027471080,rating upward mobility,1
+62ad591424a2626027471080,rating learning,1
+62ade22318134ddc75de385f,rating salary,7
+62ade22318134ddc75de385f,rating worklife balance,10
+62ade22318134ddc75de385f,rating coworkers,10
+62ade22318134ddc75de385f,rating management,10
+62ade22318134ddc75de385f,rating upward mobility,7
+62ade22318134ddc75de385f,rating learning,8
+62adf26f18134ddc75de4bb4,rating salary,5
+62adf26f18134ddc75de4bb4,rating worklife balance,5
+62adf26f18134ddc75de4bb4,rating coworkers,7
+62adf26f18134ddc75de4bb4,rating management,7
+62adf26f18134ddc75de4bb4,rating upward mobility,9
+62adf26f18134ddc75de4bb4,rating learning,10
+62ae680024a2626027483ebc,rating salary,8
+62ae680024a2626027483ebc,rating worklife balance,10
+62ae680024a2626027483ebc,rating coworkers,10
+62ae680024a2626027483ebc,rating management,10
+62ae680024a2626027483ebc,rating upward mobility,10
+62ae680024a2626027483ebc,rating learning,10
+62aee103f8f756164595adb8,rating salary,7
+62aee103f8f756164595adb8,rating worklife balance,8
+62aee103f8f756164595adb8,rating coworkers,9
+62aee103f8f756164595adb8,rating management,8
+62aee103f8f756164595adb8,rating upward mobility,9
+62aee103f8f756164595adb8,rating learning,10
+62af07be7dc029e2d67cc3c8,rating salary,3
+62af07be7dc029e2d67cc3c8,rating worklife balance,9
+62af07be7dc029e2d67cc3c8,rating coworkers,9
+62af07be7dc029e2d67cc3c8,rating management,9
+62af07be7dc029e2d67cc3c8,rating upward mobility,9
+62af07be7dc029e2d67cc3c8,rating learning,9
+62af10295d257a28a31e6ff8,rating salary,0
+62af10295d257a28a31e6ff8,rating worklife balance,2
+62af10295d257a28a31e6ff8,rating coworkers,3
+62af10295d257a28a31e6ff8,rating management,2
+62af10295d257a28a31e6ff8,rating upward mobility,4
+62af10295d257a28a31e6ff8,rating learning,2
+62af387018134ddc75df894e,rating salary,8
+62af387018134ddc75df894e,rating worklife balance,8
+62af387018134ddc75df894e,rating coworkers,9
+62af387018134ddc75df894e,rating management,8
+62af387018134ddc75df894e,rating upward mobility,7
+62af387018134ddc75df894e,rating learning,7
+62af49025d257a28a31eb2f1,rating salary,2
+62af49025d257a28a31eb2f1,rating worklife balance,3
+62af49025d257a28a31eb2f1,rating coworkers,3
+62af49025d257a28a31eb2f1,rating management,5
+62af49025d257a28a31eb2f1,rating upward mobility,5
+62af49025d257a28a31eb2f1,rating learning,9
+62af53ce0f8c8599d5c04934,rating salary,3
+62af53ce0f8c8599d5c04934,rating worklife balance,9
+62af53ce0f8c8599d5c04934,rating coworkers,8
+62af53ce0f8c8599d5c04934,rating management,8
+62af53ce0f8c8599d5c04934,rating upward mobility,6
+62af53ce0f8c8599d5c04934,rating learning,6
+62af6371f8d5efcc2208e923,rating salary,0
+62af6371f8d5efcc2208e923,rating worklife balance,8
+62af6371f8d5efcc2208e923,rating coworkers,8
+62af6371f8d5efcc2208e923,rating management,8
+62af6371f8d5efcc2208e923,rating upward mobility,8
+62af6371f8d5efcc2208e923,rating learning,8
+62af9ed7f3072dd892739279,rating salary,3
+62af9ed7f3072dd892739279,rating worklife balance,9
+62af9ed7f3072dd892739279,rating coworkers,9
+62af9ed7f3072dd892739279,rating management,6
+62af9ed7f3072dd892739279,rating upward mobility,9
+62af9ed7f3072dd892739279,rating learning,4
+62b152960f8c8599d5c31550,rating salary,3
+62b152960f8c8599d5c31550,rating worklife balance,6
+62b152960f8c8599d5c31550,rating coworkers,7
+62b152960f8c8599d5c31550,rating management,5
+62b152960f8c8599d5c31550,rating upward mobility,4
+62b152960f8c8599d5c31550,rating learning,4
+62b16a5c5d257a28a321a74c,rating salary,7
+62b16a5c5d257a28a321a74c,rating worklife balance,5
+62b16a5c5d257a28a321a74c,rating coworkers,4
+62b16a5c5d257a28a321a74c,rating management,6
+62b16a5c5d257a28a321a74c,rating upward mobility,4
+62b16a5c5d257a28a321a74c,rating learning,5
+62b21d40bae91e4b8b985154,rating salary,3
+62b21d40bae91e4b8b985154,rating worklife balance,2
+62b21d40bae91e4b8b985154,rating coworkers,5
+62b21d40bae91e4b8b985154,rating management,3
+62b21d40bae91e4b8b985154,rating upward mobility,3
+62b21d40bae91e4b8b985154,rating learning,4
+62b27004bc6861bf318c9038,rating salary,4
+62b27004bc6861bf318c9038,rating worklife balance,7
+62b27004bc6861bf318c9038,rating coworkers,7
+62b27004bc6861bf318c9038,rating management,7
+62b27004bc6861bf318c9038,rating upward mobility,7
+62b27004bc6861bf318c9038,rating learning,7
+62b2ea87f8d5efcc220e3e21,rating salary,5
+62b2ea87f8d5efcc220e3e21,rating worklife balance,6
+62b2ea87f8d5efcc220e3e21,rating coworkers,6
+62b2ea87f8d5efcc220e3e21,rating management,5
+62b2ea87f8d5efcc220e3e21,rating upward mobility,4
+62b2ea87f8d5efcc220e3e21,rating learning,3
+62b35284cec54911e9e1818c,rating salary,0
+62b35284cec54911e9e1818c,rating worklife balance,0
+62b35284cec54911e9e1818c,rating coworkers,0
+62b35284cec54911e9e1818c,rating management,0
+62b35284cec54911e9e1818c,rating upward mobility,0
+62b35284cec54911e9e1818c,rating learning,0
+62b4404df31287f32e14d1c1,rating salary,5
+62b4404df31287f32e14d1c1,rating worklife balance,5
+62b4404df31287f32e14d1c1,rating coworkers,5
+62b4404df31287f32e14d1c1,rating management,5
+62b4404df31287f32e14d1c1,rating upward mobility,4
+62b4404df31287f32e14d1c1,rating learning,5
+62b525563f28f20328aeee5c,rating salary,8
+62b525563f28f20328aeee5c,rating worklife balance,5
+62b525563f28f20328aeee5c,rating coworkers,6
+62b525563f28f20328aeee5c,rating management,6
+62b525563f28f20328aeee5c,rating upward mobility,5
+62b525563f28f20328aeee5c,rating learning,7
+62b5a3e29bc428d5345f6e89,rating salary,4
+62b5a3e29bc428d5345f6e89,rating worklife balance,6
+62b5a3e29bc428d5345f6e89,rating coworkers,7
+62b5a3e29bc428d5345f6e89,rating management,7
+62b5a3e29bc428d5345f6e89,rating upward mobility,4
+62b5a3e29bc428d5345f6e89,rating learning,6
+62b71083f31287f32e189026,rating salary,1
+62b71083f31287f32e189026,rating worklife balance,2
+62b71083f31287f32e189026,rating coworkers,1
+62b71083f31287f32e189026,rating management,2
+62b71083f31287f32e189026,rating upward mobility,1
+62b71083f31287f32e189026,rating learning,2
+62b795033b026e423f287ecd,rating salary,6
+62b795033b026e423f287ecd,rating worklife balance,6
+62b795033b026e423f287ecd,rating coworkers,6
+62b795033b026e423f287ecd,rating management,6
+62b795033b026e423f287ecd,rating upward mobility,4
+62b795033b026e423f287ecd,rating learning,3
+62b89039377223ff07b80fb5,rating salary,8
+62b89039377223ff07b80fb5,rating worklife balance,7
+62b89039377223ff07b80fb5,rating coworkers,6
+62b89039377223ff07b80fb5,rating management,7
+62b89039377223ff07b80fb5,rating upward mobility,6
+62b89039377223ff07b80fb5,rating learning,8
